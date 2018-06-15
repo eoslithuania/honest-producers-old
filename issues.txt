@@ -1,2 +1,0 @@
-"social-links" : [ "https://steemit.com/@hibitfish", "https://t.me/eosfish_en", "https://twitter.com/eosfish", "https://bitcointalk.org/index.php?topic=3435235" ],
-"social-links" : [ "https://steemit.com/@hibitfish", "https://t.me/eosfish_en", "https://twitter.com/eosfish" ],
