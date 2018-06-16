@@ -7,7 +7,6 @@ fetch("https://raw.githubusercontent.com/Invertisment/eos-data/master/data.json"
                 search: true,
                 pagination: true,
                 buttonsClass: 'primary',
-                showFooter: true,
                 minimumCountColumns: 2,
                 pageList:[10, 50, 100, "All"],
                 columns: [
