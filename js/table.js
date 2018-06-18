@@ -73,19 +73,17 @@ fetch("https://raw.githubusercontent.com/Invertisment/eos-data/master/data.json"
                             sortable: true,
                             align: 'right',
                         },
-                        //{
-                        //    title: 'Social links count',
-                        //    field: 'analyzed-urls.social-links-count',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //}, {
-                        //    title: 'Popularity boost links count',
-                        //    field: 'analyzed-urls.popularity-boosters-count',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //}
-
-
+                        {
+                            title: 'Social links count',
+                            field: 'analyzed-urls.social-links-count',
+                            sortable: true,
+                            align: 'right',
+                        }, {
+                            title: 'Popularity boost links count',
+                            field: 'analyzed-urls.popularity-boosters-count',
+                            sortable: true,
+                            align: 'right',
+                        },
                         {
                             title: 'Social links',
                             field: 'analyzed-urls.social-links',
@@ -98,7 +96,7 @@ fetch("https://raw.githubusercontent.com/Invertisment/eos-data/master/data.json"
                             sortable: true,
                             align: 'right',
                             formatter: multilinkFormatter,
-                        }
+                        },
 
                     ]]
             });

@@ -9,7 +9,9 @@
     "relative-links-count" : "Links that link to the website itself; Helps to get sense how big the webpage is",
     "duplicate-urls" : "List of urls that were included more than once",
     "social-links" : "List of social network urls",
-    "popularity-boosters" : "Various cultural and top webpages. Used for search rank boosting. Dang!"
+    "social-links-count" : "Count of social network urls",
+    "popularity-boosters" : "Various cultural and top webpages. Used for search rank boosting. Dang!",
+    "popularity-boosters-count" : "Count of popularity-boosters links"
   },
   "p-ram-amounts" : "Strings with mentions of RAM"
 }
