@@ -1,5 +1,5 @@
 {
-  "snapshot-date-utc" : "2018-06-18T23:13:04.607039+03:00",
+  "snapshot-date-utc" : "2018-06-18T23:27:09.359538+03:00",
   "block-producers" : [ {
     "bp-header" : {
       "owner" : "123singapore",
@@ -24,7 +24,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "1eosbattles1",
@@ -49,7 +50,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "acroeos12345",
@@ -74,7 +76,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "activeeoscom",
@@ -99,7 +102,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "alohaeosprod",
@@ -124,7 +128,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "argentinaeos",
@@ -149,7 +154,8 @@
       "popularity-boosters" : [ "https://www.eosfaucet.io", "http://jungle.cryptolions.io:9898/monitor/" ],
       "popularity-boosters-count" : 2
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "atticlabeosb",
@@ -174,7 +180,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "atticlabeosp",
@@ -199,7 +206,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "aus1genereos",
@@ -224,7 +232,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "bchainlabeos",
@@ -249,7 +258,8 @@
       "popularity-boosters" : [ "https://icokit.me/", "https://tickerry.com/", "https://btcu.biz/main", "http://unit.city/" ],
       "popularity-boosters-count" : 4
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "bitcoineosfu",
@@ -274,7 +284,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "bitcoingod11",
@@ -299,7 +310,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "bitfinexeos1",
@@ -324,7 +336,8 @@
       "popularity-boosters" : [ "https://bitfinex.statuspage.io/", "http://docs.bitfinex.com/", "http://blog.bitfinex.com/", "https://support.bitfinex.com/", "http://blog.bitfinex.com/newsletter/", "http://blog.bitfinex.com/category/changelogs/", "http://docs.bitfinex.com", "https://itunes.apple.com/us/app/bitfinex/id1079033582", "https://play.google.com/store/apps/details?id=com.bitfinex.bfxapp", "https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens" ],
       "popularity-boosters-count" : 10
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "bitspacenode",
@@ -349,7 +362,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "blockcceosio",
@@ -374,7 +388,8 @@
       "popularity-boosters" : [ "https://block.cc/" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "blockchained",
@@ -399,7 +414,8 @@
       "popularity-boosters" : [ "https://rudex.org/", "myeoswallet.app", "https://hashtelegraph.com/", "eosexplorer.app", "http://golos.io/@blockchained", "https://gate108.org/" ],
       "popularity-boosters-count" : 6
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "blockeosioio",
@@ -424,7 +440,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "blockgenesys",
@@ -449,7 +466,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "blockgenicbp",
@@ -474,7 +492,8 @@
       "popularity-boosters" : [ "https://blockgenic.website/" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "blockmatrix1",
@@ -499,7 +518,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "blockpro1eos",
@@ -524,7 +544,8 @@
       "popularity-boosters" : [ "http://www.twitter.com", "http://plus.google.com", "http://www.facebook.com", "http://www.linkedin.com" ],
       "popularity-boosters-count" : 4
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "blocksmithio",
@@ -549,7 +570,8 @@
       "popularity-boosters" : [ "https://themeisle.com/themes/hestia/", "http://wordpress.org", "https://tulipconf.com/" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "bp2bp2bp2bp2",
@@ -574,7 +596,8 @@
       "popularity-boosters" : [ "https://www.plesk.com", "https://www.plesk.com/", "http://forum.odin.com/", "http://www.odin.com", "http://www.odin.com/", "https://www.plesk.com/blog/", "http://kb.odin.com/" ],
       "popularity-boosters-count" : 7
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "bpkhmereoskh",
@@ -599,7 +622,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "bpnodecanada",
@@ -624,7 +648,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "btctothemoon",
@@ -649,7 +674,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "buildteameos",
@@ -674,7 +700,8 @@
       "popularity-boosters" : [ "http://www.bitshares.org", "https://privex.io?r=buildteam", "https://Steemvoter.com", "http://steemsports.com", "http://Minnowbooster.com", "https://socialwallet.io", "https://duncancotterill.com", "http://www.minnowbooster.net", "http://www.Steemvoter.com" ],
       "popularity-boosters-count" : 9
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "candyairdrop",
@@ -699,7 +726,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "chainclubeos",
@@ -724,7 +752,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "chainriftbp1",
@@ -749,7 +778,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'https://eospublic.chainrift.com' ex-type: 'class java.io.FileNotFoundException'"
   }, {
     "bp-header" : {
       "owner" : "chainriftxxx",
@@ -774,7 +804,8 @@
       "popularity-boosters" : [ "https://www.chainrift.com/", "https://21mil.com/", "https://cryptoinsider.21mil.com/" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "cobowalletbp",
@@ -799,7 +830,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "costaricaeos",
@@ -824,7 +856,8 @@
       "popularity-boosters" : [ "https://www.cinde.org/en", "https://api.eosio.cr/v1/chain/get_info", "https://discordapp.com/invite/SXBeDAT" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "cryptolions1",
@@ -849,7 +882,8 @@
       "popularity-boosters" : [ "https://geroj.com/", "https://hacken.io/", "http://eosnetworkmonitor.io/", "https://eossweden.se/", "https://tokensale.paytomat.com/", "https://mises.org/profile/roman-skaskiw", "http://dailyanarchist.com/2013/11/04/clearing-up-the-bitcoin-versus-gold-debate/" ],
       "popularity-boosters-count" : 7
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "csxcommunity",
@@ -874,7 +908,8 @@
       "popularity-boosters" : [ "855-9-CSX.COM", "https://wyobiz.wy.gov/Business/FilingDetails.aspx?eFNum=049075178157217104243064092010142191132183135056", "https://www.yellowpages.com/cheyenne-wy/mip/csx-corp-503916229" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "cypherglasss",
@@ -899,7 +934,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "daoeosbpbwin",
@@ -924,7 +960,8 @@
       "popularity-boosters" : [ "http://support.weixin.qq.com/cgi-bin/mmsupport-bin/addchatroombyinvite?ticket=ARAJDmcZ9v1eorwGsdwLWQ%3D%3D", "http://fb.com/daoeosbp", "http://m1page.com/s/2vpxqj" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "deneosioblck",
@@ -949,7 +986,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'java.security.cert.CertificateException: Illegal given domain name: deneos_io.keybase.pub' ex-type: 'class javax.net.ssl.SSLHandshakeException'"
   }, {
     "bp-header" : {
       "owner" : "disfundbpeos",
@@ -974,7 +1012,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "dposclubprod",
@@ -999,7 +1038,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "dutcheosxxxx",
@@ -1024,7 +1064,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target' ex-type: 'class javax.net.ssl.SSLHandshakeException'"
   }, {
     "bp-header" : {
       "owner" : "eos42freedom",
@@ -1049,7 +1090,8 @@
       "popularity-boosters" : [ "https://blog.eos42.io/how-to-vote-on-the-eos-blockchain/", "http://blog.eos42.io" ],
       "popularity-boosters-count" : 2
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosadddddddd",
@@ -1074,7 +1116,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosafricaone",
@@ -1099,7 +1142,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosalpineski",
@@ -1124,7 +1168,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'https://cryptopacific.keybase.pub/' ex-type: 'class java.io.FileNotFoundException'"
   }, {
     "bp-header" : {
       "owner" : "eosamericas2",
@@ -1149,7 +1194,8 @@
       "popularity-boosters" : [ "index.cn.html", "index.kr.html", "index.es.html", "index.fr.html", "index.br.html", "https://eosamericas.com/voting" ],
       "popularity-boosters-count" : 6
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosamsterdam",
@@ -1174,7 +1220,8 @@
       "popularity-boosters" : [ "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am6/", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am3/", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am8/", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am7/", "http://pensiontechsummit.com/", "https://www.kahuna.nl/en/" ],
       "popularity-boosters-count" : 6
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosantpoolbp",
@@ -1199,7 +1246,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosarmyioant",
@@ -1212,19 +1260,20 @@
       "location" : 0
     },
     "summary" : {
-      "img-count" : 20,
-      "p-count" : 21,
-      "a-count" : 29
+      "img-count" : 0,
+      "p-count" : 0,
+      "a-count" : 0
     },
     "analyzed-urls" : {
-      "relative-links-count" : 23,
+      "relative-links-count" : 0,
       "duplicate-urls" : null,
-      "social-links" : [ "https://t.me/joinchat/G5dVyg9NpPfQraDPkX_Pzw", "https://steemit.com/@eosarmy" ],
-      "social-links-count" : 2,
-      "popularity-boosters" : [ "http://www.medbroadcast.com/", "https://www.top500.org/list/2017/11/" ],
-      "popularity-boosters-count" : 2
+      "social-links" : [ ],
+      "social-links-count" : 0,
+      "popularity-boosters" : [ ],
+      "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'Server returned HTTP response code: 429 for URL: https://eosarmy.io' ex-type: 'class java.io.IOException'"
   }, {
     "bp-header" : {
       "owner" : "eosasia11111",
@@ -1249,7 +1298,8 @@
       "popularity-boosters" : [ "https://segmentfault.com/hackathon-2018", "https://vote.eosasia.one", "https://bp.eosgo.io", "https://www.txtnet.io", "http://eos-link.com/", "https://www.eosgems.io", "https://eos.io" ],
       "popularity-boosters-count" : 7
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosastrology",
@@ -1274,7 +1324,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosaustralia",
@@ -1299,7 +1350,8 @@
       "popularity-boosters" : [ "https://www.genereos.io/" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosauthority",
@@ -1324,7 +1376,8 @@
       "popularity-boosters" : [ "https://www.webdigi.co.uk" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosbarcelona",
@@ -1349,7 +1402,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosbattlenet",
@@ -1374,7 +1428,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosbeijingbp",
@@ -1399,7 +1454,8 @@
       "popularity-boosters" : [ "http://ipads.se.sjtu.edu.cn/", "http://three.modern.themerella.com/about/", "http://three.modern.themerella.com/", "https://www.atoken.com/", "https://www.bituniverse.org/", "http://three.modern.themerella.com/contact/" ],
       "popularity-boosters-count" : 6
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosbepalsafe",
@@ -1424,7 +1480,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosbixinboot",
@@ -1449,7 +1506,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'Server returned HTTP response code: 504 for URL: http://en.eosbixin.com' ex-type: 'class java.io.IOException'"
   }, {
     "bp-header" : {
       "owner" : "eosblockzero",
@@ -1474,7 +1532,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosbutterfly",
@@ -1499,7 +1558,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoscafeblock",
@@ -1524,7 +1584,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoscanadacom",
@@ -1549,7 +1610,8 @@
       "popularity-boosters" : [ "https://diagram.ca/", "https://bihu.com/people/460474", "en/privacy-policy?hsLang=en" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoscannonchn",
@@ -1574,7 +1636,8 @@
       "popularity-boosters" : [ "https://www.eosio.sg/", "https://bihu.com/people/334485/?index=1", "https://cybex.io/", "https://meet.one/", "https://eosnation.io/", "https://www.wancloud.io/", "http://eoseoul.io/" ],
       "popularity-boosters-count" : 7
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoschaindata",
@@ -1599,7 +1662,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoschristian",
@@ -1624,7 +1688,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosclockwise",
@@ -1649,7 +1714,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoscocoshost",
@@ -1674,7 +1740,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoscollegeus",
@@ -1699,7 +1766,8 @@
       "popularity-boosters" : [ "https://eosblock.co/", "https://dapphub.co/", "https://eos.io/", "http://chainews.io/" ],
       "popularity-boosters-count" : 4
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoscrowdsale",
@@ -1724,7 +1792,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoscube11111",
@@ -1749,7 +1818,8 @@
       "popularity-boosters" : [ "https://steemit.com/", "https://eos.io/", "http://www.block.one/" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoscybexiobp",
@@ -1774,7 +1844,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosdacserver",
@@ -1799,7 +1870,8 @@
       "popularity-boosters" : [ "https://scatter-eos.com/", "https://eos.io/" ],
       "popularity-boosters-count" : 2
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosdailynews",
@@ -1824,7 +1896,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosdanhuausa",
@@ -1849,7 +1922,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosdelivered",
@@ -1874,7 +1948,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosdirectory",
@@ -1899,7 +1974,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosdublinwow",
@@ -1924,7 +2000,8 @@
       "popularity-boosters" : [ "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/", "https://everipedia.org/wiki/eos-dublin/", "http://sonatasys.com/sonataHome.shtml" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosecoeoseco",
@@ -1949,7 +2026,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoseouldotio",
@@ -1974,7 +2052,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosfishrocks",
@@ -1999,7 +2078,8 @@
       "popularity-boosters" : [ "http://bit.fish" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosflareiobp",
@@ -2024,7 +2104,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosflytomars",
@@ -2037,19 +2118,20 @@
       "location" : 0
     },
     "summary" : {
-      "img-count" : 0,
-      "p-count" : 0,
-      "a-count" : 0
+      "img-count" : 7,
+      "p-count" : 35,
+      "a-count" : 13
     },
     "analyzed-urls" : {
-      "relative-links-count" : 0,
+      "relative-links-count" : 10,
       "duplicate-urls" : null,
       "social-links" : [ ],
       "social-links-count" : 0,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosfreelance",
@@ -2074,7 +2156,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosfreemason",
@@ -2099,7 +2182,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosfutureldn",
@@ -2124,7 +2208,8 @@
       "popularity-boosters" : [ "http://wordpress.org/", "https://colorlib.com/", "https://automattic.com/cookies/" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosgalaxybp1",
@@ -2149,7 +2234,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosgamesboot",
@@ -2174,7 +2260,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosgenblockp",
@@ -2199,7 +2286,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosgermanybp",
@@ -2224,7 +2312,8 @@
       "popularity-boosters" : [ "https://www.xing.com/social_plugins/share?url=https%3A%2F%2Feosgermany.one%2F", "?s=", "sms:?&body=https%3A%2F%2Feosgermany.one%2F", "http://ct.de/-2467514" ],
       "popularity-boosters-count" : 4
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosgreeniobp",
@@ -2249,7 +2338,8 @@
       "popularity-boosters" : [ "https://mobirise.me/q", "https://mobirise.com/" ],
       "popularity-boosters-count" : 2
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoshandshake",
@@ -2274,7 +2364,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoshcchealth",
@@ -2299,7 +2390,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoshenzhenio",
@@ -2324,7 +2416,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosholdings1",
@@ -2349,7 +2442,8 @@
       "popularity-boosters" : [ "http://www.eosland.ca" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoshorizon11",
@@ -2374,7 +2468,8 @@
       "popularity-boosters" : [ "http://eosflare.io/account/eoshorizon11", "http://eosvoter.eosphere.io/", "https://unsplash.com/@nathananderson" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoshuobipool",
@@ -2399,7 +2494,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosindiaiobp",
@@ -2424,7 +2520,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosiodetroit",
@@ -2449,7 +2546,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosiomeetone",
@@ -2474,7 +2572,8 @@
       "popularity-boosters" : [ "http://top.one", "https://mp.weixin.qq.com/s/HrlFws0fUKU5AEC982gakw", "http://bystake.com", "https://mp.weixin.qq.com/s/vblQcI-Hx0niO8bFMtWg_g", "https://mp.weixin.qq.com/s/0o5vDVI7XGgbD7VgxHsjGg", "https://chrome.google.com/webstore/detail/eos-kit/hiaddgihenoiohaoelnclcbjgjjflfhc", "http://ipfs.fund", "https://mp.weixin.qq.com/s/AoJW4-DjUTE8KuW2hT8a-Q", "http://eosio.sg/", "https://eosnation.io/", "https://mp.weixin.qq.com/s/UtijibsoQSJDvdg4vJxa0g", "https://chain.pro", "https://eosindex.io/", "https://mp.weixin.qq.com/s/56smffJc-ddId_A-DONrmg", "https://www.slowmist.com/", "http://eoscannon.io/", "https://mp.weixin.qq.com/s/oM28c196Psdh05Etz3ozvw", "https://new.one", "https://scholartestnet.github.io/" ],
       "popularity-boosters-count" : 19
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosiomyanmar",
@@ -2499,7 +2598,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosiosg11111",
@@ -2524,7 +2624,8 @@
       "popularity-boosters" : [ "https://eoseoul.io/", "https://eosauthority.com/", "https://meet.one/", "https://eosnation.io/", "https://eoscannon.io/" ],
       "popularity-boosters-count" : 5
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosisgravity",
@@ -2549,7 +2650,8 @@
       "popularity-boosters" : [ "http://linkedin.com", "http://47.52.132.92/?page_id=1989", "http://facebook.com" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosjapanclub",
@@ -2574,7 +2676,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'Server returned HTTP response code: 504 for URL: http://www.eosjapan.co.jp' ex-type: 'class java.io.IOException'"
   }, {
     "bp-header" : {
       "owner" : "eoskathmandu",
@@ -2599,7 +2702,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoslaomaocom",
@@ -2624,7 +2728,8 @@
       "popularity-boosters" : [ "?lang=cn", "?lang=en" ],
       "popularity-boosters-count" : 2
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoslawyereos",
@@ -2649,7 +2754,8 @@
       "popularity-boosters" : [ ">https://EOS.ROCKS", "https://bitmodel.io", "https://EOS.CASA" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosliquideos",
@@ -2674,7 +2780,8 @@
       "popularity-boosters" : [ "https://scatter-eos.com/", "https://storage.googleapis.com/liquideos/voting-app/builds/liquideos-vote-windows-1.0.0.zip", "https://www.liquideos.com/", "https://liquideos.com", "https://storage.googleapis.com/liquideos/voting-app/builds/liquideos-vote-macos-1.0.0.zip" ],
       "popularity-boosters-count" : 5
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoslithuania",
@@ -2699,7 +2806,8 @@
       "popularity-boosters" : [ "https://bcgateway.eu/", "https://cryptoeconomy.world", "https://tsociety.io/ ", "http://thenuclearbunker.com" ],
       "popularity-boosters-count" : 4
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoslovebirds",
@@ -2724,7 +2832,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosmedinodes",
@@ -2749,7 +2858,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosmesodotio",
@@ -2774,7 +2884,8 @@
       "popularity-boosters" : [ "https://ceiba.io/", "https://open.spotify.com/artist/6mNU9vluzlv9beSYBipwCw", "http://www.kingo.energy", "http://e10.rocks/", "https://open.spotify.com/artist/7IfawGrEmlHmBW9gqTUd8E", "https://www.imdb.com/name/nm3084854/", "http://www.piafp.com", "http://www.soundcloud.com/andregamez", "http://www.cesa.com.gt", "http://www.hybricoenergy.com", "http://www.e10.rocks", "https://en.ufm.edu/catedraticos/carlos-newbill/", "http://www.grupooeg.com" ],
       "popularity-boosters-count" : 13
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosmetaliobp",
@@ -2799,7 +2910,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosmiamidade",
@@ -2824,7 +2936,8 @@
       "popularity-boosters" : [ "https://www.cnbc.com/2018/05/31/a-blockchain-start-up-just-raised-4-billion-without-a-live-product.html", "https://www.wsj.com/articles/investors-bet-4-billion-on-a-cryptocurrency-startup-1527591600", "https://eos.io" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosmotioneos",
@@ -2849,7 +2962,8 @@
       "popularity-boosters" : [ "http://www.evatargames.com/" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosmusicians",
@@ -2874,7 +2988,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosnairobike",
@@ -2899,7 +3014,8 @@
       "popularity-boosters" : [ "https://extendthemes.com/go/built-with-mesmerize/" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosnationftw",
@@ -2924,7 +3040,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosnetworkio",
@@ -2949,7 +3066,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosnewyorkio",
@@ -2974,7 +3092,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosnewzealbp",
@@ -2999,7 +3118,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'Server returned HTTP response code: 503 for URL: https://eosnewzealand.com/bp_info.json' ex-type: 'class java.io.IOException'"
   }, {
     "bp-header" : {
       "owner" : "eosninecatbp",
@@ -3024,7 +3144,8 @@
       "popularity-boosters" : [ "https://eoswalletpro.com/", "http://vote.libertyblock.io/" ],
       "popularity-boosters-count" : 2
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosninetiess",
@@ -3049,7 +3170,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosnodeonebp",
@@ -3074,7 +3196,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosonoeosono",
@@ -3099,7 +3222,8 @@
       "popularity-boosters" : [ "http://36kr.com/p/5117389.html", "http://www.inblockchain.com/", "JavaScript:void(0);", "http://www.pinevc.com.cn/", "https://view.inews.qq.com/a/TEC2018013100594903", "http://www.chinagrowthcapital.com/" ],
       "popularity-boosters-count" : 6
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosorderbook",
@@ -3124,7 +3248,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eospaceioeos",
@@ -3149,7 +3274,8 @@
       "popularity-boosters" : [ "https://eosdevs.io", "https://eosblock.co/", "https://mp.weixin.qq.com/s/atZqseld5uIHI-vz8XTuqQ", "https://eosblock.co", "https://dapphub.co", "https://dapphub.co/", "https://eos.io/", "http://chainews.io/", "https://eosdevs.io/" ],
       "popularity-boosters-count" : 9
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eospacificbp",
@@ -3174,7 +3300,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eospaygatebp",
@@ -3199,7 +3326,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosphereiobp",
@@ -3224,7 +3352,8 @@
       "popularity-boosters" : [ "http://eosslc.com/monitor/", "https://connectonline.asic.gov.au/RegistrySearch/faces/landing/panelSearch.jspx?searchTab=search&searchText=624+333+035&searchType=OrgAndBusNm&_adf.ctrl-state=6b1hb27c8_12", "https://eosvoter.eosphere.io/", "https://www.chintai-eos.io", "http://superhero3monitor.eosgreen.io/", "https://www.interwebcoding.com", "http://jungle.cryptolions.io:9898/monitor/" ],
       "popularity-boosters-count" : 7
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosphorusdac",
@@ -3249,7 +3378,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'Connection timed out (Connection timed out)' ex-type: 'class java.net.ConnectException'"
   }, {
     "bp-header" : {
       "owner" : "eosplaneprod",
@@ -3274,7 +3404,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target' ex-type: 'class javax.net.ssl.SSLHandshakeException'"
   }, {
     "bp-header" : {
       "owner" : "eospowerball",
@@ -3299,7 +3430,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosprincipal",
@@ -3324,7 +3456,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eospromotion",
@@ -3349,7 +3482,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosqiobpoops",
@@ -3374,7 +3508,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'Connection timed out (Connection timed out)' ex-type: 'class java.net.ConnectException'"
   }, {
     "bp-header" : {
       "owner" : "eosqiogogogo",
@@ -3399,7 +3534,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'Connection timed out (Connection timed out)' ex-type: 'class java.net.ConnectException'"
   }, {
     "bp-header" : {
       "owner" : "eosraychains",
@@ -3424,7 +3560,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target' ex-type: 'class javax.net.ssl.SSLHandshakeException'"
   }, {
     "bp-header" : {
       "owner" : "eosrealbpcsg",
@@ -3449,7 +3586,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosriobrazil",
@@ -3474,7 +3612,8 @@
       "popularity-boosters" : [ "http://eosslc.com/monitor/", "http://superhero3monitor.eosgreen.io", "http://jungle.cryptolions.io:9898/monitor/" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosrochester",
@@ -3499,7 +3638,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosromania22",
@@ -3524,7 +3664,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eossafeguard",
@@ -3549,7 +3690,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eossafevault",
@@ -3574,7 +3716,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eossmartfund",
@@ -3599,7 +3742,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eossocalprod",
@@ -3624,7 +3768,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosstarcraft",
@@ -3649,7 +3794,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosstarlight",
@@ -3674,7 +3820,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosstorebest",
@@ -3699,7 +3846,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eossv12eossv",
@@ -3724,7 +3872,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosswedenorg",
@@ -3749,7 +3898,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eostark11111",
@@ -3774,7 +3924,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'null' ex-type: 'class java.lang.NullPointerException'"
   }, {
     "bp-header" : {
       "owner" : "eosteaeostea",
@@ -3799,7 +3950,8 @@
       "popularity-boosters" : [ "https://node.eosfans.io/", "https://eosmonitor.io", "https://eosfans.io", "http://www.etoken.me/" ],
       "popularity-boosters-count" : 4
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eostexasserv",
@@ -3824,7 +3976,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosthushuimu",
@@ -3849,7 +4002,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eostimestamp",
@@ -3874,7 +4028,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eostitanprod",
@@ -3899,7 +4054,8 @@
       "popularity-boosters" : [ "https://safenetwork.org/", "https://www.seasteading.org/", "https://www.scuttlebutt.nz/", "http://www.supermicro.com/products/SuperBlade/module/SBI-7127R-SH.cfm", "https://www.securegroup.com/infrastructure", "https://montreal.safenetwork.org/", "https://datproject.org/", "https://beakerbrowser.com/", "https://ipfs.io/", "https://safenetforum.org/", "https://zeronet.io/" ],
       "popularity-boosters-count" : 11
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eostrademark",
@@ -3924,7 +4080,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosunion1111",
@@ -3949,7 +4106,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosvancouver",
@@ -3974,7 +4132,8 @@
       "popularity-boosters" : [ "https://www.udacity.com/", "http://eosvan.io/", "https://www.bcit.ca/", "https://www.udemy.com/", "https://www.ubc.ca/", "https://www.sfu.ca/", "http://dev.cryptolions.io/mainnet/" ],
       "popularity-boosters-count" : 7
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosvenezuela",
@@ -3999,7 +4158,8 @@
       "popularity-boosters" : [ "https://www.behance.net/Mobirise", "http://dev.cryptolions.io", "https://mobirise.me/k", "https://eos.io", "https://mobirise.com" ],
       "popularity-boosters-count" : 5
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosvibesbloc",
@@ -4024,7 +4184,8 @@
       "popularity-boosters" : [ "https://eos.io" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosvillagebp",
@@ -4049,7 +4210,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoswancloud1",
@@ -4074,7 +4236,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoswenzhoubp",
@@ -4099,7 +4262,8 @@
       "popularity-boosters" : [ "https://www.shiyin.net/", "https://www.bepal.pro/", "https://steemit.com/", "https://eos.io/", "http://www.block.one/", "http://bit2.beojk.cn/web/v1/web/download" ],
       "popularity-boosters-count" : 6
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosworkshops",
@@ -4124,7 +4288,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosworkspace",
@@ -4149,7 +4314,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoswtzeoswtz",
@@ -4174,7 +4340,8 @@
       "popularity-boosters" : [ "http://testnet.eoswtz.com", "https://steemit.com/", "http://testnet.eoswtz.com/v1/chain/get_info", "https://eos.io/", "http://www.block.one/" ],
       "popularity-boosters-count" : 5
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosxsinanode",
@@ -4199,7 +4366,8 @@
       "popularity-boosters" : [ "https://eos.io/" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosyosemitex",
@@ -4224,7 +4392,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosyskoreabp",
@@ -4249,7 +4418,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eoszonrussia",
@@ -4274,7 +4444,8 @@
       "popularity-boosters" : [ "https://golos.io/@eoszon" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "foodtokeneos",
@@ -4299,7 +4470,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44timjqguge",
@@ -4324,7 +4496,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44timjvgage",
@@ -4349,7 +4522,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tinjxgyge",
@@ -4374,7 +4548,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tkmbyg4ge",
@@ -4399,7 +4574,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomjvgyge",
@@ -4424,7 +4600,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomjxg4ge",
@@ -4449,7 +4626,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomjxguge",
@@ -4474,7 +4652,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomrxhage",
@@ -4499,7 +4678,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomrxhege",
@@ -4524,7 +4704,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomrygege",
@@ -4549,7 +4730,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomrygige",
@@ -4574,7 +4756,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomrygmge",
@@ -4599,7 +4782,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomzugige",
@@ -4624,7 +4808,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomzugmge",
@@ -4649,7 +4834,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tomzugqge",
@@ -4674,7 +4860,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tsnrugege",
@@ -4699,7 +4886,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tsnrugyge",
@@ -4724,7 +4912,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tsnrvhege",
@@ -4749,7 +4938,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tsnrwg4ge",
@@ -4774,7 +4964,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tsnrwgage",
@@ -4799,7 +4990,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tsnrwgege",
@@ -4824,7 +5016,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tsnrwgyge",
@@ -4849,7 +5042,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "g44tsnrwhege",
@@ -4874,7 +5068,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "geosoneforbp",
@@ -4899,7 +5094,8 @@
       "popularity-boosters" : [ "https://jq.qq.com/?_wv=1027&k=5XTF3SA" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "germaneostop",
@@ -4924,7 +5120,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "gerryduan123",
@@ -4949,7 +5146,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "gqydmnbyguge",
@@ -4974,7 +5172,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "gqztenjzgege",
@@ -4999,7 +5198,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'Server returned HTTP response code: 504 for URL: https://steemit.com/@nadejde' ex-type: 'class java.io.IOException'"
   }, {
     "bp-header" : {
       "owner" : "gu2tembqgage",
@@ -5024,7 +5224,8 @@
       "popularity-boosters" : [ "https://iohk.io/", "en/ouroboros/", "https://iohk.io/projects/cardano/", "https://daedaluswallet.io", "https://cardanodocs.com/introduction/", "en/terms-of-use", "https://forum.cardano.org/", "https://help.cardano.org/", "https://staking.cardano.org/", "http://cardanofoundation.org/", "https://cardanofoundation.org/", "http://emurgo.io/", "https://forum.cardano.org", "https://cardanoroadmap.com/", "https://whycardano.com/", "en/cookie-policy", "https://cardanoexplorer.com/", "http://daedaluswallet.io", "en/privacy-policy", "https://emurgo.io" ],
       "popularity-boosters-count" : 20
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "gu3dambwgyge",
@@ -5049,7 +5250,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "guytmmrrgmge",
@@ -5074,7 +5276,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'Connection refused (Connection refused)' ex-type: 'class java.net.ConnectException'"
   }, {
     "bp-header" : {
       "owner" : "gy3dqnjtgyge",
@@ -5099,7 +5302,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "gyzdeobshege",
@@ -5124,7 +5328,8 @@
       "popularity-boosters" : [ "https://www.eoscanada.com" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "ha3dkojwguge",
@@ -5149,7 +5354,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'null' ex-type: 'class java.lang.NullPointerException'"
   }, {
     "bp-header" : {
       "owner" : "ha4daobxg4ge",
@@ -5174,7 +5380,8 @@
       "popularity-boosters" : [ "http://www.medishares.org", "http://www.medishares.org/wallet" ],
       "popularity-boosters-count" : 2
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydimzzgqge",
@@ -5199,7 +5406,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinbrgage",
@@ -5224,7 +5432,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinbtgage",
@@ -5249,7 +5458,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinbzgyge",
@@ -5274,7 +5484,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjqgige",
@@ -5299,7 +5510,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjqgyge",
@@ -5324,7 +5536,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjqhege",
@@ -5349,7 +5562,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjsgage",
@@ -5374,7 +5588,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjtg4ge",
@@ -5399,7 +5614,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjtgege",
@@ -5424,7 +5640,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjtgige",
@@ -5449,7 +5666,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjug4ge",
@@ -5474,7 +5692,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjvg4ge",
@@ -5499,7 +5718,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjwgege",
@@ -5524,7 +5744,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjxgige",
@@ -5549,7 +5770,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjxhage",
@@ -5574,7 +5796,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjyg4ge",
@@ -5599,7 +5822,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinjygmge",
@@ -5624,7 +5848,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinrqgege",
@@ -5649,7 +5874,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinrugege",
@@ -5674,7 +5900,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinzqhege",
@@ -5699,7 +5926,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinzrgmge",
@@ -5724,7 +5952,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinzsguge",
@@ -5749,7 +5978,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinztgqge",
@@ -5774,7 +6004,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinzugige",
@@ -5799,7 +6030,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinzwguge",
@@ -5824,7 +6056,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydinzxgyge",
@@ -5849,7 +6082,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiobqgmge",
@@ -5874,7 +6108,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiobtg4ge",
@@ -5899,7 +6134,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiobvhage",
@@ -5924,7 +6160,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiobwguge",
@@ -5949,7 +6186,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiobxgyge",
@@ -5974,7 +6212,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiobyguge",
@@ -5999,7 +6238,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojqg4ge",
@@ -6024,7 +6264,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojqgige",
@@ -6049,7 +6290,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojrhage",
@@ -6074,7 +6316,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojugige",
@@ -6099,7 +6342,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojvgage",
@@ -6124,7 +6368,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojwg4ge",
@@ -6149,7 +6394,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojwgege",
@@ -6174,7 +6420,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojwgige",
@@ -6199,7 +6446,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojwgmge",
@@ -6224,7 +6472,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojwgqge",
@@ -6249,7 +6498,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojwguge",
@@ -6274,7 +6524,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojwgyge",
@@ -6299,7 +6550,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojwhage",
@@ -6324,7 +6576,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojwhege",
@@ -6349,7 +6602,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojxg4ge",
@@ -6374,7 +6628,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojxgage",
@@ -6399,7 +6654,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojxgege",
@@ -6424,7 +6680,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojxgige",
@@ -6449,7 +6706,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojxgmge",
@@ -6474,7 +6732,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojxgqge",
@@ -6499,7 +6758,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojxguge",
@@ -6524,7 +6784,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojxgyge",
@@ -6549,7 +6810,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojxhage",
@@ -6574,7 +6836,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojyg4ge",
@@ -6599,7 +6862,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojygage",
@@ -6624,7 +6888,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojygege",
@@ -6649,7 +6914,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojygige",
@@ -6674,7 +6940,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojygmge",
@@ -6699,7 +6966,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojygqge",
@@ -6724,7 +6992,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojyguge",
@@ -6749,7 +7018,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojygyge",
@@ -6774,7 +7044,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojyhage",
@@ -6799,7 +7070,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojyhege",
@@ -6824,7 +7096,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojzg4ge",
@@ -6849,7 +7122,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojzgage",
@@ -6874,7 +7148,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojzgege",
@@ -6899,7 +7174,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojzgige",
@@ -6924,7 +7200,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojzgqge",
@@ -6949,7 +7226,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojzguge",
@@ -6974,7 +7252,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojzgyge",
@@ -6999,7 +7278,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojzhage",
@@ -7024,7 +7304,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydiojzhege",
@@ -7049,7 +7330,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydkmbqgage",
@@ -7074,7 +7356,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydkmbqgege",
@@ -7099,7 +7382,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydkmbqgige",
@@ -7124,7 +7408,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "haydkmbqgmge",
@@ -7149,7 +7434,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "helloeoscnbp",
@@ -7174,7 +7460,8 @@
       "popularity-boosters" : [ "https://www.helloeos.one/", "https://www.eos.io/", "en/", "http://m.helloeos.one/", "https://www.bitask.org/" ],
       "popularity-boosters-count" : 5
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "hexlantttttt",
@@ -7199,7 +7486,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "hezdenbsg4ge",
@@ -7224,7 +7512,8 @@
       "popularity-boosters" : [ "https://maps.google.lt/maps?hl=lt&tab=wl", "http://www.google.lt/intl/lt/ads/", "https://www.google.lt/intl/lt/options/", "http://www.google.lt/intl/lt/services/", "https://www.google.lt/imghp?hl=lt&tab=wi", "https://news.google.lt/nwshp?hl=lt&tab=wn", "http://www.google.lt/history/optout?hl=lt" ],
       "popularity-boosters-count" : 7
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "hezdsnbsguge",
@@ -7249,7 +7538,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "hezdsnbshege",
@@ -7274,7 +7564,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "hkeoshkeosbp",
@@ -7299,7 +7590,8 @@
       "popularity-boosters" : [ "https://www.tradingview.com/symbols/BITFINEX-EOSUSD/" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "iamtheeosabp",
@@ -7324,7 +7616,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "jedaaaaaaaaa",
@@ -7349,7 +7642,8 @@
       "popularity-boosters" : [ "https://bitcoin-news.tokyo/profile/", "https://coin-otaku.com", "http://japanfintech.org", "http://www.eosjapan.info/?p=299", "http://www.eosjapan.info/", "http://www.eosjapan.info/?p=271", "http://www.eosjapan.info/?p=319", "http://www.eosjapan.info/?cat=3" ],
       "popularity-boosters-count" : 8
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "jrrcryptoeos",
@@ -7374,7 +7668,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "keoskorea111",
@@ -7399,7 +7694,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "lamboandmoon",
@@ -7424,7 +7720,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'lamboandmoon.io' ex-type: 'class java.net.UnknownHostException'"
   }, {
     "bp-header" : {
       "owner" : "libertyblock",
@@ -7449,7 +7746,8 @@
       "popularity-boosters" : [ "https://libertyblock.io" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "marketstackd",
@@ -7474,7 +7772,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "mixbytes1234",
@@ -7499,7 +7798,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "mixbytevaran",
@@ -7524,7 +7824,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "moesethhlove",
@@ -7549,7 +7850,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "myanmarcoins",
@@ -7574,7 +7876,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "nodeshanghai",
@@ -7599,7 +7902,8 @@
       "popularity-boosters" : [ "https://bihu.com/people/371720" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "oasisproduce",
@@ -7624,7 +7928,8 @@
       "popularity-boosters" : [ "http://sportsminer.games/?cat=24", "http://sportsminer.games/?p=1", "http://sportsminer.games/?cat=26", "http://uranium.famithemes.com/home-3/", "http://uranium.famithemes.com/portfolio/mason-jar/", "http://sportsminer.games/", "http://sportsminer.games/?portfolio_category=ecommerce", "http://sportsminer.games/?p=1210", "http://sportsminer.games/?portfolio_category=ui-design", "http://uranium.famithemes.com/journal/", "http://sportsminer.games/?portfolio=soho-studio", "http://sportsminer.games/?p=1212", "http://sportsminer.games/?cat=1", "http://sportsminer.games/?p=1209", "http://sportsminer.games/?cat=23", "http://sportsminer.games/?cat=21", "http://sportsminer.games/?cat=22", "http://sportsminer.games/?p=124", "http://sportsminer.games/?portfolio=portfolio1", "http://sportsminer.games/?p=1211", "http://sportsminer.games/?cat=25" ],
       "popularity-boosters-count" : 21
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "okcapitalbp1",
@@ -7649,7 +7954,8 @@
       "popularity-boosters" : [ "https://www.vvpool.com/", "https://www.7234.cn", "http://www.gongxiangcj.com/", "http://miner.tools/", "https://www.okcoin.com", "http://www.btc38.com/", "http://www.qukuaiwang.com.cn", "http://upgradeapp.oss-cn-hangzhou.aliyuncs.com/upgradeapp/OKEx.dmg", "http://www.feixiaohao.com", "http://www.jgy.com", "http://www.fn.com/", "https://www.f2pool.com/", "http://www.huoxing24.com/", "https://www.pandaminer.com/okex", "http://www.jinniu.cn/", "https://www.atoken.com", "http://www.haob.cc", "http://www.wabi.com", "http://www.blockvalue.com", "http://ethbtc.org", "http://www.btc126.com", "http://www.btc798.com", "https://www.ihuoqiu.com/", "http://chainnews.com/", "http://www.wanbizu.com", "http://www.cybtc.com", "https://support.okex.com/hc/zh-cn/articles/360000566692", "http://www.bibaodao.com", "http://www.weilaicaijing.com/", "https://www.pgyer.com/BetaOKEx", "https://www.chainwhy.com", "https://www.coingogo.com", "http://upgradeapp.oss-cn-hangzhou.aliyuncs.com/upgradeapp/OKEx_Setup.exe", "http://www.qukuainews.cn", "http://www.5bite.com", "https://www.hecaijing.com", "http://www.bitejie.net", "https://cobo.com/", "http://biqushi.cn/", "http://www.chainfor.com", "http://www.bitkan.com", "http://www.bareas.com/", "http://www.tokenpapa.com", "https://block.cc/ ", "http://www.aicoin.com", "http://app.mytoken.io" ],
       "popularity-boosters-count" : 46
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "onechaindapp",
@@ -7674,7 +7980,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "onerootlleos",
@@ -7699,7 +8006,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "oraclegogogo",
@@ -7724,7 +8032,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "philippinebp",
@@ -7749,7 +8058,8 @@
       "popularity-boosters" : [ "http://lrdata.ph/", "http://ceza.gov.ph/", "https://www.reuters.com/article/uk-crypto-currencies-philippines/philippines-to-allow-cryptocurrency-operators-in-economic-zone-idUSKBN1HW1KY/" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "pratothemoon",
@@ -7774,7 +8084,8 @@
       "popularity-boosters" : [ "http://www.bbex.io/", "http://www.chainpe.com/", "http://www.jinse.com/", "http://www.atoken.com/", "http://www.linkvc.com/", "http://www.fbg.capital/", "http://www.jdcapital.com/", "http://www.coinsfund.io", "http://www.nodecap.com/", "http://blockchain.capital/", "http://www.collinstar.com/", "https://www.pgyer.com/prabox" ],
       "popularity-boosters-count" : 12
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "privexinceos",
@@ -7799,7 +8110,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "qxeosqxeosbp",
@@ -7824,7 +8136,8 @@
       "popularity-boosters" : [ "https://www.kcash.com/", "https://www.eos.io/", "ocx.com", "https://www.btcdo.com/index/home", "www.chainfor.com/", "http://www.block18.io/index" ],
       "popularity-boosters-count" : 6
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "saltblockeos",
@@ -7849,7 +8162,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "sheleaders21",
@@ -7874,7 +8188,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "sheos21sheos",
@@ -7899,7 +8214,8 @@
       "popularity-boosters" : [ "https://www.producer.vote/", "https://eos.producer.vote/" ],
       "popularity-boosters-count" : 2
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "spearfundoh1",
@@ -7924,7 +8240,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "stakedstaked",
@@ -7949,7 +8266,8 @@
       "popularity-boosters" : [ "https://calendly.com/staked/staked-intro-call" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "starteosiobp",
@@ -7974,7 +8292,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "superoneiobp",
@@ -7999,7 +8318,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "taxreliefeos",
@@ -8024,7 +8344,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "tchaineospro",
@@ -8049,7 +8370,8 @@
       "popularity-boosters" : [ "http://yeswici.com/ui/w/p/", "https://docs.google.com/forms/d/e/1FAIpQLSeVF97R890_1McAmUvlHAbes25C_7T76-Uzvaf5QrVZktYGwA/viewform", "https://portal.eoseoul.io/", "https://aws.amazon.com/marketplace/pp/B01N9MZQUM?qid=1526595835655&sr=0-1&ref_=srh_res_product_title", "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119201724", "http://deepcybe.com/about", "https://en.wikipedia.org/wiki/KodakCoin", "http://eth.deepcybe.com", "https://aws.amazon.com/marketplace/pp/B01JJ31R8C", "http://eoswashingtondc.com", "https://eospark.com/MainNet/bp/tchaineospro" ],
       "popularity-boosters-count" : 11
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "teamgreymass",
@@ -8074,7 +8396,8 @@
       "popularity-boosters" : [ "https://steemdb.com/" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "theeosdublin",
@@ -8099,7 +8422,8 @@
       "popularity-boosters" : [ "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/", "https://everipedia.org/wiki/eos-dublin/", "http://sonatasys.com/sonataHome.shtml" ],
       "popularity-boosters-count" : 3
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "tokenika4eos",
@@ -8124,7 +8448,8 @@
       "popularity-boosters" : [ "http://truffleframework.com/", "https://lenivastudio.com/", "http://parsecfrontiers.com/", "http://bitcoin.pl/wiadomosci/prawo-i-polityka/1636-powstala-grupa-robocza-ds-blockchain-i-kryptowalut-przy-knf", "https://www.evry.com/en/news/articles/psd2-the-directive-that-will-change-banking-as-we-know-it/", "http://buildercommerce.com/", "https://en.wikipedia.org/wiki/Daniel_Larimer", "https://eosprojects.org/", "https://eos.io/", "http://sygnet.eu/", "http://connectwarsaw.org/", "http://sendgold.com/", "https://bitshares.org/", "https://www.trans.eu/en/" ],
       "popularity-boosters-count" : 14
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "top111111111",
@@ -8149,7 +8474,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "unlimitedeos",
@@ -8174,7 +8500,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "wakandabpeos",
@@ -8199,7 +8526,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "whateosbp111",
@@ -8224,7 +8552,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : "ex: 'http://www.whateos.com/BP_info.json/' ex-type: 'class java.io.FileNotFoundException'"
   }, {
     "bp-header" : {
       "owner" : "worblieosbp1",
@@ -8249,7 +8578,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "zbeosbp11111",
@@ -8274,7 +8604,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "zyatsiusagry",
@@ -8299,7 +8630,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ ]
+    "p-ram-amounts" : [ ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "bpacbpacbpac",
@@ -8324,7 +8656,8 @@
       "popularity-boosters" : [ "https://www.whiterabbiticos.com/", "https://workcoin.net/", "https://springrole.com/", "https://blockv.io/" ],
       "popularity-boosters-count" : 4
     },
-    "p-ram-amounts" : [ "RAM" ]
+    "p-ram-amounts" : [ "RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "emergepoland",
@@ -8349,7 +8682,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ "64 GB RAM" ]
+    "p-ram-amounts" : [ "64 GB RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosrussiacom",
@@ -8374,7 +8708,8 @@
       "popularity-boosters" : [ "http://arrowhead.eostribe.io/" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ "64G RAM" ]
+    "p-ram-amounts" : [ "64G RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosvietnambp",
@@ -8399,7 +8734,8 @@
       "popularity-boosters" : [ "http://www.highlandscoffee.com.vn/en/home" ],
       "popularity-boosters-count" : 1
     },
-    "p-ram-amounts" : [ "RAM" ]
+    "p-ram-amounts" : [ "RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "roelandp1eos",
@@ -8424,7 +8760,8 @@
       "popularity-boosters" : [ "http://jungle.cryptolions.io:9898/monitor3/", "https://shoudio.com", "Streamed", "http://eosslc.com/arrowhead/", "https://EOS.io" ],
       "popularity-boosters-count" : 5
     },
-    "p-ram-amounts" : [ "RAM" ]
+    "p-ram-amounts" : [ "RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosarabianet",
@@ -8449,7 +8786,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ "RAM", "50G RAM" ]
+    "p-ram-amounts" : [ "RAM", "50G RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eospalliumss",
@@ -8474,7 +8812,8 @@
       "popularity-boosters" : [ "https://edu.csdn.net/agency/index/531", "http://www.cyberledger.org", "https://www.jinse.com/blockchain/196869.html", "http://www.21vianet.com", "http://www.pallet.one", "https://www.lediaocha.com/pc/s/7n6xz0vn", "https://fb.me/EOSPalliums", "http://www.21vbluecloud.com", "https://www.csdn.net/", "http://wemedia.ifeng.com/62921020/wemedia.shtml", "http://www.wifire.net", "http://idhub.network", " " ],
       "popularity-boosters-count" : 13
     },
-    "p-ram-amounts" : [ "RAM", "1TB RAM" ]
+    "p-ram-amounts" : [ "RAM", "1TB RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eostribeprod",
@@ -8499,7 +8838,8 @@
       "popularity-boosters" : [ "https://stevefloyd.io/", "https://www.chintai-eos.io/", "https://eosnet.io/", "https://eostutorials.com/", "https://www.ses.network/" ],
       "popularity-boosters-count" : 5
     },
-    "p-ram-amounts" : [ "RAM", "64GB RAM" ]
+    "p-ram-amounts" : [ "RAM", "64GB RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "eosukblocpro",
@@ -8524,7 +8864,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ "128GB RAM", "64GB RAM" ]
+    "p-ram-amounts" : [ "128GB RAM", "64GB RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "hezdknrzgqge",
@@ -8549,7 +8890,8 @@
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
     },
-    "p-ram-amounts" : [ "RAM", "50G RAM" ]
+    "p-ram-amounts" : [ "RAM", "50G RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "1eostheworld",
@@ -8574,7 +8916,8 @@
       "popularity-boosters" : [ "https://wordpress.org/plugins/gdpr-cookie-compliance", "https://lodestone-llc.com/" ],
       "popularity-boosters-count" : 2
     },
-    "p-ram-amounts" : [ "RAM", "768 GB of RAM", "3 TB of RAM" ]
+    "p-ram-amounts" : [ "RAM", "768 GB of RAM", "3 TB of RAM" ],
+    "http-error" : null
   }, {
     "bp-header" : {
       "owner" : "franceosysbp",
@@ -8599,6 +8942,7 @@
       "popularity-boosters" : [ "https://bitconseil.fr", "https://bitconseil.fr/", "https://journalducoin.com", "https://journalducoin.com/", "https://www.adapp.tech" ],
       "popularity-boosters-count" : 5
     },
-    "p-ram-amounts" : [ "RAM", "384Go de RAM", "256 Go de RAM" ]
+    "p-ram-amounts" : [ "RAM", "384Go de RAM", "256 Go de RAM" ],
+    "http-error" : null
   } ]
 }

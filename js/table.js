@@ -22,7 +22,7 @@ function multilinkFormatter(urls) {
     return aa.reduce((acc, a) => acc + a, "");
 }
 
-fetch("https://raw.githubusercontent.com/Invertisment/eos-data/master/data.json")
+fetch("https://raw.githubusercontent.com/Invertisment/eos-data/master/data/data.json")
     .then(res => res.json())
     .then((out) => {
         $(function () {
