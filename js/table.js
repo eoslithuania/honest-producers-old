@@ -22,7 +22,7 @@ function multilinkFormatter(urls) {
     return aa.reduce((acc, a) => acc + a, "");
 }
 
-fetch("https://raw.githubusercontent.com/Invertisment/eos-data/master/data/data.json")
+fetch("./data/data.json")
     .then(res => res.json())
     .then((out) => {
         $(function () {
@@ -41,7 +41,7 @@ fetch("https://raw.githubusercontent.com/Invertisment/eos-data/master/data/data.
                             sortable: true,
                             rowspan: 2,
                         },{
-                            field: 'bp-header.url',
+                            field: 'bp-header.prepared-url',
                             title: 'Link',
                             sortable: true,
                             rowspan: 2,
@@ -102,7 +102,7 @@ fetch("https://raw.githubusercontent.com/Invertisment/eos-data/master/data/data.
                         },
                         {
                             title: 'err',
-                            field: 'error',
+                            field: 'http-error',
                             sortable: true,
                             align: 'right',
                         },
