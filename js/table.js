@@ -1,5 +1,8 @@
 
 function getLocation(url) {
+    if (url == null || url.length == 0) {
+        return "";
+    }
     var l = document.createElement("a");
     l.href = url;
     return l.hostname.replace(/www[.]/gi, '')
@@ -7,7 +10,7 @@ function getLocation(url) {
 };
 
 function singleLinkFormatter(url) {
-    if (url == null) {
+    if (url == null || url.length == 0) {
         return;
     }
     return "<a class='link' href='" + url + "'>"
@@ -96,6 +99,12 @@ fetch("https://raw.githubusercontent.com/Invertisment/eos-data/master/data.json"
                             sortable: true,
                             align: 'right',
                             formatter: multilinkFormatter,
+                        },
+                        {
+                            title: 'err',
+                            field: 'error',
+                            sortable: true,
+                            align: 'right',
                         },
 
                     ]]
