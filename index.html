@@ -3,6 +3,8 @@
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <title>Honest producers</title>
         <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
         <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
@@ -18,6 +20,17 @@
          .large-font {
              font-size: large;
          }
+         body {
+             margin-top: 2em;
+             margin-bottom: 2em;
+         }
+
+         .modal-body>.card {
+             margin-bottom: 1em;
+         }
+         .modal-body>.card :last-child {
+             margin-bottom: 0;
+         }
         </style>
         <script type="text/javascript" src="js/table.js" ></script>
     </head>
@@ -25,7 +38,7 @@
 
         <section>
             <h2>Honest producers</h2>
-            <p>Before launching the EOS mainnet node each Block Producer candidate has to promote themselves. This site is a collection of such data.</p>
+            <p>Each EOS Block Producer candidate has to promote themselves. This site is a collection of such data.</p>
         </section>
 
         <!-- Modal -->
@@ -39,7 +52,18 @@
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                     </div>
                     <div class="modal-body">
-                        <p>Some text in the modal.</p>
+                        <div class="card">
+                            <div class="card-header">
+                                Social networks
+                            </div>
+                            <ul class="list-group list-group-flush" id="modal-social-links"></ul>
+                        </div>
+                        <div class="card" data-toggle="tooltip" data-placement="left" title="Web search algorithms use all webpage's links to check whether a webpage has interesting content. Web authors may put links that are out of context and are useless for the reader. This is a deception technique used widely in web ranking.">
+                            <div class="card-header">
+                                Self-promotion links
+                            </div>
+                            <ul class="list-group list-group-flush" id="modal-self-promotion-links"></ul>
+                        </div>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

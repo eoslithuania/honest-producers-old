@@ -38,20 +38,38 @@ function titleFormatter(title, dataRow) {
     return createLink(url, monospaceTitle);
 }
 
+
+
+function produceModalListUrl(url) {
+    return '<li class="list-group-item"><a href="' + url + '" class="card-text">' + url + '</p></li>';
+}
+
+function produceModalListUrls(urls) {
+    var aa = urls.map(produceModalListUrl);
+    return aa.reduce((acc, a) => acc + a, "");
+}
+
 var mutableDataRef = null;
 
 function openMoreInfoDialog(dataRowId) {
     dataRow = mutableDataRef["block-producers"][dataRowId];
-    console.log("Works", dataRow);
-    $("#myModal .modal-title").html(dataRow["bp-header"]["owner"])
+    console.log("Works", dataRow, produceModalListUrls(dataRow["analyzed-urls"]["social-links"]));
+    $("#myModal .modal-title") .html(dataRow["bp-header"]["owner"])
+    $("#myModal #modal-social-links") .html(produceModalListUrls(dataRow["analyzed-urls"]["social-links"]))
+    $("#myModal #modal-self-promotion-links") .html(produceModalListUrls(dataRow["analyzed-urls"]["popularity-boosters"]))
     $("#myModal").modal();
 }
 
 function moreInfoFormatter(idk, dataRow, dataId) {
     return "<button \
-        class='btn btn-info btn-sm' \
+        class='btn btn-primary btn-sm' \
         onClick='openMoreInfoDialog(" + dataId + ")'>More info</button>";
 }
+
+// Tooltip enable
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
 
 fetch("./data/data.json")
     .then(res => res.json())
