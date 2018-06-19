@@ -17,7 +17,7 @@ function createLink(url, title) {
     if (url == null || url.length == 0) {
         return;
     }
-    return "<a class='link' href='" + url + "'>" + title + "</a>";
+    return "<a class='link' target='_blank' href='" + url + "'>" + title + "</a>";
 }
 
 function singleLinkFormatter(url) {
@@ -41,7 +41,7 @@ function titleFormatter(title, dataRow) {
 
 
 function produceModalListUrl(url) {
-    return '<li class="list-group-item"><a href="' + url + '" class="card-text">' + url + '</p></li>';
+    return '<li class="list-group-item"><a target="_blank" href="' + url + '" class="card-text">' + url + '</p></li>';
 }
 
 function produceModalListUrls(urls) {
