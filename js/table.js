@@ -82,7 +82,8 @@ fetch("./data/data.json")
                 columns: [
                     [
                         {
-                            title: 'Rating',
+                            field: 'place',
+                            title: '#',
                             sortable: true,
                             rowspan: 2,
                         },
