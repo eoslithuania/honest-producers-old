@@ -71,6 +71,10 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip()
 })
 
+function placeFormatter(placeId) {
+    return placeId + 1;
+}
+
 fetch("./data/data.json")
     .then(res => res.json())
     .then((out) => {
@@ -86,6 +90,7 @@ fetch("./data/data.json")
                             title: '#',
                             sortable: true,
                             rowspan: 2,
+                            formatter: placeFormatter,
                         },
                         {
                             field: 'bp-header.owner',
