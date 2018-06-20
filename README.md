@@ -1,3 +1,3 @@
 # eos-data
 
-https://mmaciul.lt/eos-data/
+https://eoslithuania.github.io/honest-producers/
