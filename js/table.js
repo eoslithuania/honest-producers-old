@@ -80,6 +80,8 @@ fetch("./data/data.json")
     .then((out) => {
         mutableDataRef = out;
         $(function () {
+            $('#snapshot-date-value').html(out['snapshot-date-utc']);
+            $('#snapshot-date').show();
             $('#table').bootstrapTable({
                 data: out['block-producers'],
                 columns: [

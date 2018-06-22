@@ -36,10 +36,16 @@
     </head>
     <body class="container d-flex flex-column">
 
-        <section>
-            <h2>Honest producers</h2>
-            <p>Each EOS Block Producer candidate has to promote themselves. This site is a collection of such data.</p>
-        </section>
+      <section class="d-flex flex-wrap justify-content-between">
+        <div>
+          <h2>Honest producers</h2>
+          <p>Each EOS Block Producer candidate has to promote themselves. This site is a collection of such data.</p>
+        </div>
+        <div id="snapshot-date" class="align-self-center" style="display:none;">
+          <h6>Snapshot date (UTC)</h6>
+          <p id="snapshot-date-value"></p>
+        </div>
+      </section>
 
         <!-- Modal -->
         <div class="modal fade" id="myModal" role="dialog">
