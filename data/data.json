@@ -1,5 +1,5 @@
 {
-  "snapshot-date-utc" : "2018-06-22T07:23:30.813684+03:00",
+  "snapshot-date-utc" : "2018-06-22T08:00:48.884602+03:00",
   "block-producers" : [ {
     "bp-header" : {
       "owner" : "eosvenezuela",
@@ -20,9 +20,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 10,
       "duplicate-urls" : null,
-      "social-links" : [ "https://youtu.be/BcUawXO-AN0", "https://steemit.com/eos/@eosvenezuela/tutorial-secure-eos-block-producer-voting-tokenika-offline-tool", "https://steemit.com/eos/@glokdm/eosvenezuela-community-challenge", "https://twitter.com/eosvzla", "https://youtu.be/IbTQZLlYjb4?t=4m38s", "https://steemit.com/eosvenezuela/@eosvenezuela/eosvenezuela-community-challenge", "https://steemit.com/eos/@darthgexe/mi-participacion-en-el-eosvenezuela-community-challenge", "https://steemit.com/eos/@alfrednoyed/eosvenezuela-community-challenge", "https://steemit.com/eos/@dianaabreu/mi-entrada-para-eosvenezuela-community-challenge", "https://youtu.be/S1gUR8wM5vA", "https://steemit.com/eos/@ambarabby/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@maeugenia/eosvenezuela-community-challenge", "https://steemit.com/eos/@dldb1604/eosvenezuela-community-challenge", "https://plus.google.com/u/0/+Mobirise", "https://www.linkedin.com/in/albertoguerreromontilla/", "https://steemit.com/eos/@ferod23/eosvenezuela-community-challenge-mi-entrada", "https://www.linkedin.com/in/mobirise", "https://t.me/eosvenezuela", "https://steemit.com/eos/@kts/eosvenezuela-community-challenge", "https://www.steemit.com/@eosvenezuela", "https://steemit.com/eos/@andresgo2000/mi-entrada-para-eosvenezuela-community-challenge", "https://www.facebook.com/pages/Mobirise/1616226671953247", "https://steemit.com/eos/@eesu03/juntos-por-venezuela-eosvenezuela-community-challenge", "https://steemit.com/eos/@fujoshi94/eosvenezuela-community-challenge-tienen-mi-apoyo", "https://steemit.com/@provenezuela", "https://steemit.com/eos/@eosvenezuela/the-mainnet-is-live-now-you-can-vote-for-eosvenezuela", "https://steemit.com/eos/@puskas/juntos-por-venezuela-eosvenezuela-community-challenge", "https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw", "https://www.instagram.com/mobirise/", "https://www.linkedin.com/in/cristian-medina-abbadini-bb598611a/", "https://steemit.com/eos/@vida-blanca/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@norkamoran/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@eosvenezuela/tutorial-como-votar-de-forma-segura-por-los-productores-de-bloque-de-eos-herramienta-offline-de-tokenika", "https://www.facebook.com/groups/eosvenezuela/", "https://steemit.com/eos/@machiqui63/eosvenezuela-community-challenge" ],
+      "social-links" : [ "https://plus.google.com/u/0/+Mobirise", "https://steemit.com/@provenezuela", "https://steemit.com/eos/@alfrednoyed/eosvenezuela-community-challenge", "https://steemit.com/eos/@ambarabby/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@andresgo2000/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@darthgexe/mi-participacion-en-el-eosvenezuela-community-challenge", "https://steemit.com/eos/@dianaabreu/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@dldb1604/eosvenezuela-community-challenge", "https://steemit.com/eos/@eesu03/juntos-por-venezuela-eosvenezuela-community-challenge", "https://steemit.com/eos/@eosvenezuela/the-mainnet-is-live-now-you-can-vote-for-eosvenezuela", "https://steemit.com/eos/@eosvenezuela/tutorial-como-votar-de-forma-segura-por-los-productores-de-bloque-de-eos-herramienta-offline-de-tokenika", "https://steemit.com/eos/@eosvenezuela/tutorial-secure-eos-block-producer-voting-tokenika-offline-tool", "https://steemit.com/eos/@ferod23/eosvenezuela-community-challenge-mi-entrada", "https://steemit.com/eos/@fujoshi94/eosvenezuela-community-challenge-tienen-mi-apoyo", "https://steemit.com/eos/@glokdm/eosvenezuela-community-challenge", "https://steemit.com/eos/@kts/eosvenezuela-community-challenge", "https://steemit.com/eos/@machiqui63/eosvenezuela-community-challenge", "https://steemit.com/eos/@maeugenia/eosvenezuela-community-challenge", "https://steemit.com/eos/@norkamoran/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@puskas/juntos-por-venezuela-eosvenezuela-community-challenge", "https://steemit.com/eos/@vida-blanca/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eosvenezuela/@eosvenezuela/eosvenezuela-community-challenge", "https://t.me/eosvenezuela", "https://twitter.com/eosvzla", "https://www.facebook.com/groups/eosvenezuela/", "https://www.facebook.com/pages/Mobirise/1616226671953247", "https://www.instagram.com/mobirise/", "https://www.linkedin.com/in/albertoguerreromontilla/", "https://www.linkedin.com/in/cristian-medina-abbadini-bb598611a/", "https://www.linkedin.com/in/mobirise", "https://www.steemit.com/@eosvenezuela", "https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw", "https://youtu.be/BcUawXO-AN0", "https://youtu.be/IbTQZLlYjb4?t=4m38s", "https://youtu.be/S1gUR8wM5vA" ],
       "social-links-count" : 35,
-      "popularity-boosters" : [ "https://www.behance.net/Mobirise", "http://dev.cryptolions.io", "https://mobirise.me/k", "https://eos.io", "https://mobirise.com" ],
+      "popularity-boosters" : [ "http://dev.cryptolions.io", "https://eos.io", "https://mobirise.com", "https://mobirise.me/k", "https://www.behance.net/Mobirise" ],
       "popularity-boosters-count" : 5
     },
     "p-ram-amounts" : [ ],
@@ -48,9 +48,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 7,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/intent/like?tweet_id=1009585401495879680&related=eosphere_io", "https://twitter.com/intent/tweet?in_reply_to=1009678419070554113&related=eosphere_io", "https://www.linkedin.com/company/eosphere-io/", "https://twitter.com/eosphere_io/status/1009678419070554113", "https://www.facebook.com/eosphereio/", "https://twitter.com/intent/retweet?tweet_id=1009678419070554113&related=eosphere_io", "https://twitter.com/intent/tweet?in_reply_to=1009585401495879680&related=eosphere_io", "https://www.linkedin.com/in/ross-dold-b75b2b7/", "https://twitter.com/intent/like?tweet_id=1009678419070554113&related=eosphere_io", "https://twitter.com/eosphere_io/status/1009585401495879680", "https://twitter.com/intent/retweet?tweet_id=1009578869471436801&related=eosphere_io", "https://twitter.com/intent/tweet?in_reply_to=1009578869471436801&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1009709069450371072&related=eosphere_io", "https://www.linkedin.com/in/shelley-dold-45504815b/", "https://www.linkedin.com/in/wbb82/", "https://twitter.com/intent/like?tweet_id=1009709069450371072&related=eosphere_io", "https://www.linkedin.com/in/shannon-curtis/", "https://twitter.com/eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1009585401495879680&related=eosphere_io", "https://twitter.com/intent/like?tweet_id=1009578869471436801&related=eosphere_io", "https://www.linkedin.com/in/interwebcoding/", "https://www.linkedin.com/in/hallken/", "https://www.linkedin.com/in/ric-smit-65879151/", "https://twitter.com/eosphere_io/status/1009709069450371072", "https://twitter.com/eosphere_io/status/1009578869471436801", "https://steemit.com/eos/@eosphere/eosphere-s-position-on-dividends", "https://twitter.com/intent/tweet?in_reply_to=1009709069450371072&related=eosphere_io" ],
+      "social-links" : [ "https://steemit.com/eos/@eosphere/eosphere-s-position-on-dividends", "https://twitter.com/eosphere_io", "https://twitter.com/eosphere_io/status/1009578869471436801", "https://twitter.com/eosphere_io/status/1009585401495879680", "https://twitter.com/eosphere_io/status/1009678419070554113", "https://twitter.com/eosphere_io/status/1009709069450371072", "https://twitter.com/intent/like?tweet_id=1009578869471436801&related=eosphere_io", "https://twitter.com/intent/like?tweet_id=1009585401495879680&related=eosphere_io", "https://twitter.com/intent/like?tweet_id=1009678419070554113&related=eosphere_io", "https://twitter.com/intent/like?tweet_id=1009709069450371072&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1009578869471436801&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1009585401495879680&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1009678419070554113&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1009709069450371072&related=eosphere_io", "https://twitter.com/intent/tweet?in_reply_to=1009578869471436801&related=eosphere_io", "https://twitter.com/intent/tweet?in_reply_to=1009585401495879680&related=eosphere_io", "https://twitter.com/intent/tweet?in_reply_to=1009678419070554113&related=eosphere_io", "https://twitter.com/intent/tweet?in_reply_to=1009709069450371072&related=eosphere_io", "https://www.facebook.com/eosphereio/", "https://www.linkedin.com/company/eosphere-io/", "https://www.linkedin.com/in/hallken/", "https://www.linkedin.com/in/interwebcoding/", "https://www.linkedin.com/in/ric-smit-65879151/", "https://www.linkedin.com/in/ross-dold-b75b2b7/", "https://www.linkedin.com/in/shannon-curtis/", "https://www.linkedin.com/in/shelley-dold-45504815b/", "https://www.linkedin.com/in/wbb82/" ],
       "social-links-count" : 27,
-      "popularity-boosters" : [ "https://connectonline.asic.gov.au/RegistrySearch/faces/landing/panelSearch.jspx?searchTab=search&searchText=624+333+035&searchType=OrgAndBusNm&_adf.ctrl-state=6b1hb27c8_12", "https://eosvoter.eosphere.io/", "http://eosnetworkmonitor.io/", "https://www.chintai-eos.io", "https://www.interwebcoding.com" ],
+      "popularity-boosters" : [ "http://eosnetworkmonitor.io/", "https://connectonline.asic.gov.au/RegistrySearch/faces/landing/panelSearch.jspx?searchTab=search&searchText=624+333+035&searchType=OrgAndBusNm&_adf.ctrl-state=6b1hb27c8_12", "https://eosvoter.eosphere.io/", "https://www.chintai-eos.io", "https://www.interwebcoding.com" ],
       "popularity-boosters-count" : 5
     },
     "p-ram-amounts" : [ ],
@@ -76,9 +76,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/eos/@bitspace/eos-block-producer-reviews-by-community-and-bps", "https://steemit.com/eos/@cryptolions/crypto-lions-policy-positions-and-code-of-conduct", "https://bitcointalk.org/index.php?topic=672174.0", "https://www.linkedin.com/in/roman-skaskiw-300a6671/", "https://steemit.com/eos/@cryptolions/crypto-lions-politika-i-normy-povedeniya", "https://github.com/CryptoLions", "https://www.linkedin.com/in/sudipbanerg/", "https://t.me/jungletestnet", "https://bitcointalk.org/index.php?topic=769426.0", "https://steemit.com/eos/@cryptolions/how-to-start-a-dawn3-testnetwork-and-add-producers-using-eosio-bios", "https://github.com/CryptoLions/BP-Position-Telegram-Notifier", "https://medium.com/@EosMetal/thats-how-we-broke-jungle-testnet-twice-in-a-row-eleven-days-before-1-0-eosio-release-ef996495df", "https://steemit.com/eos/@cryptolions/a-scalable-docker-swarm-cluster-for-eos-node-daemon", "https://www.linkedin.com/in/bohdan-kossak-a25b722/", "https://www.youtube.com/watch?v=OramhrxZMF4", "https://steemit.com/eos/@cryptolions/cryptolions-cap-table-disclosure", "https://steemit.com/eos/@cryptolions/crypto-lions-eos-block-producer-candidates", "https://forums.eosgo.io/discussion/739/brainstorming-a-multi-cameral-legislature-for-eos/p1?new=1", "https://twitter.com/EOS_CryptoLions/status/1007176901046267904", "https://steemit.com/eos/@cryptolions/crypto-lions", "https://twitter.com/EOS_CryptoLions", "https://bitcointalk.org/index.php?topic=307484.0", "https://steemit.com/eos/@cryptolions/and", "https://steemit.com/@cryptolions", "https://bitcointalk.org/index.php?topic=1105376.0", "https://www.linkedin.com/in/gq-fu/", "https://github.com/CryptoLions " ],
+      "social-links" : [ "https://bitcointalk.org/index.php?topic=1105376.0", "https://bitcointalk.org/index.php?topic=307484.0", "https://bitcointalk.org/index.php?topic=672174.0", "https://bitcointalk.org/index.php?topic=769426.0", "https://forums.eosgo.io/discussion/739/brainstorming-a-multi-cameral-legislature-for-eos/p1?new=1", "https://github.com/CryptoLions", "https://github.com/CryptoLions ", "https://github.com/CryptoLions/BP-Position-Telegram-Notifier", "https://medium.com/@EosMetal/thats-how-we-broke-jungle-testnet-twice-in-a-row-eleven-days-before-1-0-eosio-release-ef996495df", "https://steemit.com/@cryptolions", "https://steemit.com/eos/@bitspace/eos-block-producer-reviews-by-community-and-bps", "https://steemit.com/eos/@cryptolions/a-scalable-docker-swarm-cluster-for-eos-node-daemon", "https://steemit.com/eos/@cryptolions/and", "https://steemit.com/eos/@cryptolions/crypto-lions", "https://steemit.com/eos/@cryptolions/crypto-lions-eos-block-producer-candidates", "https://steemit.com/eos/@cryptolions/crypto-lions-policy-positions-and-code-of-conduct", "https://steemit.com/eos/@cryptolions/crypto-lions-politika-i-normy-povedeniya", "https://steemit.com/eos/@cryptolions/cryptolions-cap-table-disclosure", "https://steemit.com/eos/@cryptolions/how-to-start-a-dawn3-testnetwork-and-add-producers-using-eosio-bios", "https://t.me/jungletestnet", "https://twitter.com/EOS_CryptoLions", "https://twitter.com/EOS_CryptoLions/status/1007176901046267904", "https://www.linkedin.com/in/bohdan-kossak-a25b722/", "https://www.linkedin.com/in/gq-fu/", "https://www.linkedin.com/in/roman-skaskiw-300a6671/", "https://www.linkedin.com/in/sudipbanerg/", "https://www.youtube.com/watch?v=OramhrxZMF4" ],
       "social-links-count" : 27,
-      "popularity-boosters" : [ "https://geroj.com/", "https://www.eoswire.org/bpcompliance", "https://blog.hacken.io/hacken-partners-with-one-of-the-eos-masternodes-crypto-lions", "https://hacken.io/", "http://eosnetworkmonitor.io/", "https://eossweden.se/", "https://tokensale.paytomat.com/", "https://mises.org/profile/roman-skaskiw", "http://dailyanarchist.com/2013/11/04/clearing-up-the-bitcoin-versus-gold-debate/" ],
+      "popularity-boosters" : [ "http://dailyanarchist.com/2013/11/04/clearing-up-the-bitcoin-versus-gold-debate/", "http://eosnetworkmonitor.io/", "https://blog.hacken.io/hacken-partners-with-one-of-the-eos-masternodes-crypto-lions", "https://eossweden.se/", "https://geroj.com/", "https://hacken.io/", "https://mises.org/profile/roman-skaskiw", "https://tokensale.paytomat.com/", "https://www.eoswire.org/bpcompliance" ],
       "popularity-boosters-count" : 9
     },
     "p-ram-amounts" : [ ],
@@ -104,9 +104,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 11,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@Steemvoter", "https://www.youtube.com/channel/UCgYRM9vXStNGPouX480gq7A", "https://steemit.com/Steemvoter/@Steemvoter/Steemvoter-and-minnowbooster-are-joining-forces", "http://steemit.com/@himshweta", "https://steemit.com/minnowbooster/@minnowbooster/minnowbooster-tutorial-4-leasing-delegated-steem-power-with-minnowbooster", "https://steemit.com/minnowbooster/@minnowbooster/minnowbooster-update-new-custom-lease-prices-available", "http://steemit.com/@lavokad", "https://steemit.com/buildteam/@buildteam/buildteam-announcement-first-proof-of-stake-distribution", "https://steemit.com/minnowbooster/@minnowbooster/pump-up-your-comment-with-a-minnowbooster-auto-vote", "https://www.youtube.com/channel/UCrRw_yqDWwX9ZmTYc7m89TA", "http://steemit.com/@maya7", "https://discord.gg/ZnQcAvg", "https://t.me/joinchat/C5aYWgwuaGRuRsPKciHVWQ", "https://steemit.com/minnowbooster/@minnowbooster/minnowbooster-tutorial-3-upvoting-posts-with-minnowbooster", "https://steemit.com/buildteam/@buildteam/launching-the-buildteam-token", "https://steemit.com/steemsports/@steemsports/5-oklahoma-sooners-stun-2-ohio-state-buckeyes", "https://steemit.com/@BuildTeam", "https://steemit.com/steemsports/@steemsports/match-rewind-or-leicester-1-2-chelsea", "https://www.linkedin.com/company/18237732/", "https://www.youtube.com/channel/UC6QLlL_OTr02jRyjDraPSdg", "https://discord.gg/vj2y8dG", "https://steemit.com/@steemsports", "https://steemit.com/@BuildTeam/", "https://t.me/BuildTeam", "https://steemit.com/@minnowbooster" ],
+      "social-links" : [ "http://steemit.com/@himshweta", "http://steemit.com/@lavokad", "http://steemit.com/@maya7", "https://discord.gg/ZnQcAvg", "https://discord.gg/vj2y8dG", "https://steemit.com/@BuildTeam", "https://steemit.com/@BuildTeam/", "https://steemit.com/@Steemvoter", "https://steemit.com/@minnowbooster", "https://steemit.com/@steemsports", "https://steemit.com/Steemvoter/@Steemvoter/Steemvoter-and-minnowbooster-are-joining-forces", "https://steemit.com/buildteam/@buildteam/buildteam-announcement-first-proof-of-stake-distribution", "https://steemit.com/buildteam/@buildteam/launching-the-buildteam-token", "https://steemit.com/minnowbooster/@minnowbooster/minnowbooster-tutorial-3-upvoting-posts-with-minnowbooster", "https://steemit.com/minnowbooster/@minnowbooster/minnowbooster-tutorial-4-leasing-delegated-steem-power-with-minnowbooster", "https://steemit.com/minnowbooster/@minnowbooster/minnowbooster-update-new-custom-lease-prices-available", "https://steemit.com/minnowbooster/@minnowbooster/pump-up-your-comment-with-a-minnowbooster-auto-vote", "https://steemit.com/steemsports/@steemsports/5-oklahoma-sooners-stun-2-ohio-state-buckeyes", "https://steemit.com/steemsports/@steemsports/match-rewind-or-leicester-1-2-chelsea", "https://t.me/BuildTeam", "https://t.me/joinchat/C5aYWgwuaGRuRsPKciHVWQ", "https://www.linkedin.com/company/18237732/", "https://www.youtube.com/channel/UC6QLlL_OTr02jRyjDraPSdg", "https://www.youtube.com/channel/UCgYRM9vXStNGPouX480gq7A", "https://www.youtube.com/channel/UCrRw_yqDWwX9ZmTYc7m89TA" ],
       "social-links-count" : 25,
-      "popularity-boosters" : [ "http://www.bitshares.org", "https://privex.io?r=buildteam", "https://Steemvoter.com", "http://steemsports.com", "http://Minnowbooster.com", "https://socialwallet.io", "https://duncancotterill.com", "http://www.minnowbooster.net", "http://www.Steemvoter.com" ],
+      "popularity-boosters" : [ "http://Minnowbooster.com", "http://steemsports.com", "http://www.Steemvoter.com", "http://www.bitshares.org", "http://www.minnowbooster.net", "https://Steemvoter.com", "https://duncancotterill.com", "https://privex.io?r=buildteam", "https://socialwallet.io" ],
       "popularity-boosters-count" : 9
     },
     "p-ram-amounts" : [ ],
@@ -132,9 +132,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/intent/like?tweet_id=1009254998016917510&related=lukestokes", "https://twitter.com/eosdac", "https://steemit.com/@eosdac", "https://twitter.com/intent/tweet?in_reply_to=1009254998016917510&related=lukestokes", "https://github.com/greymass/eos-voter", "https://www.youtube.com/eosdac", "https://plus.google.com/+eosdac", "https://medium.com/eosdac", "https://twitter.com/bytemaster7", "https://github.com/eosdac", "https://twitter.com/lukestokes/status/1009254998016917510", "https://twitter.com/intent/user?screen_name=eosdac", "https://twitter.com/lukestokes", "https://twitter.com/intent/retweet?tweet_id=1009254998016917510&related=lukestokes", "https://twitter.com/intent/like?tweet_id=1009525721528786948&related=bytemaster7", "https://twitter.com/intent/tweet?in_reply_to=1009525721528786948&related=bytemaster7", "https://twitter.com/intent/retweet?tweet_id=1009525721528786948&related=bytemaster7", "https://facebook.com/eosdac", "https://instagram.com/eosdac", "https://www.reddit.com/r/EOSDAC/", "https://linkedin.com/company/eosdac", "https://twitter.com/bytemaster7/status/1009525721528786948", "https://t.me/eosdacio" ],
+      "social-links" : [ "https://facebook.com/eosdac", "https://github.com/eosdac", "https://github.com/greymass/eos-voter", "https://instagram.com/eosdac", "https://linkedin.com/company/eosdac", "https://medium.com/eosdac", "https://plus.google.com/+eosdac", "https://steemit.com/@eosdac", "https://t.me/eosdacio", "https://twitter.com/bytemaster7", "https://twitter.com/bytemaster7/status/1009525721528786948", "https://twitter.com/eosdac", "https://twitter.com/intent/like?tweet_id=1009254998016917510&related=lukestokes", "https://twitter.com/intent/like?tweet_id=1009525721528786948&related=bytemaster7", "https://twitter.com/intent/retweet?tweet_id=1009254998016917510&related=lukestokes", "https://twitter.com/intent/retweet?tweet_id=1009525721528786948&related=bytemaster7", "https://twitter.com/intent/tweet?in_reply_to=1009254998016917510&related=lukestokes", "https://twitter.com/intent/tweet?in_reply_to=1009525721528786948&related=bytemaster7", "https://twitter.com/intent/user?screen_name=eosdac", "https://twitter.com/lukestokes", "https://twitter.com/lukestokes/status/1009254998016917510", "https://www.reddit.com/r/EOSDAC/", "https://www.youtube.com/eosdac" ],
       "social-links-count" : 23,
-      "popularity-boosters" : [ "https://scatter-eos.com/", "https://eos.io/" ],
+      "popularity-boosters" : [ "https://eos.io/", "https://scatter-eos.com/" ],
       "popularity-boosters-count" : 2
     },
     "p-ram-amounts" : [ ],
@@ -160,9 +160,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 15,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.instagram.com/arturocastrop", "https://steemit.com/eos/@eosmeso/eosmeso-roadmap-on-value", "https://twitter.com/eosmeso", "https://www.linkedin.com/in/fpontaza/", "https://www.facebook.com/josearturo123", "https://www.linkedin.com/in/mikele-ceschia-247183123/", "http://www.facebook.com/intergalacticsoundsystem", "https://www.facebook.com/stuardo.rodriguez", "https://www.instagram.com/josuebasss/", "https://www.linkedin.com/in/stuardo", "https://www.facebook.com/GloriaAlvarez/", "https://www.linkedin.com/in/jose-antonio-toriello-herrer%C3%ADas-358b98135/", "https://steemit.com/eos/@eosmeso/eosmeso-community-benefit-project-outline", "https://www.facebook.com/josue.garciagallardo", "https://www.facebook.com/Eosmeso-244654882940957/", "https://steemit.com/@stuardo", "https://www.linkedin.com/in/eduardo-cuevas-8590642/", "https://www.instagram.com/glorialvarezc/", "https://twitter.com/GloriaAlvarez85", "https://www.facebook.com/ACUCRIP/", "https://t.me/eosmeso", "https://www.linkedin.com/in/josue-garcia-19010015a/" ],
+      "social-links" : [ "http://www.facebook.com/intergalacticsoundsystem", "https://steemit.com/@stuardo", "https://steemit.com/eos/@eosmeso/eosmeso-community-benefit-project-outline", "https://steemit.com/eos/@eosmeso/eosmeso-roadmap-on-value", "https://t.me/eosmeso", "https://twitter.com/GloriaAlvarez85", "https://twitter.com/eosmeso", "https://www.facebook.com/ACUCRIP/", "https://www.facebook.com/Eosmeso-244654882940957/", "https://www.facebook.com/GloriaAlvarez/", "https://www.facebook.com/josearturo123", "https://www.facebook.com/josue.garciagallardo", "https://www.facebook.com/stuardo.rodriguez", "https://www.instagram.com/arturocastrop", "https://www.instagram.com/glorialvarezc/", "https://www.instagram.com/josuebasss/", "https://www.linkedin.com/in/eduardo-cuevas-8590642/", "https://www.linkedin.com/in/fpontaza/", "https://www.linkedin.com/in/jose-antonio-toriello-herrer%C3%ADas-358b98135/", "https://www.linkedin.com/in/josue-garcia-19010015a/", "https://www.linkedin.com/in/mikele-ceschia-247183123/", "https://www.linkedin.com/in/stuardo" ],
       "social-links-count" : 22,
-      "popularity-boosters" : [ "https://ceiba.io/", "https://open.spotify.com/artist/6mNU9vluzlv9beSYBipwCw", "http://www.kingo.energy", "http://e10.rocks/", "https://open.spotify.com/artist/7IfawGrEmlHmBW9gqTUd8E", "https://www.imdb.com/name/nm3084854/", "http://www.piafp.com", "http://www.soundcloud.com/andregamez", "http://www.cesa.com.gt", "http://www.hybricoenergy.com", "http://www.e10.rocks", "https://en.ufm.edu/catedraticos/carlos-newbill/", "http://www.grupooeg.com" ],
+      "popularity-boosters" : [ "http://e10.rocks/", "http://www.cesa.com.gt", "http://www.e10.rocks", "http://www.grupooeg.com", "http://www.hybricoenergy.com", "http://www.kingo.energy", "http://www.piafp.com", "http://www.soundcloud.com/andregamez", "https://ceiba.io/", "https://en.ufm.edu/catedraticos/carlos-newbill/", "https://open.spotify.com/artist/6mNU9vluzlv9beSYBipwCw", "https://open.spotify.com/artist/7IfawGrEmlHmBW9gqTUd8E", "https://www.imdb.com/name/nm3084854/" ],
       "popularity-boosters-count" : 13
     },
     "p-ram-amounts" : [ ],
@@ -188,7 +188,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/LucasErm_", "https://twitter.com/MorganPhuc", "https://www.linkedin.com/in/adrien-b-a239b963/", "https://www.linkedin.com/in/adrien-jund-82ab9232/", "https://www.linkedin.com/in/Benoit-Huguet-BitConseil", "https://www.linkedin.com/in/lucas-ermisse-801618134/", "https://t.me/franceos", "https://twitter.com/Er_Tho", "https://twitter.com/monsieur_nazim", "https://twitter.com/franceos__", "https://twitter.com/Cryptosamee/", "https://steemit.com/@franceos", "https://www.linkedin.com/in/nazim-morera/", "https://twitter.com/olinkloo", "https://fr.linkedin.com/in/morganphuc", "https://github.com/franceos", "https://www.linkedin.com/in/ertho", "https://www.linkedin.com/in/romain-didierlaurent-817b02152/", "https://forums.eosgo.io/categories/eos-governance-economics-philosophy", "https://www.linkedin.com/in/sami-benyakoub-816b70163/", "https://twitter.com/Ben_BitConseil" ],
+      "social-links" : [ "https://forums.eosgo.io/categories/eos-governance-economics-philosophy", "https://fr.linkedin.com/in/morganphuc", "https://github.com/franceos", "https://steemit.com/@franceos", "https://t.me/franceos", "https://twitter.com/Ben_BitConseil", "https://twitter.com/Cryptosamee/", "https://twitter.com/Er_Tho", "https://twitter.com/LucasErm_", "https://twitter.com/MorganPhuc", "https://twitter.com/franceos__", "https://twitter.com/monsieur_nazim", "https://twitter.com/olinkloo", "https://www.linkedin.com/in/Benoit-Huguet-BitConseil", "https://www.linkedin.com/in/adrien-b-a239b963/", "https://www.linkedin.com/in/adrien-jund-82ab9232/", "https://www.linkedin.com/in/ertho", "https://www.linkedin.com/in/lucas-ermisse-801618134/", "https://www.linkedin.com/in/nazim-morera/", "https://www.linkedin.com/in/romain-didierlaurent-817b02152/", "https://www.linkedin.com/in/sami-benyakoub-816b70163/" ],
       "social-links-count" : 21,
       "popularity-boosters" : [ "https://bitconseil.fr", "https://bitconseil.fr/", "https://journalducoin.com", "https://journalducoin.com/", "https://www.adapp.tech" ],
       "popularity-boosters-count" : 5
@@ -216,9 +216,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 14,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/introduceyourself/@monetashi/eos-solid-long-term-choices-grounded-in-idealism", "https://steemit.com/@eosamsterdam", "https://twitter.com/eosamsterdam", "https://www.linkedin.com/in/jetse-sprey-729147", "https://www.meetup.com/EOS-Amsterdam/events/249264829/", "https://www.linkedin.com/in/kahuna/", "https://github.com/eosamsterdam", "https://www.meetup.com/EOS-Amsterdam/events/250210242/", "https://www.facebook.com/eos.amsterdam", "https://steemit.com/eos/@eosamsterdam/eos-amsterdam-code-of-conduct", "https://www.meetup.com/EOS-Amsterdam/", "https://steemit.com/eos/@eosamsterdam/eos-amsterdam-blockproducer-roadmap", "https://www.linkedin.com/in/boy-maas-2b86594/", "https://www.meetup.com/EOS-Amsterdam/events/248538574/", "https://steemit.com/eos/@eosamsterdam/eos-amsterdam-dividend-position", "https://steemit.com/introduceyourself/@eosamsterdam/eos-amsterdam-introduction-founding-block-producer-candidate-for-the-community-launch-of-eos-io", "https://www.reddit.com/user/eosamsterdam", "https://steemit.com/eos/@eosamsterdam/3o8dxg-eos-amsterdam-stance-on-one-mainnet", "https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ" ],
+      "social-links" : [ "https://github.com/eosamsterdam", "https://steemit.com/@eosamsterdam", "https://steemit.com/eos/@eosamsterdam/3o8dxg-eos-amsterdam-stance-on-one-mainnet", "https://steemit.com/eos/@eosamsterdam/eos-amsterdam-blockproducer-roadmap", "https://steemit.com/eos/@eosamsterdam/eos-amsterdam-code-of-conduct", "https://steemit.com/eos/@eosamsterdam/eos-amsterdam-dividend-position", "https://steemit.com/introduceyourself/@eosamsterdam/eos-amsterdam-introduction-founding-block-producer-candidate-for-the-community-launch-of-eos-io", "https://steemit.com/introduceyourself/@monetashi/eos-solid-long-term-choices-grounded-in-idealism", "https://twitter.com/eosamsterdam", "https://www.facebook.com/eos.amsterdam", "https://www.linkedin.com/in/boy-maas-2b86594/", "https://www.linkedin.com/in/jetse-sprey-729147", "https://www.linkedin.com/in/kahuna/", "https://www.meetup.com/EOS-Amsterdam/", "https://www.meetup.com/EOS-Amsterdam/events/248538574/", "https://www.meetup.com/EOS-Amsterdam/events/249264829/", "https://www.meetup.com/EOS-Amsterdam/events/250210242/", "https://www.reddit.com/user/eosamsterdam", "https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ" ],
       "social-links-count" : 19,
-      "popularity-boosters" : [ "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am6/", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am3/", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am8/", "https://www.mth.nl/international", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am7/", "http://pensiontechsummit.com/", "https://www.kahuna.nl/en/" ],
+      "popularity-boosters" : [ "http://pensiontechsummit.com/", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am3/", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am6/", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am7/", "https://www.equinix.nl/locations/netherlands-colocation/amsterdam-data-centers/am8/", "https://www.kahuna.nl/en/", "https://www.mth.nl/international" ],
       "popularity-boosters-count" : 7
     },
     "p-ram-amounts" : [ ],
@@ -244,9 +244,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 7,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.linkedin.com/in/espano18/", "https://steemit.com/@eostitan", "https://twitter.com/eostitanBP", "https://www.meetup.com/Decentralized-Web-Montreal/", "https://www.linkedin.com/in/guillaumeb2/", "http://github.com/frabrunelle", "https://www.linkedin.com/in/carl-s-lariviere-7823909/", "https://www.linkedin.com/in/jafar-mohammadi-21b15911b/", "https://twitter.com/frabrunelle", "https://steemit.com/@andybets", "https://github.com/eostitan", "https://www.reddit.com/user/eostitan", "https://www.linkedin.com/in/dominicgingras1/", "https://steemit.com/@transisto", "https://bitcointalk.org/index.php?action=profile;u=4532", "https://www.facebook.com/eostitanBP/", "https://medium.com/@eostitan", "https://t.me/eostitanBP" ],
+      "social-links" : [ "http://github.com/frabrunelle", "https://bitcointalk.org/index.php?action=profile;u=4532", "https://github.com/eostitan", "https://medium.com/@eostitan", "https://steemit.com/@andybets", "https://steemit.com/@eostitan", "https://steemit.com/@transisto", "https://t.me/eostitanBP", "https://twitter.com/eostitanBP", "https://twitter.com/frabrunelle", "https://www.facebook.com/eostitanBP/", "https://www.linkedin.com/in/carl-s-lariviere-7823909/", "https://www.linkedin.com/in/dominicgingras1/", "https://www.linkedin.com/in/espano18/", "https://www.linkedin.com/in/guillaumeb2/", "https://www.linkedin.com/in/jafar-mohammadi-21b15911b/", "https://www.meetup.com/Decentralized-Web-Montreal/", "https://www.reddit.com/user/eostitan" ],
       "social-links-count" : 18,
-      "popularity-boosters" : [ "https://safenetwork.org/", "https://www.seasteading.org/", "https://www.scuttlebutt.nz/", "http://www.supermicro.com/products/SuperBlade/module/SBI-7127R-SH.cfm", "https://www.securegroup.com/infrastructure", "https://montreal.safenetwork.org/", "https://datproject.org/", "https://beakerbrowser.com/", "https://ipfs.io/", "https://safenetforum.org/", "https://zeronet.io/" ],
+      "popularity-boosters" : [ "http://www.supermicro.com/products/SuperBlade/module/SBI-7127R-SH.cfm", "https://beakerbrowser.com/", "https://datproject.org/", "https://ipfs.io/", "https://montreal.safenetwork.org/", "https://safenetforum.org/", "https://safenetwork.org/", "https://www.scuttlebutt.nz/", "https://www.seasteading.org/", "https://www.securegroup.com/infrastructure", "https://zeronet.io/" ],
       "popularity-boosters-count" : 11
     },
     "p-ram-amounts" : [ ],
@@ -272,9 +272,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 2,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.meetup.com/pl-pl/szczecin-blockchain-meetup/events/247984199/", "https://steemit.com/@tokenika", "https://medium.com/@oraclechain/2018-global-eos-developer-conference-9db444ec2cd7", "https://www.linkedin.com/company/28635125/", "https://www.facebook.com/events/903326303125907/", "https://steemit.com/trending/eos", "https://www.youtube.com/channel/UCWloHGgpHAFfx81Nt0F7eUg", "https://steemit.com/eos/@bitspace/bitspace-hosts-scandinavia-s-first-ever-eos-meetup-in-oslo-norway", "https://github.com/tokenika/eosfactory", "https://steemit.com/trending/eosio", "https://steemit.com/eos/@tokenika/introducing-eosfactory-v1-0-with-standardized-unit-testing-and-visual-studio-code-integration", "https://www.meetup.com/pl-pl/wroclaw-blockchain-meetup/events/246349912/?eventid=246349912", "https://github.com/tokenika/secure-bp-voting", "https://www.facebook.com/events/873585539479089/", "https://www.facebook.com/events/160585741214328/", "https://github.com/tokenika", "https://steemit.com/@gtg", "https://steemit.com/eosio/@tokenika/tokenika-s-picks-for-a-balanced-block-producer-map-part-1" ],
+      "social-links" : [ "https://github.com/tokenika", "https://github.com/tokenika/eosfactory", "https://github.com/tokenika/secure-bp-voting", "https://medium.com/@oraclechain/2018-global-eos-developer-conference-9db444ec2cd7", "https://steemit.com/@gtg", "https://steemit.com/@tokenika", "https://steemit.com/eos/@bitspace/bitspace-hosts-scandinavia-s-first-ever-eos-meetup-in-oslo-norway", "https://steemit.com/eos/@tokenika/introducing-eosfactory-v1-0-with-standardized-unit-testing-and-visual-studio-code-integration", "https://steemit.com/eosio/@tokenika/tokenika-s-picks-for-a-balanced-block-producer-map-part-1", "https://steemit.com/trending/eos", "https://steemit.com/trending/eosio", "https://www.facebook.com/events/160585741214328/", "https://www.facebook.com/events/873585539479089/", "https://www.facebook.com/events/903326303125907/", "https://www.linkedin.com/company/28635125/", "https://www.meetup.com/pl-pl/szczecin-blockchain-meetup/events/247984199/", "https://www.meetup.com/pl-pl/wroclaw-blockchain-meetup/events/246349912/?eventid=246349912", "https://www.youtube.com/channel/UCWloHGgpHAFfx81Nt0F7eUg" ],
       "social-links-count" : 18,
-      "popularity-boosters" : [ "http://truffleframework.com/", "https://lenivastudio.com/", "http://parsecfrontiers.com/", "http://bitcoin.pl/wiadomosci/prawo-i-polityka/1636-powstala-grupa-robocza-ds-blockchain-i-kryptowalut-przy-knf", "https://www.evry.com/en/news/articles/psd2-the-directive-that-will-change-banking-as-we-know-it/", "http://buildercommerce.com/", "https://en.wikipedia.org/wiki/Daniel_Larimer", "https://eosprojects.org/", "https://eos.io/", "http://sygnet.eu/", "http://connectwarsaw.org/", "http://sendgold.com/", "https://bitshares.org/", "https://www.trans.eu/en/" ],
+      "popularity-boosters" : [ "http://bitcoin.pl/wiadomosci/prawo-i-polityka/1636-powstala-grupa-robocza-ds-blockchain-i-kryptowalut-przy-knf", "http://buildercommerce.com/", "http://connectwarsaw.org/", "http://parsecfrontiers.com/", "http://sendgold.com/", "http://sygnet.eu/", "http://truffleframework.com/", "https://bitshares.org/", "https://en.wikipedia.org/wiki/Daniel_Larimer", "https://eos.io/", "https://eosprojects.org/", "https://lenivastudio.com/", "https://www.evry.com/en/news/articles/psd2-the-directive-that-will-change-banking-as-we-know-it/", "https://www.trans.eu/en/" ],
       "popularity-boosters-count" : 14
     },
     "p-ram-amounts" : [ ],
@@ -300,9 +300,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/eostribe", "https://steemit.com/eos/@eostribe/eos-tribe-ownership-disclosure", "https://eosportal.io/chain/12/producers/eostribeprod", "https://steemit.com/dlive/@eosdallas/06979ad0-28e9-11e8-a5a6-dd5b02004a6a", "http://t.me/EOSTribe", "https://discord.gg/Su7pDGt", " https://www.facebook.com/groups/eostribe", "https://steemit.com/eos/@eostribe/eos-tribe-infrastructure-report", "https://github.com/eostribe", "https://steemit.com/@sf2", "https://steemit.com/eos/@eosdallas/eos-main-net-launch-t-shirts", "https://medium.com/eostribe", "https://steemit.com/@eluzgin", "https://github.com/CryptoLions/EOS-Jungle-Testnet", "https://steemit.com/eos/@eostribe/eos-tribe-block-producer-candidacy-announcement" ],
+      "social-links" : [ " https://www.facebook.com/groups/eostribe", "http://t.me/EOSTribe", "https://discord.gg/Su7pDGt", "https://eosportal.io/chain/12/producers/eostribeprod", "https://github.com/CryptoLions/EOS-Jungle-Testnet", "https://github.com/eostribe", "https://medium.com/eostribe", "https://steemit.com/@eluzgin", "https://steemit.com/@sf2", "https://steemit.com/dlive/@eosdallas/06979ad0-28e9-11e8-a5a6-dd5b02004a6a", "https://steemit.com/eos/@eosdallas/eos-main-net-launch-t-shirts", "https://steemit.com/eos/@eostribe/eos-tribe-block-producer-candidacy-announcement", "https://steemit.com/eos/@eostribe/eos-tribe-infrastructure-report", "https://steemit.com/eos/@eostribe/eos-tribe-ownership-disclosure", "https://twitter.com/eostribe" ],
       "social-links-count" : 15,
-      "popularity-boosters" : [ "https://www.chintai-eos.io/", "https://eosnet.io/", "https://eostutorials.com/", "https://www.ses.network/" ],
+      "popularity-boosters" : [ "https://eosnet.io/", "https://eostutorials.com/", "https://www.chintai-eos.io/", "https://www.ses.network/" ],
       "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ "RAM", "64GB RAM" ],
@@ -328,7 +328,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 10,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/aaroncox/reprint", "https://github.com/greymass/eos-voter", "https://twitter.com/greymass", "https://steemit.com/steemcleaners/@steemcleaners/announcing-steemcleaners-the-steemit-abuse-fighting-team", "https://github.com/aaroncox/chainsync", "https://steemit.com/cheetah/@cheetah/faq-about-cheetah", "https://t.me/eoswalletgreymass", "https://steemit.com/@greymass", "https://steemit.com/@anyx", "https://steemit.com/@jesta", "https://steemit.com/steemcleaners/@anyx/introducing-guard-a-proactive-measure-to-limit-phishing-on-steemit", "https://github.com/aaroncox/anchor", "https://github.com/aaroncox", "https://github.com/aaroncox/chainbb", "https://github.com/greymass" ],
+      "social-links" : [ "https://github.com/aaroncox", "https://github.com/aaroncox/anchor", "https://github.com/aaroncox/chainbb", "https://github.com/aaroncox/chainsync", "https://github.com/aaroncox/reprint", "https://github.com/greymass", "https://github.com/greymass/eos-voter", "https://steemit.com/@anyx", "https://steemit.com/@greymass", "https://steemit.com/@jesta", "https://steemit.com/cheetah/@cheetah/faq-about-cheetah", "https://steemit.com/steemcleaners/@anyx/introducing-guard-a-proactive-measure-to-limit-phishing-on-steemit", "https://steemit.com/steemcleaners/@steemcleaners/announcing-steemcleaners-the-steemit-abuse-fighting-team", "https://t.me/eoswalletgreymass", "https://twitter.com/greymass" ],
       "social-links-count" : 15,
       "popularity-boosters" : [ "https://steemdb.com/" ],
       "popularity-boosters-count" : 1
@@ -356,9 +356,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 20,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.linkedin.com/in/rodolfo-eduardo-përez-nava-73442164/", "https://www.linkedin.com/in/gaboesquivel/", "https://github.com/eoscostarica/", "https://t.me/eoscr", "https://www.linkedin.com/in/xaviercr/", "https://www.linkedin.com/in/edgarafernandez/", "https://steemit.com/@eos-costarica", "https://www.meetup.com/EOS-Costa-Rica/", "https://www.linkedin.com/in/alexpatterson/", "https://www.linkedin.com/in/daniel-rojas-46191426/", "https://www.linkedin.com/in/gerardo-barrios-e-0639b226/", "https://www.linkedin.com/in/rodrigo-fernandez-57b8b72a/", "https://www.steemit.com/@eos-costarica", "https://www.twitter.com/eoscostarica" ],
+      "social-links" : [ "https://github.com/eoscostarica/", "https://steemit.com/@eos-costarica", "https://t.me/eoscr", "https://www.linkedin.com/in/alexpatterson/", "https://www.linkedin.com/in/daniel-rojas-46191426/", "https://www.linkedin.com/in/edgarafernandez/", "https://www.linkedin.com/in/gaboesquivel/", "https://www.linkedin.com/in/gerardo-barrios-e-0639b226/", "https://www.linkedin.com/in/rodolfo-eduardo-përez-nava-73442164/", "https://www.linkedin.com/in/rodrigo-fernandez-57b8b72a/", "https://www.linkedin.com/in/xaviercr/", "https://www.meetup.com/EOS-Costa-Rica/", "https://www.steemit.com/@eos-costarica", "https://www.twitter.com/eoscostarica" ],
       "social-links-count" : 14,
-      "popularity-boosters" : [ "https://www.cinde.org/en", "https://discordapp.com/invite/SXBeDAT" ],
+      "popularity-boosters" : [ "https://discordapp.com/invite/SXBeDAT", "https://www.cinde.org/en" ],
       "popularity-boosters-count" : 2
     },
     "p-ram-amounts" : [ ],
@@ -384,9 +384,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.linkedin.com/in/anastasija-plotnikova/", "https://steemit.com/@eoslithuania/", "https://www.linkedin.com/in/linas-butenas/", "https://www.linkedin.com/in/andrius-b-5562244/", "https://www.linkedin.com/in/gkucas/", "https://youtu.be/Bj6JnVSfPsg", "https://www.linkedin.com/in/andrius-becys/", "https://www.linkedin.com/in/dmitrijradin/", "https://www.linkedin.com/in/ministras/", "https://t.me/eoslithuania", "http://meetu.ps/c/3TT7s/B4kZ9/f", "https://www.linkedin.com/in/tomasgurvicius" ],
+      "social-links" : [ "http://meetu.ps/c/3TT7s/B4kZ9/f", "https://steemit.com/@eoslithuania/", "https://t.me/eoslithuania", "https://www.linkedin.com/in/anastasija-plotnikova/", "https://www.linkedin.com/in/andrius-b-5562244/", "https://www.linkedin.com/in/andrius-becys/", "https://www.linkedin.com/in/dmitrijradin/", "https://www.linkedin.com/in/gkucas/", "https://www.linkedin.com/in/linas-butenas/", "https://www.linkedin.com/in/ministras/", "https://www.linkedin.com/in/tomasgurvicius", "https://youtu.be/Bj6JnVSfPsg" ],
       "social-links-count" : 12,
-      "popularity-boosters" : [ "https://bcgateway.eu/", "https://cryptoeconomy.world", "https://tsociety.io/ ", "http://thenuclearbunker.com" ],
+      "popularity-boosters" : [ "http://thenuclearbunker.com", "https://bcgateway.eu/", "https://cryptoeconomy.world", "https://tsociety.io/ " ],
       "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ ],
@@ -412,7 +412,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 6,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@bodget", "https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA", "https://www.facebook.com/eosukbp", "https://t.me/joinchat/GefimxBKTqvrKPX9ZA4zGg", "https://steemit.com/eos/@bodget/eos-uk-block-producer-agreed-code-of-conduct", "https://github.com/eos-uk", "https://www.meetup.com/EOS-UK-Meetup/events/", "https://www.facebook.com/eosukbp/", "https://medium.com/@rogerdavies_2315", "https://www.linkedin.com/in/roger-davies-bb0b861/", "https://twitter.com/eosukbp", "https://t.me/joinchat/GefimxBKTqvrKPX9ZA4zGg/" ],
+      "social-links" : [ "https://github.com/eos-uk", "https://medium.com/@rogerdavies_2315", "https://steemit.com/@bodget", "https://steemit.com/eos/@bodget/eos-uk-block-producer-agreed-code-of-conduct", "https://t.me/joinchat/GefimxBKTqvrKPX9ZA4zGg", "https://t.me/joinchat/GefimxBKTqvrKPX9ZA4zGg/", "https://twitter.com/eosukbp", "https://www.facebook.com/eosukbp", "https://www.facebook.com/eosukbp/", "https://www.linkedin.com/in/roger-davies-bb0b861/", "https://www.meetup.com/EOS-UK-Meetup/events/", "https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA" ],
       "social-links-count" : 12,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -440,9 +440,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 11,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.linkedin.com/in/minbo-min-95baa010b/", "https://www.linkedin.com/in/joshmanderville/", "http://twitter.com/EOSAmericas", "https://www.linkedin.com/in/james-davis-csm-73b4ba7/", "https://steemit.com/@eosamericas", "http://t.me/EOSAmericas", "https://www.linkedin.com/in/eedsilva/", "https://www.linkedin.com/in/peter-bue/", "https://www.linkedin.com/in/douglashorn/", "https://www.linkedin.com/in/edmund-shern-7522001/", "https://www.linkedin.com/in/lipsebatista/" ],
+      "social-links" : [ "http://t.me/EOSAmericas", "http://twitter.com/EOSAmericas", "https://steemit.com/@eosamericas", "https://www.linkedin.com/in/douglashorn/", "https://www.linkedin.com/in/edmund-shern-7522001/", "https://www.linkedin.com/in/eedsilva/", "https://www.linkedin.com/in/james-davis-csm-73b4ba7/", "https://www.linkedin.com/in/joshmanderville/", "https://www.linkedin.com/in/lipsebatista/", "https://www.linkedin.com/in/minbo-min-95baa010b/", "https://www.linkedin.com/in/peter-bue/" ],
       "social-links-count" : 11,
-      "popularity-boosters" : [ "index.cn.html", "index.kr.html", "index.es.html", "index.fr.html", "index.br.html", "https://eosamericas.com/voting" ],
+      "popularity-boosters" : [ "https://eosamericas.com/voting", "index.br.html", "index.cn.html", "index.es.html", "index.fr.html", "index.kr.html" ],
       "popularity-boosters-count" : 6
     },
     "p-ram-amounts" : [ ],
@@ -468,9 +468,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 17,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/eoscanada", "https://www.reddit.com/user/EOSCanada/", "https://steemit.com/eos/@eos-canada/introducing-eos-canada-a-leading-block-producer-candidate", "https://steemit.com/@eos-canada", "http://i.youku.com/eoscanada", "https://twitter.com/EOS_Canada", "https://t.me/eoscanada", "https://www.facebook.com/eoscanadacom", "https://www.linkedin.com/company/eoscanada/", "https://www.weibo.com/eoscanada", "https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ" ],
+      "social-links" : [ "http://i.youku.com/eoscanada", "https://github.com/eoscanada", "https://steemit.com/@eos-canada", "https://steemit.com/eos/@eos-canada/introducing-eos-canada-a-leading-block-producer-candidate", "https://t.me/eoscanada", "https://twitter.com/EOS_Canada", "https://www.facebook.com/eoscanadacom", "https://www.linkedin.com/company/eoscanada/", "https://www.reddit.com/user/EOSCanada/", "https://www.weibo.com/eoscanada", "https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ" ],
       "social-links-count" : 11,
-      "popularity-boosters" : [ "http://eoscanada.com/en/tools", "https://diagram.ca/", "http://eoscanada.com/en", "http://eoscanada.com/en/contact-us", "http://eoscanada.com/", "https://bihu.com/people/460474", "en/privacy-policy?hsLang=en" ],
+      "popularity-boosters" : [ "en/privacy-policy?hsLang=en", "http://eoscanada.com/", "http://eoscanada.com/en", "http://eoscanada.com/en/contact-us", "http://eoscanada.com/en/tools", "https://bihu.com/people/460474", "https://diagram.ca/" ],
       "popularity-boosters-count" : 7
     },
     "p-ram-amounts" : [ ],
@@ -496,9 +496,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 11,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/eosgreen", "https://plus.google.com/u/0/+Mobirise", "https://www.linkedin.com/in/mobirise", "https://www.linkedin.com/in/monika-reszka-04105a2", "https://www.facebook.com/marcin.chilik", "https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw", "https://twitter.com/sukeshtedla", "https://www.instagram.com/mobirise/", "https://t.me/eosgreenio", "https://www.linkedin.com/in/sukeshtedla" ],
+      "social-links" : [ "https://github.com/eosgreen", "https://plus.google.com/u/0/+Mobirise", "https://t.me/eosgreenio", "https://twitter.com/sukeshtedla", "https://www.facebook.com/marcin.chilik", "https://www.instagram.com/mobirise/", "https://www.linkedin.com/in/mobirise", "https://www.linkedin.com/in/monika-reszka-04105a2", "https://www.linkedin.com/in/sukeshtedla", "https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw" ],
       "social-links-count" : 10,
-      "popularity-boosters" : [ "https://mobirise.me/q", "https://mobirise.com/" ],
+      "popularity-boosters" : [ "https://mobirise.com/", "https://mobirise.me/q" ],
       "popularity-boosters-count" : 2
     },
     "p-ram-amounts" : [ ],
@@ -524,9 +524,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 14,
       "duplicate-urls" : null,
-      "social-links" : [ "https://telegram.me/share/url?url=https%3A%2F%2Feosgermany.one%2F&text=Home", "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Feosgermany.one%2F&title=Home", "https://twitter.com/EOSGermany1", "https://plus.google.com/share?url=https%3A%2F%2Feosgermany.one%2F", "https://www.linkedin.com/company/eos-germany/", "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Feosgermany.one%2F", "https://www.pinterest.com/pin/create/link/?url=https%3A%2F%2Feosgermany.one%2F&media=https%3A%2F%2Feosgermany.one%2Fwp-content%2Fplugins%2Fshariff%2Fimages%2FdefaultHint.png&description=Home", "https://steemit.com/@eosgermany", "https://twitter.com/share?url=https%3A%2F%2Feosgermany.one%2F&text=Home", "whatsapp://send?text=Home%20https%3A%2F%2Feosgermany.one%2F" ],
+      "social-links" : [ "https://plus.google.com/share?url=https%3A%2F%2Feosgermany.one%2F", "https://steemit.com/@eosgermany", "https://telegram.me/share/url?url=https%3A%2F%2Feosgermany.one%2F&text=Home", "https://twitter.com/EOSGermany1", "https://twitter.com/share?url=https%3A%2F%2Feosgermany.one%2F&text=Home", "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Feosgermany.one%2F", "https://www.linkedin.com/company/eos-germany/", "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Feosgermany.one%2F&title=Home", "https://www.pinterest.com/pin/create/link/?url=https%3A%2F%2Feosgermany.one%2F&media=https%3A%2F%2Feosgermany.one%2Fwp-content%2Fplugins%2Fshariff%2Fimages%2FdefaultHint.png&description=Home", "whatsapp://send?text=Home%20https%3A%2F%2Feosgermany.one%2F" ],
       "social-links-count" : 10,
-      "popularity-boosters" : [ "https://www.xing.com/social_plugins/share?url=https%3A%2F%2Feosgermany.one%2F", "?s=", "sms:?&body=https%3A%2F%2Feosgermany.one%2F", "http://ct.de/-2467514" ],
+      "popularity-boosters" : [ "?s=", "http://ct.de/-2467514", "https://www.xing.com/social_plugins/share?url=https%3A%2F%2Feosgermany.one%2F", "sms:?&body=https%3A%2F%2Feosgermany.one%2F" ],
       "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ ],
@@ -552,9 +552,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 11,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/eosio/@yuhjtman/exchange-decentralizado-simple-para-eos-protocolo-bancor-y-un-poco-mas-alla", "https://www.meetup.com/EOS-Argentina/", " https://steemit.com/eos/@dr-waldo/por-que-luchamos-para-cambiar-el-mundo-traduccion-al-espanol-del-articulo-de-dan-larimer", "https://steemit.com/@EosArgentina", "https://steemit.com/eos/@eosgo/eos-block-producers-group-2-weekly-overview-4-30-2018", "https://www.meetup.com/EOS-Argentina", "https://t.co/sg2MrP7xC4?ssr=true", "https://steemit.com/eos/@dr-waldo/eospa-002-la-libertar-requiere-una-transparencia-radical-o-una-privacidad-radical-traduccion-al-espanol-del-articulo-de-dan", "https://www.facebook.com/groups/EOSArgentina/", "https://twitter.com/EosArgentina" ],
+      "social-links" : [ " https://steemit.com/eos/@dr-waldo/por-que-luchamos-para-cambiar-el-mundo-traduccion-al-espanol-del-articulo-de-dan-larimer", "https://steemit.com/@EosArgentina", "https://steemit.com/eos/@dr-waldo/eospa-002-la-libertar-requiere-una-transparencia-radical-o-una-privacidad-radical-traduccion-al-espanol-del-articulo-de-dan", "https://steemit.com/eos/@eosgo/eos-block-producers-group-2-weekly-overview-4-30-2018", "https://steemit.com/eosio/@yuhjtman/exchange-decentralizado-simple-para-eos-protocolo-bancor-y-un-poco-mas-alla", "https://t.co/sg2MrP7xC4?ssr=true", "https://twitter.com/EosArgentina", "https://www.facebook.com/groups/EOSArgentina/", "https://www.meetup.com/EOS-Argentina", "https://www.meetup.com/EOS-Argentina/" ],
       "social-links-count" : 10,
-      "popularity-boosters" : [ "https://www.eosfaucet.io", "http://jungle.cryptolions.io:9898/monitor/" ],
+      "popularity-boosters" : [ "http://jungle.cryptolions.io:9898/monitor/", "https://www.eosfaucet.io" ],
       "popularity-boosters-count" : 2
     },
     "p-ram-amounts" : [ ],
@@ -580,9 +580,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 5,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.linkedin.com/in/martin-he-67679517/", "https://www.linkedin.com/in/you-fu-u/", "https://www.linkedin.com/in/sshi100/", "https://twitter.com/eosland1", "https://facebook.com/eosland.eos", "https://steemit.com/@eosland", "https://www.linkedin.com/in/edward-liu-67531611b/", "https://www.linkedin.com/in/henry-yu-05645185/", "https://www.linkedin.com/in/yanhzhang/" ],
+      "social-links" : [ "https://facebook.com/eosland.eos", "https://steemit.com/@eosland", "https://twitter.com/eosland1", "https://www.linkedin.com/in/edward-liu-67531611b/", "https://www.linkedin.com/in/henry-yu-05645185/", "https://www.linkedin.com/in/martin-he-67679517/", "https://www.linkedin.com/in/sshi100/", "https://www.linkedin.com/in/yanhzhang/", "https://www.linkedin.com/in/you-fu-u/" ],
       "social-links-count" : 9,
-      "popularity-boosters" : [ "http://ece.ubc.ca/~weicai/", "https://www.google.ca/maps/place/13571+Commerce+Pkwy,+Richmond,+BC+V6V+2Z8/data=!4m2!3m1!1s0x548675774b80d5c5:0xa3e56f9373f0367e?sa=X&ved=0ahUKEwip0eyJsZ_bAhWrFzQIHemiAeYQ8gEIKDAA", "http://www.ece.ubc.ca/~vleung/", "http://www.cs.sfu.ca/~jcliu/" ],
+      "popularity-boosters" : [ "http://ece.ubc.ca/~weicai/", "http://www.cs.sfu.ca/~jcliu/", "http://www.ece.ubc.ca/~vleung/", "https://www.google.ca/maps/place/13571+Commerce+Pkwy,+Richmond,+BC+V6V+2Z8/data=!4m2!3m1!1s0x548675774b80d5c5:0xa3e56f9373f0367e?sa=X&ved=0ahUKEwip0eyJsZ_bAhWrFzQIHemiAeYQ8gEIKDAA" ],
       "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ ],
@@ -608,9 +608,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 8,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://www.meetup.com/EOS-Dublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://twitter.com/eosdublin", "https://t.me/eosdublin", "https://steemit.com/@eosdublin", "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/" ],
+      "social-links" : [ "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/@eosdublin", "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://t.me/eosdublin", "https://twitter.com/eosdublin", "https://www.meetup.com/EOS-Dublin/" ],
       "social-links-count" : 9,
-      "popularity-boosters" : [ "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/", "https://everipedia.org/wiki/eos-dublin/", "http://sonatasys.com/sonataHome.shtml" ],
+      "popularity-boosters" : [ "http://sonatasys.com/sonataHome.shtml", "https://everipedia.org/wiki/eos-dublin/", "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -636,7 +636,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 7,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.reddit.com/user/eosdetroit/", "https://medium.com/@eosiodetroit", "https://www.youtube.com/watch?v=DO4J_PC1b5M", "https://t.me/eos_detroit", "https://steemit.com/eos/@eos.detroit/eos-launch-guide", "https://steemit.com/eos/@eos.detroit/eos-detroit-an-update-our-position-on-dividends-and-our-roadmap", "https://twitter.com/eosiodetroit", "https://www.instagram.com/eosdetroit", "https://www.facebook.com/eosiodetroit/" ],
+      "social-links" : [ "https://medium.com/@eosiodetroit", "https://steemit.com/eos/@eos.detroit/eos-detroit-an-update-our-position-on-dividends-and-our-roadmap", "https://steemit.com/eos/@eos.detroit/eos-launch-guide", "https://t.me/eos_detroit", "https://twitter.com/eosiodetroit", "https://www.facebook.com/eosiodetroit/", "https://www.instagram.com/eosdetroit", "https://www.reddit.com/user/eosdetroit/", "https://www.youtube.com/watch?v=DO4J_PC1b5M" ],
       "social-links-count" : 9,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -664,9 +664,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 4,
       "duplicate-urls" : null,
-      "social-links" : [ "https://t.me/joinchat/FwtiV0tU_Tl-orBNr-uQlw", "https://medium.com/@eosBlockSmith", "https://www.meetup.com/SF-EOS/events/250795129/", "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131", "https://twitter.com/eosBlockSmith", "https://steemit.com/@eosblocksmith", "https://www.youtube.com/channel/UC0UaoraKSMrjBQ7OH-i_XPw", "https://medium.com/@eosBlockSmith/eos-blocksmith-disclosure-of-ownership-fcfc57fe3613", "https://github.com/eosBlockSmith" ],
+      "social-links" : [ "https://github.com/eosBlockSmith", "https://medium.com/@eosBlockSmith", "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131", "https://medium.com/@eosBlockSmith/eos-blocksmith-disclosure-of-ownership-fcfc57fe3613", "https://steemit.com/@eosblocksmith", "https://t.me/joinchat/FwtiV0tU_Tl-orBNr-uQlw", "https://twitter.com/eosBlockSmith", "https://www.meetup.com/SF-EOS/events/250795129/", "https://www.youtube.com/channel/UC0UaoraKSMrjBQ7OH-i_XPw" ],
       "social-links-count" : 9,
-      "popularity-boosters" : [ "https://themeisle.com/themes/hestia/", "http://wordpress.org", "https://tulipconf.com/" ],
+      "popularity-boosters" : [ "http://wordpress.org", "https://themeisle.com/themes/hestia/", "https://tulipconf.com/" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -692,9 +692,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 8,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://www.meetup.com/EOS-Dublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://twitter.com/eosdublin", "https://t.me/eosdublin", "https://steemit.com/@eosdublin", "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/" ],
+      "social-links" : [ "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/@eosdublin", "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://t.me/eosdublin", "https://twitter.com/eosdublin", "https://www.meetup.com/EOS-Dublin/" ],
       "social-links-count" : 9,
-      "popularity-boosters" : [ "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/", "https://everipedia.org/wiki/eos-dublin/", "http://sonatasys.com/sonataHome.shtml" ],
+      "popularity-boosters" : [ "http://sonatasys.com/sonataHome.shtml", "https://everipedia.org/wiki/eos-dublin/", "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -720,9 +720,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 7,
       "duplicate-urls" : null,
-      "social-links" : [ "https://en-gb.facebook.com/CardanoFoundation/", "https://twitter.com/cardanocom", "https://twitter.com/CardanoStiftung", "https://github.com/input-output-hk/cardano-sl/", "https://t.me/CardanoAnnouncements", "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg", "https://www.reddit.com/r/cardano/", "https://www.facebook.com/groups/CardanoCommunity" ],
+      "social-links" : [ "https://en-gb.facebook.com/CardanoFoundation/", "https://github.com/input-output-hk/cardano-sl/", "https://t.me/CardanoAnnouncements", "https://twitter.com/CardanoStiftung", "https://twitter.com/cardanocom", "https://www.facebook.com/groups/CardanoCommunity", "https://www.reddit.com/r/cardano/", "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg" ],
       "social-links-count" : 8,
-      "popularity-boosters" : [ "https://iohk.io/", "en/ouroboros/", "https://iohk.io/projects/cardano/", "https://daedaluswallet.io", "https://cardanodocs.com/introduction/", "en/terms-of-use", "https://forum.cardano.org/", "https://help.cardano.org/", "https://staking.cardano.org/", "http://cardanofoundation.org/", "https://cardanofoundation.org/", "http://emurgo.io/", "https://forum.cardano.org", "https://cardanoroadmap.com/", "https://whycardano.com/", "en/cookie-policy", "https://cardanoexplorer.com/", "http://daedaluswallet.io", "en/privacy-policy", "https://emurgo.io" ],
+      "popularity-boosters" : [ "en/cookie-policy", "en/ouroboros/", "en/privacy-policy", "en/terms-of-use", "http://cardanofoundation.org/", "http://daedaluswallet.io", "http://emurgo.io/", "https://cardanodocs.com/introduction/", "https://cardanoexplorer.com/", "https://cardanofoundation.org/", "https://cardanoroadmap.com/", "https://daedaluswallet.io", "https://emurgo.io", "https://forum.cardano.org", "https://forum.cardano.org/", "https://help.cardano.org/", "https://iohk.io/", "https://iohk.io/projects/cardano/", "https://staking.cardano.org/", "https://whycardano.com/" ],
       "popularity-boosters-count" : 20
     },
     "p-ram-amounts" : [ ],
@@ -748,7 +748,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 2,
       "duplicate-urls" : null,
-      "social-links" : [ "http://www.linkedin.com/in/domenic-thomas-5403676/", "http://www.linkedin.com/in/jeff-anderson-3777aa13/", "http://www.linkedin.com/in/andmorale/", "http://www.linkedin.com/in/lauramagnano/", "http://www.linkedin.com/in/samueljamesrussell/", "http://www.linkedin.com/company/worbl", "http://www.linkedin.com/in/ckellogg/", "http://www.linkedin.com/in/robert-dewilder-6b83311/" ],
+      "social-links" : [ "http://www.linkedin.com/company/worbl", "http://www.linkedin.com/in/andmorale/", "http://www.linkedin.com/in/ckellogg/", "http://www.linkedin.com/in/domenic-thomas-5403676/", "http://www.linkedin.com/in/jeff-anderson-3777aa13/", "http://www.linkedin.com/in/lauramagnano/", "http://www.linkedin.com/in/robert-dewilder-6b83311/", "http://www.linkedin.com/in/samueljamesrussell/" ],
       "social-links-count" : 8,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -776,9 +776,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 28,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/OKEx_", "https://t.me/eos_ok ", "https://www.facebook.com/OKExOfficial/?ref=br_tf", "https://weibo.com/bafanghuzhu", "https://github.com/eosok", "https://medium.com/okex-blog", "https://twitter.com/eos_ok", "https://0.plus/sp/okexofficial_cn" ],
+      "social-links" : [ "https://0.plus/sp/okexofficial_cn", "https://github.com/eosok", "https://medium.com/okex-blog", "https://t.me/eos_ok ", "https://twitter.com/OKEx_", "https://twitter.com/eos_ok", "https://weibo.com/bafanghuzhu", "https://www.facebook.com/OKExOfficial/?ref=br_tf" ],
       "social-links-count" : 8,
-      "popularity-boosters" : [ "https://www.vvpool.com/", "https://www.7234.cn", "http://www.gongxiangcj.com/", "http://miner.tools/", "https://www.okcoin.com", "http://www.btc38.com/", "http://www.qukuaiwang.com.cn", "http://upgradeapp.oss-cn-hangzhou.aliyuncs.com/upgradeapp/OKEx.dmg", "http://www.feixiaohao.com", "http://www.bcfans.com/", "http://www.jgy.com", "http://www.fn.com/", "https://www.f2pool.com/", "http://www.huoxing24.com/", "https://www.pandaminer.com/okex", "http://www.jinniu.cn/", "https://www.atoken.com", "http://www.haob.cc", "http://www.wabi.com", "http://www.blockvalue.com", "http://ethbtc.org", "http://www.btc126.com", "http://www.btc798.com", "https://www.ihuoqiu.com/", "http://chainnews.com/", "http://www.haitunbc.com/", "http://bixiaobai.com/", "http://www.wanbizu.com", "http://www.cybtc.com", "https://support.okex.com/hc/zh-cn/articles/360000566692", "http://www.bibaodao.com", "http://www.weilaicaijing.com/", "https://www.pgyer.com/BetaOKEx", "https://www.chainwhy.com", "https://www.coingogo.com", "http://upgradeapp.oss-cn-hangzhou.aliyuncs.com/upgradeapp/OKEx_Setup.exe", "http://www.qukuainews.cn", "http://www.5bite.com", "https://www.hecaijing.com", "http://www.bitejie.net", "https://cobo.com/", "http://biyiye.com/", "http://biqushi.cn/", "http://www.chainfor.com", "http://www.bitkan.com", "http://www.bareas.com/", "http://www.tokenpapa.com", "https://block.cc/ ", "http://www.aicoin.com", "http://www.bishequ.com/", "http://app.mytoken.io" ],
+      "popularity-boosters" : [ "http://app.mytoken.io", "http://biqushi.cn/", "http://bixiaobai.com/", "http://biyiye.com/", "http://chainnews.com/", "http://ethbtc.org", "http://miner.tools/", "http://upgradeapp.oss-cn-hangzhou.aliyuncs.com/upgradeapp/OKEx.dmg", "http://upgradeapp.oss-cn-hangzhou.aliyuncs.com/upgradeapp/OKEx_Setup.exe", "http://www.5bite.com", "http://www.aicoin.com", "http://www.bareas.com/", "http://www.bcfans.com/", "http://www.bibaodao.com", "http://www.bishequ.com/", "http://www.bitejie.net", "http://www.bitkan.com", "http://www.blockvalue.com", "http://www.btc126.com", "http://www.btc38.com/", "http://www.btc798.com", "http://www.chainfor.com", "http://www.cybtc.com", "http://www.feixiaohao.com", "http://www.fn.com/", "http://www.gongxiangcj.com/", "http://www.haitunbc.com/", "http://www.haob.cc", "http://www.huoxing24.com/", "http://www.jgy.com", "http://www.jinniu.cn/", "http://www.qukuainews.cn", "http://www.qukuaiwang.com.cn", "http://www.tokenpapa.com", "http://www.wabi.com", "http://www.wanbizu.com", "http://www.weilaicaijing.com/", "https://block.cc/ ", "https://cobo.com/", "https://support.okex.com/hc/zh-cn/articles/360000566692", "https://www.7234.cn", "https://www.atoken.com", "https://www.chainwhy.com", "https://www.coingogo.com", "https://www.f2pool.com/", "https://www.hecaijing.com", "https://www.ihuoqiu.com/", "https://www.okcoin.com", "https://www.pandaminer.com/okex", "https://www.pgyer.com/BetaOKEx", "https://www.vvpool.com/" ],
       "popularity-boosters-count" : 51
     },
     "p-ram-amounts" : [ ],
@@ -804,7 +804,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 0,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@eosmatrix", "https://www.linkedin.com/company/sheleaders/", "https://github.com/SheLeaders", "http://www.facebook.com/wix", "https://t.me/sheleaders", "https://www.reddit.com/user/SheLeaders/", "https://www.youtube.com/channel/UC3iI03zXeBwvij9kD_aSsjA", "https://twitter.com/SheLeaders_" ],
+      "social-links" : [ "http://www.facebook.com/wix", "https://github.com/SheLeaders", "https://steemit.com/@eosmatrix", "https://t.me/sheleaders", "https://twitter.com/SheLeaders_", "https://www.linkedin.com/company/sheleaders/", "https://www.reddit.com/user/SheLeaders/", "https://www.youtube.com/channel/UC3iI03zXeBwvij9kD_aSsjA" ],
       "social-links-count" : 8,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -832,9 +832,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 2,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@eos-asia", "https://github.com/eosasia", "https://steemit.com/eos-blockproducers/@eos-asia/eos-asia-block-producer-candidacy", "https://twitter.com/eosasia_one", "https://github.com/eos-asia", "https://medium.com/@eosasia", "https://reddit.com/u/eos-asia", "https://t.me/EOSAsia" ],
+      "social-links" : [ "https://github.com/eos-asia", "https://github.com/eosasia", "https://medium.com/@eosasia", "https://reddit.com/u/eos-asia", "https://steemit.com/@eos-asia", "https://steemit.com/eos-blockproducers/@eos-asia/eos-asia-block-producer-candidacy", "https://t.me/EOSAsia", "https://twitter.com/eosasia_one" ],
       "social-links-count" : 8,
-      "popularity-boosters" : [ "https://segmentfault.com/hackathon-2018", "https://vote.eosasia.one", "https://bp.eosgo.io", "https://www.txtnet.io", "http://eos-link.com/", "https://www.eosgems.io", "https://eos.io" ],
+      "popularity-boosters" : [ "http://eos-link.com/", "https://bp.eosgo.io", "https://eos.io", "https://segmentfault.com/hackathon-2018", "https://vote.eosasia.one", "https://www.eosgems.io", "https://www.txtnet.io" ],
       "popularity-boosters-count" : 7
     },
     "p-ram-amounts" : [ ],
@@ -860,9 +860,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 19,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@csx-eos", "https://keybase.io/csx_corp", "https://www.linkedin.com/company/csx-corp/", "https://www.youtube.com/channel/UCNjucUvoiMqbVMc28-3BIMg?view_as=subscriber", "https://www.facebook.com/CSXCorp/", "https://twitter.com/CSXcorp", "https://t.me/joinchat/Had_iBJnNccT1hjdlV3edw" ],
+      "social-links" : [ "https://keybase.io/csx_corp", "https://steemit.com/@csx-eos", "https://t.me/joinchat/Had_iBJnNccT1hjdlV3edw", "https://twitter.com/CSXcorp", "https://www.facebook.com/CSXCorp/", "https://www.linkedin.com/company/csx-corp/", "https://www.youtube.com/channel/UCNjucUvoiMqbVMc28-3BIMg?view_as=subscriber" ],
       "social-links-count" : 7,
-      "popularity-boosters" : [ "855-9-CSX.COM", "https://wyobiz.wy.gov/Business/FilingDetails.aspx?eFNum=049075178157217104243064092010142191132183135056", "https://www.yellowpages.com/cheyenne-wy/mip/csx-corp-503916229" ],
+      "popularity-boosters" : [ "855-9-CSX.COM", "https://www.yellowpages.com/cheyenne-wy/mip/csx-corp-503916229", "https://wyobiz.wy.gov/Business/FilingDetails.aspx?eFNum=049075178157217104243064092010142191132183135056" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -888,9 +888,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 8,
       "duplicate-urls" : null,
-      "social-links" : [ "https://keybase.io/team/eos_blockchained", "https://t.me/blckchnd_EOS", "https://twitter.com/BLCKCHND", "https://github.com/blckchnd", "https://github.com/graphenelab", "https://steemit.com/@blockchained", "https://medium.com/@eos.blckchnd" ],
+      "social-links" : [ "https://github.com/blckchnd", "https://github.com/graphenelab", "https://keybase.io/team/eos_blockchained", "https://medium.com/@eos.blckchnd", "https://steemit.com/@blockchained", "https://t.me/blckchnd_EOS", "https://twitter.com/BLCKCHND" ],
       "social-links-count" : 7,
-      "popularity-boosters" : [ "https://rudex.org/", "myeoswallet.app", "https://hashtelegraph.com/", "eosexplorer.app", "http://golos.io/@blockchained", "https://gate108.org/" ],
+      "popularity-boosters" : [ "eosexplorer.app", "http://golos.io/@blockchained", "https://gate108.org/", "https://hashtelegraph.com/", "https://rudex.org/", "myeoswallet.app" ],
       "popularity-boosters-count" : 6
     },
     "p-ram-amounts" : [ ],
@@ -916,9 +916,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 9,
       "duplicate-urls" : null,
-      "social-links" : [ "http://t.me/eospace", "https://weibo.com/wangyunming", "https://github.com/noprom", "https://eosio.github.io/eos/", "https://github.com/daimajia", "https://twitter.com/EospaceI", "https://github.com/eosio" ],
+      "social-links" : [ "http://t.me/eospace", "https://eosio.github.io/eos/", "https://github.com/daimajia", "https://github.com/eosio", "https://github.com/noprom", "https://twitter.com/EospaceI", "https://weibo.com/wangyunming" ],
       "social-links-count" : 7,
-      "popularity-boosters" : [ "https://eosdevs.io", "https://eosblock.co/", "https://mp.weixin.qq.com/s/atZqseld5uIHI-vz8XTuqQ", "https://eosblock.co", "https://dapphub.co", "https://dapphub.co/", "https://eos.io/", "http://chainews.io/", "https://eosdevs.io/" ],
+      "popularity-boosters" : [ "http://chainews.io/", "https://dapphub.co", "https://dapphub.co/", "https://eos.io/", "https://eosblock.co", "https://eosblock.co/", "https://eosdevs.io", "https://eosdevs.io/", "https://mp.weixin.qq.com/s/atZqseld5uIHI-vz8XTuqQ" ],
       "popularity-boosters-count" : 9
     },
     "p-ram-amounts" : [ ],
@@ -944,7 +944,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 2,
       "duplicate-urls" : null,
-      "social-links" : [ "http://twitter.com/eosnairobi", "https://steemit.com/blockproducer/@eosnairobi/eos-nairobi-block-producer-candidacy-announcement", "https://plus.google.com/u/0/114906173309201538228", "https://twitter.com/eosnairobi", "https://www.facebook.com/EOS-Nairobi-414165502379239/?ref=br_rs", "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md", "https://facebook.com/eosnairobi" ],
+      "social-links" : [ "http://twitter.com/eosnairobi", "https://facebook.com/eosnairobi", "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md", "https://plus.google.com/u/0/114906173309201538228", "https://steemit.com/blockproducer/@eosnairobi/eos-nairobi-block-producer-candidacy-announcement", "https://twitter.com/eosnairobi", "https://www.facebook.com/EOS-Nairobi-414165502379239/?ref=br_rs" ],
       "social-links-count" : 7,
       "popularity-boosters" : [ "https://extendthemes.com/go/built-with-mesmerize/" ],
       "popularity-boosters-count" : 1
@@ -972,9 +972,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 5,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@eoseoul", "https://twitter.com/eoseoul_kor", "https://www.facebook.com/EOSeoul.kr/", "https://github.com/EOSeoul", "https://t.me/eoseoul", "https://twitter.com/hashtag/EOS?src=hash", "https://www.youtube.com/channel/UCC7kpjBdGB4idE7JAe0Lviw" ],
+      "social-links" : [ "https://github.com/EOSeoul", "https://steemit.com/@eoseoul", "https://t.me/eoseoul", "https://twitter.com/eoseoul_kor", "https://twitter.com/hashtag/EOS?src=hash", "https://www.facebook.com/EOSeoul.kr/", "https://www.youtube.com/channel/UCC7kpjBdGB4idE7JAe0Lviw" ],
       "social-links-count" : 7,
-      "popularity-boosters" : [ "http://portal.eoseoul.io", "http://meet.one/pomelo" ],
+      "popularity-boosters" : [ "http://meet.one/pomelo", "http://portal.eoseoul.io" ],
       "popularity-boosters-count" : 2
     },
     "p-ram-amounts" : [ ],
@@ -1000,7 +1000,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/activeeos/nodeos-monitor", "https://www.meetup.com/LA-Decentralized-Web/", "https://twitter.com/activeeos", "https://t.me/activeeosforum", "https://github.com/activeeos", "https://github.com/activeeos/eos-helm" ],
+      "social-links" : [ "https://github.com/activeeos", "https://github.com/activeeos/eos-helm", "https://github.com/activeeos/nodeos-monitor", "https://t.me/activeeosforum", "https://twitter.com/activeeos", "https://www.meetup.com/LA-Decentralized-Web/" ],
       "social-links-count" : 6,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -1028,7 +1028,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/activeeos/nodeos-monitor", "https://www.meetup.com/LA-Decentralized-Web/", "https://twitter.com/activeeos", "https://t.me/activeeosforum", "https://github.com/activeeos", "https://github.com/activeeos/eos-helm" ],
+      "social-links" : [ "https://github.com/activeeos", "https://github.com/activeeos/eos-helm", "https://github.com/activeeos/nodeos-monitor", "https://t.me/activeeosforum", "https://twitter.com/activeeos", "https://www.meetup.com/LA-Decentralized-Web/" ],
       "social-links-count" : 6,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -1056,7 +1056,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/activeeos/nodeos-monitor", "https://www.meetup.com/LA-Decentralized-Web/", "https://twitter.com/activeeos", "https://t.me/activeeosforum", "https://github.com/activeeos", "https://github.com/activeeos/eos-helm" ],
+      "social-links" : [ "https://github.com/activeeos", "https://github.com/activeeos/eos-helm", "https://github.com/activeeos/nodeos-monitor", "https://t.me/activeeosforum", "https://twitter.com/activeeos", "https://www.meetup.com/LA-Decentralized-Web/" ],
       "social-links-count" : 6,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -1084,7 +1084,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 2,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/eos/@alohaeos/aloha-eos-block-producer-candidacy", "https://www.reddit.com/user/alohaeos", "https://github.com/AlohaEOS", "https://keybase.io/alohaeos", "https://t.me/AlohaEOS", "https://twitter.com/eosaloha" ],
+      "social-links" : [ "https://github.com/AlohaEOS", "https://keybase.io/alohaeos", "https://steemit.com/eos/@alohaeos/aloha-eos-block-producer-candidacy", "https://t.me/AlohaEOS", "https://twitter.com/eosaloha", "https://www.reddit.com/user/alohaeos" ],
       "social-links-count" : 6,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -1112,9 +1112,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 5,
       "duplicate-urls" : null,
-      "social-links" : [ "https://eosportal.io/chain/12/producers", "https://www.linkedin.com/in/yonel/", "https://www.linkedin.com/in/victor-hogrefe-b7b4a4125/", "https://www.linkedin.com/in/chen-li/", "https://www.linkedin.com/in/guowei-huang-8a6b5210b/", "https://steemit.com/eos-blockproducers/@eosvancouver/eos-van-eosvan-io-block-producer-candidates" ],
+      "social-links" : [ "https://eosportal.io/chain/12/producers", "https://steemit.com/eos-blockproducers/@eosvancouver/eos-van-eosvan-io-block-producer-candidates", "https://www.linkedin.com/in/chen-li/", "https://www.linkedin.com/in/guowei-huang-8a6b5210b/", "https://www.linkedin.com/in/victor-hogrefe-b7b4a4125/", "https://www.linkedin.com/in/yonel/" ],
       "social-links-count" : 6,
-      "popularity-boosters" : [ "https://www.udacity.com/", "http://eosvan.io/", "https://www.bcit.ca/", "https://www.udemy.com/", "https://www.ubc.ca/", "https://www.sfu.ca/", "http://dev.cryptolions.io/mainnet/" ],
+      "popularity-boosters" : [ "http://dev.cryptolions.io/mainnet/", "http://eosvan.io/", "https://www.bcit.ca/", "https://www.sfu.ca/", "https://www.ubc.ca/", "https://www.udacity.com/", "https://www.udemy.com/" ],
       "popularity-boosters-count" : 7
     },
     "p-ram-amounts" : [ ],
@@ -1140,7 +1140,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 6,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag", "https://steemit.com/@eosvibes", "https://twitter.com/eosvibes_bp", "https://github.com/hirevibes/docs/blob/master/hvt.md", "https://t.me/eosvibes_bp", "https://github.com/EOSVibes/docs/blob/master/constitution/v0.1.md" ],
+      "social-links" : [ "https://github.com/EOSVibes/docs/blob/master/constitution/v0.1.md", "https://github.com/hirevibes/docs/blob/master/hvt.md", "https://steemit.com/@eosvibes", "https://t.me/eosvibes_bp", "https://twitter.com/eosvibes_bp", "https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag" ],
       "social-links-count" : 6,
       "popularity-boosters" : [ "https://eos.io" ],
       "popularity-boosters-count" : 1
@@ -1168,9 +1168,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 0,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/eosiosg/testnet", "https://t.me/eosiosg", "https://www.facebook.com/eosiosg-168790343770758/", "https://steemit.com/@eosiosg", "https://twitter.com/eosiosg", "https://medium.com/@eosiosg" ],
+      "social-links" : [ "https://github.com/eosiosg/testnet", "https://medium.com/@eosiosg", "https://steemit.com/@eosiosg", "https://t.me/eosiosg", "https://twitter.com/eosiosg", "https://www.facebook.com/eosiosg-168790343770758/" ],
       "social-links-count" : 6,
-      "popularity-boosters" : [ "https://eoseoul.io/", "https://eosauthority.com/", "https://meet.one/", "https://eosnation.io/", "https://eoscannon.io/" ],
+      "popularity-boosters" : [ "https://eosauthority.com/", "https://eoscannon.io/", "https://eoseoul.io/", "https://eosnation.io/", "https://meet.one/" ],
       "popularity-boosters-count" : 5
     },
     "p-ram-amounts" : [ ],
@@ -1196,9 +1196,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 10,
       "duplicate-urls" : null,
-      "social-links" : [ "https://line.me/R/ti/p/@xnk8984e", "https://www.facebook.com/eosjapan/", "http://twitter.com/eosjapan_jeda", "https://www.facebook.com/andes.good.history", "https://www.instagram.com/eosjapan/", "http://t.me/eosjapan" ],
+      "social-links" : [ "http://t.me/eosjapan", "http://twitter.com/eosjapan_jeda", "https://line.me/R/ti/p/@xnk8984e", "https://www.facebook.com/andes.good.history", "https://www.facebook.com/eosjapan/", "https://www.instagram.com/eosjapan/" ],
       "social-links-count" : 6,
-      "popularity-boosters" : [ "https://bitcoin-news.tokyo/profile/", "https://coin-otaku.com", "http://japanfintech.org", "http://www.eosjapan.info/?p=299", "http://www.eosjapan.info/", "http://www.eosjapan.info/?p=330", "http://www.eosjapan.info/?p=319", "http://www.eosjapan.info/?cat=3" ],
+      "popularity-boosters" : [ "http://japanfintech.org", "http://www.eosjapan.info/", "http://www.eosjapan.info/?cat=3", "http://www.eosjapan.info/?p=299", "http://www.eosjapan.info/?p=319", "http://www.eosjapan.info/?p=330", "https://bitcoin-news.tokyo/profile/", "https://coin-otaku.com" ],
       "popularity-boosters-count" : 8
     },
     "p-ram-amounts" : [ ],
@@ -1224,9 +1224,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 87,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.facebook.com/fifaworldcup", "https://www.instagram.com/fifaworldcup/", "https://twitter.com/FifaWorldCup", "https://www.youtube.com/FIFATV", "https://www.weibo.com/FIFAWorldCup?is_hot=1" ],
+      "social-links" : [ "https://twitter.com/FifaWorldCup", "https://www.facebook.com/fifaworldcup", "https://www.instagram.com/fifaworldcup/", "https://www.weibo.com/FIFAWorldCup?is_hot=1", "https://www.youtube.com/FIFATV" ],
       "social-links-count" : 5,
-      "popularity-boosters" : [ "http://en.fifa.com", "http://fr.fifa.com", "http://ru.fifa.com", "http://www.mcdonalds.com", "https://paninistickeralbum.fifa.com", "https://fifaofficial.cn", "http://welcome2018.com/en/", "http://es.fifa.com", "http://www.kia.com/worldwide", "http://ar.fifa.com", "http://www.hyundai-motor.com", "{MATCHURL}", "http://fifa.com/store/index.html", "http://www.coca-cola.com", "https://paninistickeralbum.fifa.com/launch", "http://store.fifa.com/", "https://account.fifa.com/5a7baeb7-e706-4830-ad9f-103eba126311/oauth2/v2.0/authorize?p=b2c_1a_fifa_signuporsignin&client_Id=64e9afa8-c5c0-413d-882b-bc9e6a81e264&nonce=defaultNonce&prompt=login&redirect_uri=https%3A%2F%2Fwww.fifa.com%2Ftheclub%2Ftools%2Fcomment%2F_ms_login_handler.htmx&scope=openid%20offline_access&response_type=code&response_mode=form_post", "http://www.wanda-group.com", "http://de.fifa.com", "https://football-technology.fifa.com/en/innovations/var-at-the-world-cup/?utm_source=FIFA.com&utm_medium=Teaser_VAR_WC&utm_campaign=Teaser+-+FIFA.com", "https://fifaofficial.cn/", "https://predictor.fifa.com/en?ignoredeeplink=true" ],
+      "popularity-boosters" : [ "http://ar.fifa.com", "http://de.fifa.com", "http://en.fifa.com", "http://es.fifa.com", "http://fifa.com/store/index.html", "http://fr.fifa.com", "http://ru.fifa.com", "http://store.fifa.com/", "http://welcome2018.com/en/", "http://www.coca-cola.com", "http://www.hyundai-motor.com", "http://www.kia.com/worldwide", "http://www.mcdonalds.com", "http://www.wanda-group.com", "https://account.fifa.com/5a7baeb7-e706-4830-ad9f-103eba126311/oauth2/v2.0/authorize?p=b2c_1a_fifa_signuporsignin&client_Id=64e9afa8-c5c0-413d-882b-bc9e6a81e264&nonce=defaultNonce&prompt=login&redirect_uri=https%3A%2F%2Fwww.fifa.com%2Ftheclub%2Ftools%2Fcomment%2F_ms_login_handler.htmx&scope=openid%20offline_access&response_type=code&response_mode=form_post", "https://fifaofficial.cn", "https://fifaofficial.cn/", "https://football-technology.fifa.com/en/innovations/var-at-the-world-cup/?utm_source=FIFA.com&utm_medium=Teaser_VAR_WC&utm_campaign=Teaser+-+FIFA.com", "https://paninistickeralbum.fifa.com", "https://paninistickeralbum.fifa.com/launch", "https://predictor.fifa.com/en?ignoredeeplink=true", "{MATCHURL}" ],
       "popularity-boosters-count" : 22
     },
     "p-ram-amounts" : [ ],
@@ -1252,9 +1252,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.meetup.com/EOSMiami", "https://www.facebook.com/eosmiami", "https://t.me/EOSproject", "https://reddit.com/r/EOS", "https://www.reddit.com/r/eos/" ],
+      "social-links" : [ "https://reddit.com/r/EOS", "https://t.me/EOSproject", "https://www.facebook.com/eosmiami", "https://www.meetup.com/EOSMiami", "https://www.reddit.com/r/eos/" ],
       "social-links-count" : 5,
-      "popularity-boosters" : [ "https://www.cnbc.com/2018/05/31/a-blockchain-start-up-just-raised-4-billion-without-a-live-product.html", "https://www.wsj.com/articles/investors-bet-4-billion-on-a-cryptocurrency-startup-1527591600", "https://eos.io" ],
+      "popularity-boosters" : [ "https://eos.io", "https://www.cnbc.com/2018/05/31/a-blockchain-start-up-just-raised-4-billion-without-a-live-product.html", "https://www.wsj.com/articles/investors-bet-4-billion-on-a-cryptocurrency-startup-1527591600" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -1280,9 +1280,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://discord.gg/bPyM9sJ", "https://www.reddit.com/r/EOSfuture/new/", "https://eosportal.io/chain/12/producers/eosfutureldn", "http://t.me/EOSfuturenews", "http://twitter.com/EOSfutureio" ],
+      "social-links" : [ "http://t.me/EOSfuturenews", "http://twitter.com/EOSfutureio", "https://discord.gg/bPyM9sJ", "https://eosportal.io/chain/12/producers/eosfutureldn", "https://www.reddit.com/r/EOSfuture/new/" ],
       "social-links-count" : 5,
-      "popularity-boosters" : [ "http://wordpress.org/", "https://colorlib.com/", "https://automattic.com/cookies/" ],
+      "popularity-boosters" : [ "http://wordpress.org/", "https://automattic.com/cookies/", "https://colorlib.com/" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -1308,9 +1308,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/eospalliums", "https://twitter.com/EOSPalliums", "https://bp.eosgo.io/listing/eospalliums/", "https://medium.com/@eospalliums", "https://steemit.com/eos/@hank168/campaign-plan-for-eos-palliums-super-nodes" ],
+      "social-links" : [ "https://bp.eosgo.io/listing/eospalliums/", "https://github.com/eospalliums", "https://medium.com/@eospalliums", "https://steemit.com/eos/@hank168/campaign-plan-for-eos-palliums-super-nodes", "https://twitter.com/EOSPalliums" ],
       "social-links-count" : 5,
-      "popularity-boosters" : [ "https://edu.csdn.net/agency/index/531", "http://www.cyberledger.org", "https://www.jinse.com/blockchain/196869.html", "http://www.21vianet.com", "http://www.pallet.one", "https://www.lediaocha.com/pc/s/7n6xz0vn", "https://fb.me/EOSPalliums", "http://www.21vbluecloud.com", "https://www.csdn.net/", "http://wemedia.ifeng.com/62921020/wemedia.shtml", "http://www.wifire.net", "http://idhub.network", " " ],
+      "popularity-boosters" : [ " ", "http://idhub.network", "http://wemedia.ifeng.com/62921020/wemedia.shtml", "http://www.21vbluecloud.com", "http://www.21vianet.com", "http://www.cyberledger.org", "http://www.pallet.one", "http://www.wifire.net", "https://edu.csdn.net/agency/index/531", "https://fb.me/EOSPalliums", "https://www.csdn.net/", "https://www.jinse.com/blockchain/196869.html", "https://www.lediaocha.com/pc/s/7n6xz0vn" ],
       "popularity-boosters-count" : 13
     },
     "p-ram-amounts" : [ "RAM", "1TB RAM" ],
@@ -1336,7 +1336,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 6,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/EOS_Galaxy", "https://github.com/EosGalaxy", "https://t.me/joinchat/HU-8vBEBmUHmjZ1zu6zoow", "https://steemit.com/@kevinxu/", "https://www.reddit.com/user/EOSGalaxy" ],
+      "social-links" : [ "https://github.com/EosGalaxy", "https://steemit.com/@kevinxu/", "https://t.me/joinchat/HU-8vBEBmUHmjZ1zu6zoow", "https://twitter.com/EOS_Galaxy", "https://www.reddit.com/user/EOSGalaxy" ],
       "social-links-count" : 5,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -1364,7 +1364,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "http://t.me/eosnodeone_kr", "https://www.twitter.com/eosnodeone", "https://www.steemit.com/@eosnodeone", "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying", "https://steemit.com/bp/@eosnodeone/eos-go-block-producer-report-eos-nodeone" ],
+      "social-links" : [ "http://t.me/eosnodeone_kr", "https://steemit.com/bp/@eosnodeone/eos-go-block-producer-report-eos-nodeone", "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying", "https://www.steemit.com/@eosnodeone", "https://www.twitter.com/eosnodeone" ],
       "social-links-count" : 5,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -1392,9 +1392,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 0,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/eosrio", "https://github.com/eosrio/eosbeat", "https://steemit.com/@eosrio", "https://t.me/eosrio", "https://github.com/igorls/eos-node-governor" ],
+      "social-links" : [ "https://github.com/eosrio", "https://github.com/eosrio/eosbeat", "https://github.com/igorls/eos-node-governor", "https://steemit.com/@eosrio", "https://t.me/eosrio" ],
       "social-links-count" : 5,
-      "popularity-boosters" : [ "http://eosslc.com/monitor/", "http://superhero3monitor.eosgreen.io", "http://jungle.cryptolions.io:9898/monitor/" ],
+      "popularity-boosters" : [ "http://eosslc.com/monitor/", "http://jungle.cryptolions.io:9898/monitor/", "http://superhero3monitor.eosgreen.io" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -1420,7 +1420,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 7,
       "duplicate-urls" : null,
-      "social-links" : [ "https://discord.io/eoscafe", "https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting", "https://twitter.com/eoscafecalgary", "https://t.me/eoscafecalgary", "https://medium.com/@eoscafe" ],
+      "social-links" : [ "https://discord.io/eoscafe", "https://medium.com/@eoscafe", "https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting", "https://t.me/eoscafecalgary", "https://twitter.com/eoscafecalgary" ],
       "social-links-count" : 5,
       "popularity-boosters" : [ "http://mainnet.eoscalgary.io/v1/chain/get_info" ],
       "popularity-boosters-count" : 1
@@ -1448,9 +1448,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 5,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/eos/@eos42/eos42-statement-of-ownership-and-code-of-conduct-v1-0", "https://www.youtube.com/channel/UC8ZDYr5Qi-N_eTZIvo61dFw", "https://github.com/eos42", "https://twitter.com/eos42io", "https://www.weibo.com/u/6527187504" ],
+      "social-links" : [ "https://github.com/eos42", "https://steemit.com/eos/@eos42/eos42-statement-of-ownership-and-code-of-conduct-v1-0", "https://twitter.com/eos42io", "https://www.weibo.com/u/6527187504", "https://www.youtube.com/channel/UC8ZDYr5Qi-N_eTZIvo61dFw" ],
       "social-links-count" : 5,
-      "popularity-boosters" : [ "https://blog.eos42.io/how-to-vote-on-the-eos-blockchain/", "http://blog.eos42.io" ],
+      "popularity-boosters" : [ "http://blog.eos42.io", "https://blog.eos42.io/how-to-vote-on-the-eos-blockchain/" ],
       "popularity-boosters-count" : 2
     },
     "p-ram-amounts" : [ ],
@@ -1470,15 +1470,15 @@
     },
     "summary" : {
       "img-count" : 13,
-      "p-count" : 27,
+      "p-count" : 28,
       "a-count" : 48
     },
     "analyzed-urls" : {
       "relative-links-count" : 32,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.facebook.com/bitfinex", "https://www.linkedin.com/company/bitfinex-limited/", "https://twitter.com/bitfinex", "http://t.me/bfxtelegram", "https://www.facebook.com/bitfinex1" ],
+      "social-links" : [ "http://t.me/bfxtelegram", "https://twitter.com/bitfinex", "https://www.facebook.com/bitfinex", "https://www.facebook.com/bitfinex1", "https://www.linkedin.com/company/bitfinex-limited/" ],
       "social-links-count" : 5,
-      "popularity-boosters" : [ "https://bitfinex.statuspage.io/", "http://docs.bitfinex.com/", "http://blog.bitfinex.com/", "https://support.bitfinex.com/", "http://blog.bitfinex.com/newsletter/", "http://blog.bitfinex.com/category/changelogs/", "http://docs.bitfinex.com", "https://itunes.apple.com/us/app/bitfinex/id1079033582", "https://play.google.com/store/apps/details?id=com.bitfinex.bfxapp", "https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens" ],
+      "popularity-boosters" : [ "http://blog.bitfinex.com/", "http://blog.bitfinex.com/category/changelogs/", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com", "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://itunes.apple.com/us/app/bitfinex/id1079033582", "https://play.google.com/store/apps/details?id=com.bitfinex.bfxapp", "https://support.bitfinex.com/", "https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens" ],
       "popularity-boosters-count" : 10
     },
     "p-ram-amounts" : [ ],
@@ -1504,7 +1504,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 5,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.linkedin.com/company/aibilink", "https://twitter.com/AiBiLink", "http://weibo.com/aibilink", "http://www.facebook.com/aibilink" ],
+      "social-links" : [ "http://weibo.com/aibilink", "http://www.facebook.com/aibilink", "https://twitter.com/AiBiLink", "https://www.linkedin.com/company/aibilink" ],
       "social-links-count" : 4,
       "popularity-boosters" : [ "http://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%91%E7%81%B5%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8", "http://www.miibeian.gov.cn" ],
       "popularity-boosters-count" : 2
@@ -1532,9 +1532,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 5,
       "duplicate-urls" : null,
-      "social-links" : [ "https://t.me/cobowallet", "https://weibo.com/u/6450251003", " https://www.facebook.com/coboapp", "https://twitter.com/cobowallet" ],
+      "social-links" : [ " https://www.facebook.com/coboapp", "https://t.me/cobowallet", "https://twitter.com/cobowallet", "https://weibo.com/u/6450251003" ],
       "social-links-count" : 4,
-      "popularity-boosters" : [ "https://www.vvpool.com/", "https://www.bibox.com/", "https://www.tuoluocaijing.cn/", "http://miner.tools/", "http://www.bitbee24.com", "https://www.feixiaohao.com/", "https://www.f2pool.com/", "https://www.pandaminer.com/", "http://jgy.com/", "https://www.chainfor.com/", "http://www.bitcoin86.com/", "http://www.btc789.com/", "https://www.okex.com/", "http://www.wabi.com/", "http://biqushi.cn/", "https://www.aicoin.com/" ],
+      "popularity-boosters" : [ "http://biqushi.cn/", "http://jgy.com/", "http://miner.tools/", "http://www.bitbee24.com", "http://www.bitcoin86.com/", "http://www.btc789.com/", "http://www.wabi.com/", "https://www.aicoin.com/", "https://www.bibox.com/", "https://www.chainfor.com/", "https://www.f2pool.com/", "https://www.feixiaohao.com/", "https://www.okex.com/", "https://www.pandaminer.com/", "https://www.tuoluocaijing.cn/", "https://www.vvpool.com/" ],
       "popularity-boosters-count" : 16
     },
     "p-ram-amounts" : [ ],
@@ -1560,9 +1560,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 0,
       "duplicate-urls" : null,
-      "social-links" : [ "https://keybase.io/roelandp", "https://steemit.com/introduceyourself/@roelandp/my-proper-introduceyourself-hello-i-m-roelandp", "https://github.com/roelandp", "https://github.com/EOSIO/eos/issues/2016" ],
+      "social-links" : [ "https://github.com/EOSIO/eos/issues/2016", "https://github.com/roelandp", "https://keybase.io/roelandp", "https://steemit.com/introduceyourself/@roelandp/my-proper-introduceyourself-hello-i-m-roelandp" ],
       "social-links-count" : 4,
-      "popularity-boosters" : [ "http://jungle.cryptolions.io:9898/monitor3/", "https://shoudio.com", "Streamed", "http://eosslc.com/arrowhead/", "https://EOS.io" ],
+      "popularity-boosters" : [ "Streamed", "http://eosslc.com/arrowhead/", "http://jungle.cryptolions.io:9898/monitor3/", "https://EOS.io", "https://shoudio.com" ],
       "popularity-boosters-count" : 5
     },
     "p-ram-amounts" : [ "RAM" ],
@@ -1588,7 +1588,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "http://medium.com/@eosthu", "http://facebook.com/eosthu2", "http://twitter.com/eosthu", "https://steemit.com/@eosthu" ],
+      "social-links" : [ "http://facebook.com/eosthu2", "http://medium.com/@eosthu", "http://twitter.com/eosthu", "https://steemit.com/@eosthu" ],
       "social-links-count" : 4,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -1616,7 +1616,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.reddit.com/user/dutcheos", "https://medium.com/dutcheos", "https://steemit.com/@eos-nl", "https://twitter.com/DutchEOS" ],
+      "social-links" : [ "https://medium.com/dutcheos", "https://steemit.com/@eos-nl", "https://twitter.com/DutchEOS", "https://www.reddit.com/user/dutcheos" ],
       "social-links-count" : 4,
       "popularity-boosters" : [ "https://cloud.google.com/about/locations/netherlands/" ],
       "popularity-boosters-count" : 1
@@ -1644,7 +1644,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 8,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/MediShares/eos-medishares-testnet", "https://github.com/MediShares", "https://t.me/eosmedishares", "https://steemit.com/@ericfish" ],
+      "social-links" : [ "https://github.com/MediShares", "https://github.com/MediShares/eos-medishares-testnet", "https://steemit.com/@ericfish", "https://t.me/eosmedishares" ],
       "social-links-count" : 4,
       "popularity-boosters" : [ "http://www.medishares.org", "http://www.medishares.org/wallet" ],
       "popularity-boosters-count" : 2
@@ -1672,7 +1672,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/stark_eos", "https://t.me/eostark", "https://steemit.com/@eostark", "Telegram: https://t.me/eostark" ],
+      "social-links" : [ "Telegram: https://t.me/eostark", "https://steemit.com/@eostark", "https://t.me/eostark", "https://twitter.com/stark_eos" ],
       "social-links-count" : 4,
       "popularity-boosters" : [ "Mailto:official@eostark.com" ],
       "popularity-boosters-count" : 1
@@ -1700,9 +1700,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 2,
       "duplicate-urls" : null,
-      "social-links" : [ "https://weibo.com/u/5932149591", "https://steemit.com/@onosocial", "https://t.me/ONOUS", "https://t.me/ONOCN" ],
+      "social-links" : [ "https://steemit.com/@onosocial", "https://t.me/ONOCN", "https://t.me/ONOUS", "https://weibo.com/u/5932149591" ],
       "social-links-count" : 4,
-      "popularity-boosters" : [ "http://36kr.com/p/5117389.html", "http://www.zhulu.vc/", "http://www.inblockchain.com/", "JavaScript:void(0);", "http://gs.holdings/", "http://www.kipvc.com/", "http://www.pinevc.com.cn/", "https://view.inews.qq.com/a/TEC2018013100594903", "http://www.chinagrowthcapital.com/" ],
+      "popularity-boosters" : [ "JavaScript:void(0);", "http://36kr.com/p/5117389.html", "http://gs.holdings/", "http://www.chinagrowthcapital.com/", "http://www.inblockchain.com/", "http://www.kipvc.com/", "http://www.pinevc.com.cn/", "http://www.zhulu.vc/", "https://view.inews.qq.com/a/TEC2018013100594903" ],
       "popularity-boosters-count" : 9
     },
     "p-ram-amounts" : [ ],
@@ -1728,7 +1728,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@hibitfish", "https://t.me/eosfish_en", "https://twitter.com/eosfish", "https://bitcointalk.org/index.php?topic=3435235" ],
+      "social-links" : [ "https://bitcointalk.org/index.php?topic=3435235", "https://steemit.com/@hibitfish", "https://t.me/eosfish_en", "https://twitter.com/eosfish" ],
       "social-links-count" : 4,
       "popularity-boosters" : [ "http://bit.fish" ],
       "popularity-boosters-count" : 1
@@ -1756,9 +1756,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 10,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/eoswz/@eos.wenzhou/introducing-eoswenzhou-block-producer", "https://twitter.com/eoswenzhou", "https://weibo.com/5199822891/info", "https://t.me/EOSwenzhouofficial" ],
+      "social-links" : [ "https://steemit.com/eoswz/@eos.wenzhou/introducing-eoswenzhou-block-producer", "https://t.me/EOSwenzhouofficial", "https://twitter.com/eoswenzhou", "https://weibo.com/5199822891/info" ],
       "social-links-count" : 4,
-      "popularity-boosters" : [ "https://www.shiyin.net/", "https://www.bepal.pro/", "https://steemit.com/", "https://eos.io/", "http://www.block.one/", "http://bit2.beojk.cn/web/v1/web/download" ],
+      "popularity-boosters" : [ "http://bit2.beojk.cn/web/v1/web/download", "http://www.block.one/", "https://eos.io/", "https://steemit.com/", "https://www.bepal.pro/", "https://www.shiyin.net/" ],
       "popularity-boosters-count" : 6
     },
     "p-ram-amounts" : [ ],
@@ -1784,7 +1784,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 6,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.youtube.com/watch?v=ynjmUexzDrQ", "https://steemit.com/eos/@sheos/announcing-sheos-an-all-female-block-producer-candidate", "https://steemit.com/@sheos", "https://www.twitter.com/@cybercodetwins" ],
+      "social-links" : [ "https://steemit.com/@sheos", "https://steemit.com/eos/@sheos/announcing-sheos-an-all-female-block-producer-candidate", "https://www.twitter.com/@cybercodetwins", "https://www.youtube.com/watch?v=ynjmUexzDrQ" ],
       "social-links-count" : 4,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -1812,9 +1812,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/eoscannon", "https://t.me/eos_cannon", "https://steemit.com/@eoscannon", "https://twitter.com/cannon_eos" ],
+      "social-links" : [ "https://github.com/eoscannon", "https://steemit.com/@eoscannon", "https://t.me/eos_cannon", "https://twitter.com/cannon_eos" ],
       "social-links-count" : 4,
-      "popularity-boosters" : [ "https://www.eosio.sg/", "https://bihu.com/people/334485/?index=1", "https://cybex.io/", "https://meet.one/", "https://eosnation.io/", "https://www.wancloud.io/", "http://eoseoul.io/" ],
+      "popularity-boosters" : [ "http://eoseoul.io/", "https://bihu.com/people/334485/?index=1", "https://cybex.io/", "https://eosnation.io/", "https://meet.one/", "https://www.eosio.sg/", "https://www.wancloud.io/" ],
       "popularity-boosters-count" : 7
     },
     "p-ram-amounts" : [ ],
@@ -1842,7 +1842,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "https://t.me/ProChainTech", "https://twitter.com/prochaintech", "https://weibo.com/prochain" ],
       "social-links-count" : 3,
-      "popularity-boosters" : [ "http://www.bbex.io/", "http://www.chainpe.com/", "http://www.jinse.com/", "http://www.atoken.com/", "http://www.linkvc.com/", "http://www.fbg.capital/", "http://www.jdcapital.com/", "http://www.coinsfund.io", "http://www.nodecap.com/", "http://blockchain.capital/", "http://www.collinstar.com/", "https://www.pgyer.com/prabox" ],
+      "popularity-boosters" : [ "http://blockchain.capital/", "http://www.atoken.com/", "http://www.bbex.io/", "http://www.chainpe.com/", "http://www.coinsfund.io", "http://www.collinstar.com/", "http://www.fbg.capital/", "http://www.jdcapital.com/", "http://www.jinse.com/", "http://www.linkvc.com/", "http://www.nodecap.com/", "https://www.pgyer.com/prabox" ],
       "popularity-boosters-count" : 12
     },
     "p-ram-amounts" : [ ],
@@ -1868,9 +1868,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 2,
       "duplicate-urls" : null,
-      "social-links" : [ "http://twitter.com/Eos9C/statuses/1002717527586336768", "http://twitter.com/EOS_io", "http://twitter.com/Eos9C/statuses/1001735206104064003" ],
+      "social-links" : [ "http://twitter.com/EOS_io", "http://twitter.com/Eos9C/statuses/1001735206104064003", "http://twitter.com/Eos9C/statuses/1002717527586336768" ],
       "social-links-count" : 3,
-      "popularity-boosters" : [ "https://eoswalletpro.com/", "http://vote.libertyblock.io/" ],
+      "popularity-boosters" : [ "http://vote.libertyblock.io/", "https://eoswalletpro.com/" ],
       "popularity-boosters-count" : 2
     },
     "p-ram-amounts" : [ ],
@@ -1896,7 +1896,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 7,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/eos_arabia", "https://t.me/eos_arabia", "https://medium.com/eos-arabia" ],
+      "social-links" : [ "https://medium.com/eos-arabia", "https://t.me/eos_arabia", "https://twitter.com/eos_arabia" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -1924,7 +1924,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@eoszon", "https://t.me/eoszon", "https://bp.eosgo.io/listing/eoszon/" ],
+      "social-links" : [ "https://bp.eosgo.io/listing/eoszon/", "https://steemit.com/@eoszon", "https://t.me/eoszon" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ "https://golos.io/@eoszon" ],
       "popularity-boosters-count" : 1
@@ -1952,9 +1952,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 0,
       "duplicate-urls" : null,
-      "social-links" : [ "http://weibo.com/daoeos", "http://twitter.com/daoeosbp", "http://t.me/daoeosbp" ],
+      "social-links" : [ "http://t.me/daoeosbp", "http://twitter.com/daoeosbp", "http://weibo.com/daoeos" ],
       "social-links-count" : 3,
-      "popularity-boosters" : [ "http://support.weixin.qq.com/cgi-bin/mmsupport-bin/addchatroombyinvite?ticket=ARAJDmcZ9v1eorwGsdwLWQ%3D%3D", "http://fb.com/daoeosbp", "http://m1page.com/s/2vpxqj" ],
+      "popularity-boosters" : [ "http://fb.com/daoeosbp", "http://m1page.com/s/2vpxqj", "http://support.weixin.qq.com/cgi-bin/mmsupport-bin/addchatroombyinvite?ticket=ARAJDmcZ9v1eorwGsdwLWQ%3D%3D" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -1980,7 +1980,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 6,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/eos_arabia", "https://t.me/eos_arabia", "https://medium.com/eos-arabia" ],
+      "social-links" : [ "https://medium.com/eos-arabia", "https://t.me/eos_arabia", "https://twitter.com/eos_arabia" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -2008,7 +2008,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 0,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/eos/@jrosich/introducing-eosbarcelona", "https://twitter.com/eosbarcelona", "https://t.me/eosbarcelona" ],
+      "social-links" : [ "https://steemit.com/eos/@jrosich/introducing-eosbarcelona", "https://t.me/eosbarcelona", "https://twitter.com/eosbarcelona" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -2036,7 +2036,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 12,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@eoschainclub/", "http://t.me/eoscc", "https://twitter.com/eoschainclub" ],
+      "social-links" : [ "http://t.me/eoscc", "https://steemit.com/@eoschainclub/", "https://twitter.com/eoschainclub" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -2064,9 +2064,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 11,
       "duplicate-urls" : null,
-      "social-links" : [ "https://weibo.com/u/6524954934?refer_flag=1001030102_&is_all=1", "https://twitter.com/eos_wtz", "https://www.facebook.com/eos.wtz.1" ],
+      "social-links" : [ "https://twitter.com/eos_wtz", "https://weibo.com/u/6524954934?refer_flag=1001030102_&is_all=1", "https://www.facebook.com/eos.wtz.1" ],
       "social-links-count" : 3,
-      "popularity-boosters" : [ "http://testnet.eoswtz.com", "https://steemit.com/", "http://testnet.eoswtz.com/v1/chain/get_info", "https://eos.io/", "http://www.block.one/" ],
+      "popularity-boosters" : [ "http://testnet.eoswtz.com", "http://testnet.eoswtz.com/v1/chain/get_info", "http://www.block.one/", "https://eos.io/", "https://steemit.com/" ],
       "popularity-boosters-count" : 5
     },
     "p-ram-amounts" : [ ],
@@ -2092,7 +2092,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 0,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/greymass/eos-voter", "https://t.me/joinchat/GJ9DERIOoOblc6AotiLv9Q", "https://medium.com/@keos" ],
+      "social-links" : [ "https://github.com/greymass/eos-voter", "https://medium.com/@keos", "https://t.me/joinchat/GJ9DERIOoOblc6AotiLv9Q" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -2120,7 +2120,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/BlockMatrixNetwork", "https://t.me/blockmatrixnetwork", "https://steemit.com/eos/@blockmatrix/block-matrix-eos-io-block-producer-candidate-information" ],
+      "social-links" : [ "https://github.com/BlockMatrixNetwork", "https://steemit.com/eos/@blockmatrix/block-matrix-eos-io-block-producer-candidate-information", "https://t.me/blockmatrixnetwork" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -2148,7 +2148,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 9,
       "duplicate-urls" : null,
-      "social-links" : [ "https://weibo.com/u/6539654198", "https://steemit.com/@geos.one", "https://twitter.com/geos_team" ],
+      "social-links" : [ "https://steemit.com/@geos.one", "https://twitter.com/geos_team", "https://weibo.com/u/6539654198" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ "https://jq.qq.com/?_wv=1027&k=5XTF3SA" ],
       "popularity-boosters-count" : 1
@@ -2176,7 +2176,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.facebook.com/eos.start", "https://twitter.com/Start_EOS", "https://t.me/joinchat/IENskg_cRniy5tuix7GW9w" ],
+      "social-links" : [ "https://t.me/joinchat/IENskg_cRniy5tuix7GW9w", "https://twitter.com/Start_EOS", "https://www.facebook.com/eos.start" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -2204,9 +2204,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 5,
       "duplicate-urls" : null,
-      "social-links" : [ "https://plus.google.com/communities/109881979300958500728", "https://www.facebook.com/Plesk", "https://twitter.com/Plesk" ],
+      "social-links" : [ "https://plus.google.com/communities/109881979300958500728", "https://twitter.com/Plesk", "https://www.facebook.com/Plesk" ],
       "social-links-count" : 3,
-      "popularity-boosters" : [ "https://www.plesk.com", "https://www.plesk.com/", "http://forum.odin.com/", "http://www.odin.com", "http://www.odin.com/", "https://www.plesk.com/blog/", "http://kb.odin.com/" ],
+      "popularity-boosters" : [ "http://forum.odin.com/", "http://kb.odin.com/", "http://www.odin.com", "http://www.odin.com/", "https://www.plesk.com", "https://www.plesk.com/", "https://www.plesk.com/blog/" ],
       "popularity-boosters-count" : 7
     },
     "p-ram-amounts" : [ ],
@@ -2232,9 +2232,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 0,
       "duplicate-urls" : null,
-      "social-links" : [ "https://t.me/eosjrr", "https://steemit.com/@eosjrr", "https://twitter.com/eosjrr" ],
+      "social-links" : [ "https://steemit.com/@eosjrr", "https://t.me/eosjrr", "https://twitter.com/eosjrr" ],
       "social-links-count" : 3,
-      "popularity-boosters" : [ "https://mp.weixin.qq.com/s/4DtS2sMwXVAF7mTrSYV8jQ", "https://mp.weixin.qq.com/s/x32FMtu6TijfiArVEYxp5w", "https://mp.weixin.qq.com/s/ngq2EbL_4yYggrG5-k2SGg" ],
+      "popularity-boosters" : [ "https://mp.weixin.qq.com/s/4DtS2sMwXVAF7mTrSYV8jQ", "https://mp.weixin.qq.com/s/ngq2EbL_4yYggrG5-k2SGg", "https://mp.weixin.qq.com/s/x32FMtu6TijfiArVEYxp5w" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ "RAM" ],
@@ -2288,7 +2288,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 13,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/EOSREN", "https://www.facebook.com/EOSREN", "https://weibo.com/eosren" ],
+      "social-links" : [ "https://twitter.com/EOSREN", "https://weibo.com/eosren", "https://www.facebook.com/EOSREN" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -2344,9 +2344,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 6,
       "duplicate-urls" : null,
-      "social-links" : [ "https://t.me/MeetOneEnglish", "https://twitter.com/MeetDotOne", "https://steemit.com/@meetone" ],
+      "social-links" : [ "https://steemit.com/@meetone", "https://t.me/MeetOneEnglish", "https://twitter.com/MeetDotOne" ],
       "social-links-count" : 3,
-      "popularity-boosters" : [ "http://top.one", "https://mp.weixin.qq.com/s/HrlFws0fUKU5AEC982gakw", "http://bystake.com", "https://mp.weixin.qq.com/s/vblQcI-Hx0niO8bFMtWg_g", "https://mp.weixin.qq.com/s/0o5vDVI7XGgbD7VgxHsjGg", "https://chrome.google.com/webstore/detail/eos-kit/hiaddgihenoiohaoelnclcbjgjjflfhc", "http://ipfs.fund", "https://mp.weixin.qq.com/s/AoJW4-DjUTE8KuW2hT8a-Q", "http://eosio.sg/", "https://eosnation.io/", "https://mp.weixin.qq.com/s/UtijibsoQSJDvdg4vJxa0g", "https://chain.pro", "https://eosindex.io/", "https://mp.weixin.qq.com/s/56smffJc-ddId_A-DONrmg", "https://www.slowmist.com/", "http://eoscannon.io/", "https://mp.weixin.qq.com/s/oM28c196Psdh05Etz3ozvw", "https://new.one", "https://scholartestnet.github.io/" ],
+      "popularity-boosters" : [ "http://bystake.com", "http://eoscannon.io/", "http://eosio.sg/", "http://ipfs.fund", "http://top.one", "https://chain.pro", "https://chrome.google.com/webstore/detail/eos-kit/hiaddgihenoiohaoelnclcbjgjjflfhc", "https://eosindex.io/", "https://eosnation.io/", "https://mp.weixin.qq.com/s/0o5vDVI7XGgbD7VgxHsjGg", "https://mp.weixin.qq.com/s/56smffJc-ddId_A-DONrmg", "https://mp.weixin.qq.com/s/AoJW4-DjUTE8KuW2hT8a-Q", "https://mp.weixin.qq.com/s/HrlFws0fUKU5AEC982gakw", "https://mp.weixin.qq.com/s/UtijibsoQSJDvdg4vJxa0g", "https://mp.weixin.qq.com/s/oM28c196Psdh05Etz3ozvw", "https://mp.weixin.qq.com/s/vblQcI-Hx0niO8bFMtWg_g", "https://new.one", "https://scholartestnet.github.io/", "https://www.slowmist.com/" ],
       "popularity-boosters-count" : 19
     },
     "p-ram-amounts" : [ ],
@@ -2372,7 +2372,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 6,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@zbcom", "https://mobile.twitter.com/ZB_EOS", "https://t.me/ZBEOS" ],
+      "social-links" : [ "https://mobile.twitter.com/ZB_EOS", "https://steemit.com/@zbcom", "https://t.me/ZBEOS" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -2400,9 +2400,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 4,
       "duplicate-urls" : null,
-      "social-links" : [ "http://twitter.com/intent/tweet?text=FINAL+HOME+http%3A%2F%2Feosgravity.com%2F", "https://plus.google.com/share?url=http%3A%2F%2Feosgravity.com%2F", "http://www.facebook.com/share.php?u=http%3A%2F%2Feosgravity.com%2F" ],
+      "social-links" : [ "http://twitter.com/intent/tweet?text=FINAL+HOME+http%3A%2F%2Feosgravity.com%2F", "http://www.facebook.com/share.php?u=http%3A%2F%2Feosgravity.com%2F", "https://plus.google.com/share?url=http%3A%2F%2Feosgravity.com%2F" ],
       "social-links-count" : 3,
-      "popularity-boosters" : [ "http://linkedin.com", "http://47.52.132.92/?page_id=1989", "http://facebook.com" ],
+      "popularity-boosters" : [ "http://47.52.132.92/?page_id=1989", "http://facebook.com", "http://linkedin.com" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -2428,7 +2428,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 13,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.youtube.com/watch?v=k-5aG3YuyYk", "http://t.me/eosauthority", "https://twitter.com/EOSauthority" ],
+      "social-links" : [ "http://t.me/eosauthority", "https://twitter.com/EOSauthority", "https://www.youtube.com/watch?v=k-5aG3YuyYk" ],
       "social-links-count" : 3,
       "popularity-boosters" : [ "https://www.webdigi.co.uk" ],
       "popularity-boosters-count" : 1
@@ -2514,7 +2514,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "https://eosio.github.io/eos/", "https://github.com/eosio" ],
       "social-links-count" : 2,
-      "popularity-boosters" : [ "https://eosblock.co/", "https://dapphub.co/", "https://eos.io/", "http://chainews.io/" ],
+      "popularity-boosters" : [ "http://chainews.io/", "https://dapphub.co/", "https://eos.io/", "https://eosblock.co/" ],
       "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ ],
@@ -2596,7 +2596,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 23,
       "duplicate-urls" : null,
-      "social-links" : [ "https://t.me/joinchat/G5dVyg9NpPfQraDPkX_Pzw", "https://steemit.com/@eosarmy" ],
+      "social-links" : [ "https://steemit.com/@eosarmy", "https://t.me/joinchat/G5dVyg9NpPfQraDPkX_Pzw" ],
       "social-links-count" : 2,
       "popularity-boosters" : [ "http://www.medbroadcast.com/", "https://www.top500.org/list/2017/11/" ],
       "popularity-boosters-count" : 2
@@ -2626,7 +2626,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "https://eosio.github.io/eos/", "https://github.com/eosio" ],
       "social-links-count" : 2,
-      "popularity-boosters" : [ "https://www.kcash.com/", "https://www.eos.io/", "ocx.com", "https://www.btcdo.com/index/home", "www.chainfor.com/", "http://www.block18.io/index" ],
+      "popularity-boosters" : [ "http://www.block18.io/index", "https://www.btcdo.com/index/home", "https://www.eos.io/", "https://www.kcash.com/", "ocx.com", "www.chainfor.com/" ],
       "popularity-boosters-count" : 6
     },
     "p-ram-amounts" : [ ],
@@ -2652,7 +2652,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 4,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.facebook.com/fishone-110929193087471", "https://weibo.com/6516477427/profile?topnav=1&wvr=6&is_all=1" ],
+      "social-links" : [ "https://weibo.com/6516477427/profile?topnav=1&wvr=6&is_all=1", "https://www.facebook.com/fishone-110929193087471" ],
       "social-links-count" : 2,
       "popularity-boosters" : [ "https://bihu.com/people/371720" ],
       "popularity-boosters-count" : 1
@@ -2680,7 +2680,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 17,
       "duplicate-urls" : null,
-      "social-links" : [ "https://medium.com/@staked", "https://github.com/stakedllc/" ],
+      "social-links" : [ "https://github.com/stakedllc/", "https://medium.com/@staked" ],
       "social-links-count" : 2,
       "popularity-boosters" : [ "https://calendly.com/staked/staked-intro-call" ],
       "popularity-boosters-count" : 1
@@ -2708,7 +2708,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 9,
       "duplicate-urls" : null,
-      "social-links" : [ "https://youtu.be/07pLf5lwRCM", "https://t.me/joinchat/GmMqskK4KEV_YDcmjx_Jgw" ],
+      "social-links" : [ "https://t.me/joinchat/GmMqskK4KEV_YDcmjx_Jgw", "https://youtu.be/07pLf5lwRCM" ],
       "social-links-count" : 2,
       "popularity-boosters" : [ "http://www.evatargames.com/" ],
       "popularity-boosters-count" : 1
@@ -2764,9 +2764,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 10,
       "duplicate-urls" : null,
-      "social-links" : [ "https://www.facebook.com/groups/133403804160918", "https://twitter.com/EOStheWorld" ],
+      "social-links" : [ "https://twitter.com/EOStheWorld", "https://www.facebook.com/groups/133403804160918" ],
       "social-links-count" : 2,
-      "popularity-boosters" : [ "https://wordpress.org/plugins/gdpr-cookie-compliance", "https://lodestone-llc.com/" ],
+      "popularity-boosters" : [ "https://lodestone-llc.com/", "https://wordpress.org/plugins/gdpr-cookie-compliance" ],
       "popularity-boosters-count" : 2
     },
     "p-ram-amounts" : [ "RAM", "768 GB of RAM", "3 TB of RAM" ],
@@ -2792,9 +2792,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://twitter.com/Chainrift", "https://t.me/joinchat/F8igdhAWHmc-9ofgY29dPg" ],
+      "social-links" : [ "https://t.me/joinchat/F8igdhAWHmc-9ofgY29dPg", "https://twitter.com/Chainrift" ],
       "social-links-count" : 2,
-      "popularity-boosters" : [ "https://www.chainrift.com/", "https://21mil.com/", "https://cryptoinsider.21mil.com/" ],
+      "popularity-boosters" : [ "https://21mil.com/", "https://cryptoinsider.21mil.com/", "https://www.chainrift.com/" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -2820,7 +2820,7 @@
     "analyzed-urls" : {
       "relative-links-count" : 6,
       "duplicate-urls" : null,
-      "social-links" : [ "https://t.me/eosemerge", "https://steemit.com/@eosemerge" ],
+      "social-links" : [ "https://steemit.com/@eosemerge", "https://t.me/eosemerge" ],
       "social-links-count" : 2,
       "popularity-boosters" : [ ],
       "popularity-boosters-count" : 0
@@ -2850,7 +2850,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "http://www.facebook.com/squarespace", "http://www.linkedin.com/company/squarespace" ],
       "social-links-count" : 2,
-      "popularity-boosters" : [ "http://help.squarespace.com/?t=103959", "http://blog.squarespace.com", "http://www.squarespace.com/privacy", "http://www.squarespace.com/terms", "http://www.squarespace.com", "http://help.squarespace.com/customer/portal/articles/413088-mapping-a-domain-general-instructions" ],
+      "popularity-boosters" : [ "http://blog.squarespace.com", "http://help.squarespace.com/?t=103959", "http://help.squarespace.com/customer/portal/articles/413088-mapping-a-domain-general-instructions", "http://www.squarespace.com", "http://www.squarespace.com/privacy", "http://www.squarespace.com/terms" ],
       "popularity-boosters-count" : 6
     },
     "p-ram-amounts" : [ ],
@@ -2876,9 +2876,9 @@
     "analyzed-urls" : {
       "relative-links-count" : 1,
       "duplicate-urls" : null,
-      "social-links" : [ "https://t.me/EOSViet", "https://steemit.com/@eosvietnam/" ],
+      "social-links" : [ "https://steemit.com/@eosvietnam/", "https://t.me/EOSViet" ],
       "social-links-count" : 2,
-      "popularity-boosters" : [ "http://www.highlandscoffee.com.vn/en/home", "https://athemes.com/theme/sydney", "http://wordpress.org/" ],
+      "popularity-boosters" : [ "http://wordpress.org/", "http://www.highlandscoffee.com.vn/en/home", "https://athemes.com/theme/sydney" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ "RAM" ],
@@ -2934,7 +2934,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "https://bp.eosgo.io/listing/eos-beijing/", "https://twitter.com/eosbeijing" ],
       "social-links-count" : 2,
-      "popularity-boosters" : [ "http://ipads.se.sjtu.edu.cn/", "http://three.modern.themerella.com/about/", "http://three.modern.themerella.com/", "https://www.atoken.com/", "https://www.bituniverse.org/", "http://three.modern.themerella.com/contact/" ],
+      "popularity-boosters" : [ "http://ipads.se.sjtu.edu.cn/", "http://three.modern.themerella.com/", "http://three.modern.themerella.com/about/", "http://three.modern.themerella.com/contact/", "https://www.atoken.com/", "https://www.bituniverse.org/" ],
       "popularity-boosters-count" : 6
     },
     "p-ram-amounts" : [ ],
@@ -2990,7 +2990,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "https://www.youtube.com/?gl=LT&tab=w1" ],
       "social-links-count" : 1,
-      "popularity-boosters" : [ "https://maps.google.lt/maps?hl=lt&tab=wl", "http://www.google.lt/intl/lt/ads/", "https://www.google.lt/intl/lt/options/", "http://www.google.lt/intl/lt/services/", "https://www.google.lt/imghp?hl=lt&tab=wi", "https://news.google.lt/nwshp?hl=lt&tab=wn", "http://www.google.lt/history/optout?hl=lt" ],
+      "popularity-boosters" : [ "http://www.google.lt/history/optout?hl=lt", "http://www.google.lt/intl/lt/ads/", "http://www.google.lt/intl/lt/services/", "https://maps.google.lt/maps?hl=lt&tab=wl", "https://news.google.lt/nwshp?hl=lt&tab=wn", "https://www.google.lt/imghp?hl=lt&tab=wi", "https://www.google.lt/intl/lt/options/" ],
       "popularity-boosters-count" : 7
     },
     "p-ram-amounts" : [ ],
@@ -3018,7 +3018,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "https://bp.eosgo.io/listing/tchain-eos-3/" ],
       "social-links-count" : 1,
-      "popularity-boosters" : [ "http://yeswici.com/ui/w/p/", "https://docs.google.com/forms/d/e/1FAIpQLSeVF97R890_1McAmUvlHAbes25C_7T76-Uzvaf5QrVZktYGwA/viewform", "https://portal.eoseoul.io/", "https://aws.amazon.com/marketplace/pp/B01N9MZQUM?qid=1526595835655&sr=0-1&ref_=srh_res_product_title", "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119201724", "http://deepcybe.com/about", "https://en.wikipedia.org/wiki/KodakCoin", "http://eth.deepcybe.com", "https://aws.amazon.com/marketplace/pp/B01JJ31R8C", "http://eoswashingtondc.com", "https://eospark.com/MainNet/bp/tchaineospro" ],
+      "popularity-boosters" : [ "http://deepcybe.com/about", "http://eoswashingtondc.com", "http://eth.deepcybe.com", "http://yeswici.com/ui/w/p/", "https://aws.amazon.com/marketplace/pp/B01JJ31R8C", "https://aws.amazon.com/marketplace/pp/B01N9MZQUM?qid=1526595835655&sr=0-1&ref_=srh_res_product_title", "https://docs.google.com/forms/d/e/1FAIpQLSeVF97R890_1McAmUvlHAbes25C_7T76-Uzvaf5QrVZktYGwA/viewform", "https://en.wikipedia.org/wiki/KodakCoin", "https://eospark.com/MainNet/bp/tchaineospro", "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119201724", "https://portal.eoseoul.io/" ],
       "popularity-boosters-count" : 11
     },
     "p-ram-amounts" : [ ],
@@ -3102,7 +3102,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate" ],
       "social-links-count" : 1,
-      "popularity-boosters" : [ "https://icokit.me/", "https://tickerry.com/", "https://btcu.biz/main", "http://unit.city/" ],
+      "popularity-boosters" : [ "http://unit.city/", "https://btcu.biz/main", "https://icokit.me/", "https://tickerry.com/" ],
       "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ ],
@@ -3186,7 +3186,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "http://t.me/eosbpac" ],
       "social-links-count" : 1,
-      "popularity-boosters" : [ "https://www.whiterabbiticos.com/", "https://workcoin.net/", "https://springrole.com/", "https://blockv.io/" ],
+      "popularity-boosters" : [ "https://blockv.io/", "https://springrole.com/", "https://workcoin.net/", "https://www.whiterabbiticos.com/" ],
       "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ "RAM" ],
@@ -3242,7 +3242,7 @@
       "duplicate-urls" : null,
       "social-links" : [ "https://github.com/bancorprotocol/liquideos-voting-app" ],
       "social-links-count" : 1,
-      "popularity-boosters" : [ "https://scatter-eos.com/", "https://storage.googleapis.com/liquideos/voting-app/builds/liquideos-vote-windows-1.0.0.zip", "https://www.liquideos.com/", "https://liquideos.com", "https://storage.googleapis.com/liquideos/voting-app/builds/liquideos-vote-macos-1.0.0.zip" ],
+      "popularity-boosters" : [ "https://liquideos.com", "https://scatter-eos.com/", "https://storage.googleapis.com/liquideos/voting-app/builds/liquideos-vote-macos-1.0.0.zip", "https://storage.googleapis.com/liquideos/voting-app/builds/liquideos-vote-windows-1.0.0.zip", "https://www.liquideos.com/" ],
       "popularity-boosters-count" : 5
     },
     "p-ram-amounts" : [ ],
@@ -3274,7 +3274,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.io.FileNotFoundException: https://eospublic.chainrift.com",
+    "http-error" : "class java.io.FileNotFoundException: https://eospublic.chainrift.com (https://eospublic.chainrift.com)",
     "place" : 353
   }, {
     "bp-header" : {
@@ -3302,7 +3302,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.net.ConnectException: Connection timed out (Connection timed out)",
+    "http-error" : "class java.net.ConnectException: Connection timed out (Connection timed out) (https://eosq.io)",
     "place" : 352
   }, {
     "bp-header" : {
@@ -5626,7 +5626,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.net.UnknownHostException: www.cybchain.com",
+    "http-error" : "class java.net.UnknownHostException: www.cybchain.com (http://www.cybchain.com)",
     "place" : 262
   }, {
     "bp-header" : {
@@ -5654,7 +5654,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.io.FileNotFoundException: https://cryptopacific.keybase.pub/",
+    "http-error" : "class java.io.FileNotFoundException: https://cryptopacific.keybase.pub/ (https://cryptopacific.keybase.pub/)",
     "place" : 261
   }, {
     "bp-header" : {
@@ -5850,7 +5850,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.net.ConnectException: Connection refused (Connection refused)",
+    "http-error" : "class java.net.ConnectException: Connection refused (Connection refused) (http://157.238.216.101)",
     "place" : 250
   }, {
     "bp-header" : {
@@ -5958,7 +5958,7 @@
       "duplicate-urls" : null,
       "social-links" : [ ],
       "social-links-count" : 0,
-      "popularity-boosters" : [ "About-us/", "Our-Projects/", "Contacts/" ],
+      "popularity-boosters" : [ "About-us/", "Contacts/", "Our-Projects/" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -6018,7 +6018,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.net.ConnectException: Connection timed out (Connection timed out)",
+    "http-error" : "class java.net.ConnectException: Connection timed out (Connection timed out) (https://eosq.io)",
     "place" : 243
   }, {
     "bp-header" : {
@@ -6214,7 +6214,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+    "http-error" : "class javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target (https://eosplane.top)",
     "place" : 231
   }, {
     "bp-header" : {
@@ -6242,7 +6242,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.io.IOException: Server returned HTTP response code: 503 for URL: https://eosnewzealand.com/bp_info.json",
+    "http-error" : "class java.io.IOException: Server returned HTTP response code: 503 for URL: https://eosnewzealand.com/bp_info.json (https://eosnewzealand.com/bp_info.json)",
     "place" : 230
   }, {
     "bp-header" : {
@@ -6270,7 +6270,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.net.NoRouteToHostException: No route to host (Host unreachable)",
+    "http-error" : "class java.net.NoRouteToHostException: No route to host (Host unreachable) (http://www.eostex.com)",
     "place" : 229
   }, {
     "bp-header" : {
@@ -6322,7 +6322,7 @@
       "duplicate-urls" : null,
       "social-links" : [ ],
       "social-links-count" : 0,
-      "popularity-boosters" : [ "http://sportsminer.games/?cat=24", "http://sportsminer.games/?p=1", "http://sportsminer.games/?cat=26", "http://uranium.famithemes.com/home-3/", "http://uranium.famithemes.com/portfolio/mason-jar/", "http://sportsminer.games/", "http://sportsminer.games/?portfolio_category=ecommerce", "http://sportsminer.games/?p=1210", "http://sportsminer.games/?portfolio_category=ui-design", "http://uranium.famithemes.com/journal/", "http://sportsminer.games/?portfolio=soho-studio", "http://sportsminer.games/?p=1212", "http://sportsminer.games/?cat=1", "http://sportsminer.games/?p=1209", "http://sportsminer.games/?cat=23", "http://sportsminer.games/?cat=21", "http://sportsminer.games/?cat=22", "http://sportsminer.games/?p=124", "http://sportsminer.games/?portfolio=portfolio1", "http://sportsminer.games/?p=1211", "http://sportsminer.games/?cat=25" ],
+      "popularity-boosters" : [ "http://sportsminer.games/", "http://sportsminer.games/?cat=1", "http://sportsminer.games/?cat=21", "http://sportsminer.games/?cat=22", "http://sportsminer.games/?cat=23", "http://sportsminer.games/?cat=24", "http://sportsminer.games/?cat=25", "http://sportsminer.games/?cat=26", "http://sportsminer.games/?p=1", "http://sportsminer.games/?p=1209", "http://sportsminer.games/?p=1210", "http://sportsminer.games/?p=1211", "http://sportsminer.games/?p=1212", "http://sportsminer.games/?p=124", "http://sportsminer.games/?portfolio=portfolio1", "http://sportsminer.games/?portfolio=soho-studio", "http://sportsminer.games/?portfolio_category=ecommerce", "http://sportsminer.games/?portfolio_category=ui-design", "http://uranium.famithemes.com/home-3/", "http://uranium.famithemes.com/journal/", "http://uranium.famithemes.com/portfolio/mason-jar/" ],
       "popularity-boosters-count" : 21
     },
     "p-ram-amounts" : [ ],
@@ -6354,7 +6354,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.io.FileNotFoundException: http://www.whateos.com/BP_info.json/",
+    "http-error" : "class java.io.FileNotFoundException: http://www.whateos.com/BP_info.json/ (http://www.whateos.com/BP_info.json/)",
     "place" : 222
   }, {
     "bp-header" : {
@@ -6382,7 +6382,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: Illegal given domain name: deneos_io.keybase.pub",
+    "http-error" : "class javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: Illegal given domain name: deneos_io.keybase.pub (https://deneos_io.keybase.pub/bp_info.json)",
     "place" : 220
   }, {
     "bp-header" : {
@@ -6466,7 +6466,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+    "http-error" : "class javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target (https://www.eosraychain.com)",
     "place" : 217
   }, {
     "bp-header" : {
@@ -8422,7 +8422,7 @@
       "duplicate-urls" : null,
       "social-links" : [ ],
       "social-links-count" : 0,
-      "popularity-boosters" : [ "http://www.twitter.com", "http://plus.google.com", "http://www.facebook.com", "http://www.linkedin.com" ],
+      "popularity-boosters" : [ "http://plus.google.com", "http://www.facebook.com", "http://www.linkedin.com", "http://www.twitter.com" ],
       "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ ],
@@ -8730,7 +8730,7 @@
       "duplicate-urls" : null,
       "social-links" : [ ],
       "social-links-count" : 0,
-      "popularity-boosters" : [ "https://steemit.com/", "https://eos.io/", "http://www.block.one/" ],
+      "popularity-boosters" : [ "http://www.block.one/", "https://eos.io/", "https://steemit.com/" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -8846,7 +8846,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.net.ConnectException: Connection timed out (Connection timed out)",
+    "http-error" : "class java.net.ConnectException: Connection timed out (Connection timed out) (https://eosvillage.io)",
     "place" : 96
   }, {
     "bp-header" : {
@@ -9178,7 +9178,7 @@
       "duplicate-urls" : null,
       "social-links" : [ ],
       "social-links-count" : 0,
-      "popularity-boosters" : [ ">https://EOS.ROCKS", "https://bitmodel.io", "https://EOS.CASA" ],
+      "popularity-boosters" : [ ">https://EOS.ROCKS", "https://EOS.CASA", "https://bitmodel.io" ],
       "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
@@ -9206,7 +9206,7 @@
       "duplicate-urls" : null,
       "social-links" : [ ],
       "social-links-count" : 0,
-      "popularity-boosters" : [ "https://themeisle.com/themes/hestia/", "http://wordpress.org" ],
+      "popularity-boosters" : [ "http://wordpress.org", "https://themeisle.com/themes/hestia/" ],
       "popularity-boosters-count" : 2
     },
     "p-ram-amounts" : [ ],
@@ -9266,7 +9266,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.io.IOException: Server returned HTTP response code: 504 for URL: http://www.eosjapan.co.jp",
+    "http-error" : "class java.io.IOException: Server returned HTTP response code: 504 for URL: http://www.eosjapan.co.jp (http://www.eosjapan.co.jp)",
     "place" : 65
   }, {
     "bp-header" : {
@@ -9318,7 +9318,7 @@
       "duplicate-urls" : null,
       "social-links" : [ ],
       "social-links-count" : 0,
-      "popularity-boosters" : [ "https://node.eosfans.io/", "https://eosmonitor.io", "https://eosfans.io", "http://www.etoken.me/" ],
+      "popularity-boosters" : [ "http://www.etoken.me/", "https://eosfans.io", "https://eosmonitor.io", "https://node.eosfans.io/" ],
       "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ ],
@@ -9546,7 +9546,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
+    "http-error" : "class javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed (https://oraclechain.io)",
     "place" : 40
   }, {
     "bp-header" : {
@@ -9658,7 +9658,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.io.IOException: Server returned HTTP response code: 504 for URL: http://en.eosbixin.com",
+    "http-error" : null,
     "place" : 32
   }, {
     "bp-header" : {
@@ -9798,7 +9798,7 @@
       "popularity-boosters-count" : 0
     },
     "p-ram-amounts" : [ ],
-    "http-error" : "class java.net.ConnectException: Connection timed out (Connection timed out)",
+    "http-error" : "class java.net.ConnectException: Connection timed out (Connection timed out) (https://www.helloeos.com.cn)",
     "place" : 14
   }, {
     "bp-header" : {
