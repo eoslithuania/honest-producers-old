@@ -82,7 +82,6 @@ fetch("./data/data.json")
         $(function () {
             $('#table').bootstrapTable({
                 data: out['block-producers'],
-                pageList:[10, 50, 100, "All"],
                 columns: [
                     [
                         {
@@ -105,28 +104,6 @@ fetch("./data/data.json")
                         },
                     ],
                     [
-                        //{
-                        //    title: 'Image count',
-                        //    field: 'summary.img-count',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //}, {
-                        //    title: 'Paragraph count',
-                        //    field: 'summary.p-count',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //}, {
-                        //    title: 'Link count',
-                        //    field: 'summary.a-count',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //}
-                        //, {
-                        //    title: 'Relative link count',
-                        //    field: 'analyzed-urls.relative-links-count',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //},
                         {
                             title: 'Social links',
                             field: 'analyzed-urls.social-links-count',
@@ -138,31 +115,6 @@ fetch("./data/data.json")
                             sortable: true,
                             align: 'right',
                         },
-                        //{
-                        //    title: 'Social links',
-                        //    field: 'analyzed-urls.social-links',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //    formatter: multilinkFormatter,
-                        //}, {
-                        //    title: 'Popularity boost links',
-                        //    field: 'analyzed-urls.popularity-boosters',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //    formatter: multilinkFormatter,
-                        //},
-                        //{
-                        //    title: 'err',
-                        //    field: 'http-error',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //},
-                        //{
-                        //    title: 'More',
-                        //    field: 'http-error',
-                        //    sortable: true,
-                        //    align: 'right',
-                        //},
                         {
                             formatter: moreInfoFormatter,
                         },
