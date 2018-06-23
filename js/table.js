@@ -75,7 +75,21 @@ function placeFormatter(placeId) {
     return placeId + 1;
 }
 
-fetch("./data/data.json")
+function isProd() {
+  return !(window.location.href.match(/^file.*/));
+}
+function getDebugDataUrl() {
+  var urlSepIndex = window.location.href.lastIndexOf("/") + 1;
+  return window.location.href.substring(0, urlSepIndex).concat("data.json");
+}
+function getDataUrl() {
+  if(isProd()) {
+    return "https://cleos.sh/eos-data/data/data.json";
+  }
+  return getDebugDataUrl();
+}
+
+fetch(getDataUrl())
     .then(res => res.json())
     .then((out) => {
         mutableDataRef = out;
