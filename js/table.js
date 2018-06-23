@@ -53,7 +53,6 @@ var mutableDataRef = null;
 
 function openMoreInfoDialog(dataRowId) {
     dataRow = mutableDataRef["block-producers"][dataRowId];
-    console.log("Works", dataRow, produceModalListUrls(dataRow["analyzed-urls"]["social-links"]));
     $("#myModal .modal-title") .html(dataRow["bp-header"]["owner"])
     $("#myModal #modal-social-links") .html(produceModalListUrls(dataRow["analyzed-urls"]["social-links"]))
     $("#myModal #modal-self-promotion-links") .html(produceModalListUrls(dataRow["analyzed-urls"]["popularity-boosters"]))
