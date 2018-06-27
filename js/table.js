@@ -93,7 +93,7 @@ fetch(getDataUrl())
     .then((out) => {
         mutableDataRef = out;
         $(function () {
-            $('#snapshot-date-value').html(out['snapshot-date-utc']);
+            $('#snapshot-date-value').html(moment(out['snapshot-date-utc']).fromNow());
             $('#snapshot-date').show();
             $('#table').bootstrapTable({
                 data: out['block-producers'],
