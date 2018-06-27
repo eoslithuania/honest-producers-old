@@ -82,7 +82,7 @@ function getDebugDataUrl() {
   return window.location.href.substring(0, urlSepIndex).concat("data.json");
 }
 function getDataUrl() {
-  if(isProd()) {
+  if(isProd() || window.chrome) {
     return "https://cleos.sh/eos-data/data/data.json";
   }
   return getDebugDataUrl();
