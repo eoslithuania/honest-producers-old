@@ -114,18 +114,18 @@ fetch(getDataUrl())
                             formatter: titleFormatter,
                         },
                         {
-                            title: 'Webpage content summary',
+                            title: 'Webpage links',
                             colspan: 3,
                         },
                     ],
                     [
                         {
-                            title: 'Social links',
+                            title: 'Social',
                             field: 'analyzed-urls.social-links-count',
                             sortable: true,
                             align: 'right',
                         }, {
-                            title: 'Popularity boost links',
+                            title: 'Popularity boost',
                             field: 'analyzed-urls.popularity-boosters-count',
                             sortable: true,
                             align: 'right',
